@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-18T17:02:19.448797+00:00",
+ "generated": "2026-10-18T17:17:15.461999+00:00",
  "games": [
   {
-   "title": "Dinamo Minsk - Ak Bars (russian(by))",
+   "title": "Neuch\u00e2tel HA - HCFG",
    "feeds": [
     {
-     "name": "1080p",
-     "url": "https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8"
+     "name": "1080p redsport",
+     "url": "https://spottredsport.akamaized.net/hls/live/2114618/7177179_1962429/master.m3u8?cid=36558&ecid=9548915&pid=5&dtid=1&sid=01a15003-bf11-78d1-9af3-5f5793590420&gc=87A&gsd=8aI&grm=1&hdnea=exp=1792343845~acl=*/hls/live/2114618*/7177179_1962429/*~data=oug=1,country=US~hmac=68ca90994c972ca6396469458aad38b1d4e1c15c5284bc35af04816c5923eed9&content=2252498"
     }
    ]
   }
