@@ -1,14 +1,4 @@
 {
- "generated": "2026-10-18T17:32:21.202128+00:00",
- "games": [
-  {
-   "title": "Neuch\u00e2tel HA - HCFG",
-   "feeds": [
-    {
-     "name": "1080p redsport",
-     "url": "https://spottredsport.akamaized.net/hls/live/2114618/7177179_1962429/master.m3u8?cid=36558&ecid=9548915&pid=5&dtid=1&sid=01a15011-f412-7d73-9fcd-813b3bb7ac5e&gc=87A&gsd=8aI&grm=1&hdnea=exp=1792344776~acl=*/hls/live/2114618*/7177179_1962429/*~data=oug=1,country=US~hmac=388e9a5a590e8d1b309e1100580d741fd54bc4dffc894084aaab4fbd4f7e6144&content=2252498"
-    }
-   ]
-  }
- ]
+ "generated": "2026-10-18T17:46:50.894497+00:00",
+ "games": []
 }
