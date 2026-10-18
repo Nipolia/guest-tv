@@ -1,15 +1,6 @@
 {
- "generated": "2026-10-18T22:31:54.823643+00:00",
+ "generated": "2026-10-18T22:47:09.133200+00:00",
  "games": [
-  {
-   "title": "Dubuque - US NTDP U17",
-   "feeds": [
-    {
-     "name": "1080p fluidtv",
-     "url": "https://de3wbsjsc1ju9.cloudfront.net/651273671a5a25f1a456092e228190ef/0_hd_hls.m3u8"
-    }
-   ]
-  },
   {
    "title": "Columbus - Minnesota",
    "feeds": [
