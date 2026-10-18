@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-18T07:46:50.776879+00:00",
+ "generated": "2026-10-18T08:01:59.433676+00:00",
  "games": [
   {
    "title": "Boston - Los Angeles",
    "feeds": [
     {
      "name": "432p away",
-     "url": "https://instreams.xyz/live3/F181/index.m3u8?st=LQoMvrrh51YDrG6Pzzs-eQ&e=1792319001"
+     "url": "https://instreams.live/live3/F181/index.m3u8?st=qwH2MudM5r9IP2bboTtB3w&e=1792320681"
     }
    ]
   },
@@ -15,11 +15,11 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://instreams.xyz/live3/F133/index.m3u8?st=zAvtWCop4Awu3W7Ol-Yq4w&e=1792319049"
+     "url": "https://instreams.live/live3/F133/index.m3u8?st=fA7JWO1OevBbUOuzi1jx7g&e=1792320726"
     },
     {
      "name": "720p home",
-     "url": "https://instreams.live/live3/F182/index.m3u8?st=PPBMjZx_Z5j7kyGPui4okA&e=1792319021"
+     "url": "https://instreams.pro/live3/F182/index.m3u8?st=7xyrnQtAGGJDRe77AEtHug&e=1792320703"
     }
    ]
   }
