@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Guest Hockey</title>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script>
+<style>
+  :root { color-scheme: dark; }
+  body { font-family: system-ui, sans-serif; background: #0d1117; color: #e6edf3;
+         margin: 0; padding: 16px; }
+  h1 { font-size: 20px; margin: 4px 0 2px; }
+  #stamp { color: #8b949e; font-size: 13px; margin-bottom: 14px; }
+  h2 { font-size: 16px; margin: 18px 0 8px; color: #7ee0ff; }
+  .feed { display: block; width: 100%; text-align: left; margin: 6px 0; padding: 12px;
+          background: #161b22; color: #e6edf3; border: 1px solid #30363d;
+          border-radius: 8px; font-size: 15px; cursor: pointer; }
+  .feed:hover, .feed:focus { border-color: #7ee0ff; outline: none; }
+  .feed.dead { opacity: .45; text-decoration: line-through; }
+  #playerwrap { margin: 10px 0 4px; display: none; }
+  video { width: 100%; max-height: 62vh; background: #000; border-radius: 8px; }
+  #now { font-size: 14px; color: #8b949e; margin-top: 6px; }
+  #msg { color: #ffb86b; font-size: 14px; min-height: 18px; }
+  .none { color: #8b949e; font-size: 14px; }
+</style>
+</head>
+<body>
+<h1>Guest Hockey</h1>
+<div id="stamp">loading the latest list...</div>
+<div id="msg"></div>
+<div id="playerwrap">
+  <video id="v" controls playsinline></video>
+  <div id="now"></div>
+</div>
+<div id="list"></div>
+
+<script>
+var DATA_URL = null;
+(function () {
+  var m = /#d=([^&]+)/.exec(location.hash || "");
+  if (m) DATA_URL = decodeURIComponent(m[1]);
+})();
+
+var video = document.getElementById('v');
+var wrap = document.getElementById('playerwrap');
+var nowEl = document.getElementById('now');
+var msgEl = document.getElementById('msg');
+var hls = null;
+var currentBtn = null;
+
+function fail(btn, feedName) {
+  if (btn) { btn.classList.add('dead'); btn.disabled = true; }
+  msgEl.textContent = 'That feed did not load. Try another one for this game.';
+  nowEl.textContent = '';
+  wrap.style.display = 'none';
+  if (hls) { try { hls.destroy(); } catch (e) {} hls = null; }
+}
+
+function play(url, name, btn) {
+  msgEl.textContent = '';
+  wrap.style.display = 'block';
+  currentBtn = btn;
+  nowEl.textContent = 'Loading ' + name + ' ...';
+  if (hls) { try { hls.destroy(); } catch (e) {} hls = null; }
+  var settled = false;
+  var timer = setTimeout(function () {
+    if (!settled) fail(btn, name);
+  }, 20000);
+  function ok() {
+    settled = true;
+    clearTimeout(timer);
+    nowEl.textContent = 'Now playing: ' + name;
+  }
+  if (window.Hls && Hls.isSupported()) {
+    hls = new Hls({ maxBufferLength: 30 });
+    hls.loadSource(url);
+    hls.attachMedia(video);
+    hls.on(Hls.Events.MANIFEST_PARSED, function () { ok(); video.play().catch(function(){}); });
+    hls.on(Hls.Events.ERROR, function (ev, data) {
+      if (data && data.fatal && !settled) { settled = true; clearTimeout(timer); fail(btn, name); }
+    });
+  } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+    video.src = url;
+    video.addEventListener('loadedmetadata', ok, { once: true });
+    video.addEventListener('error', function () {
+      if (!settled) { settled = true; clearTimeout(timer); fail(btn, name); }
+    }, { once: true });
+    video.play().catch(function(){});
+  } else {
+    clearTimeout(timer);
+    fail(btn, name);
+  }
+  window.scrollTo(0, 0);
+}
+
+function render(data) {
+  var stamp = document.getElementById('stamp');
+  var when = data.generated ? new Date(data.generated) : null;
+  stamp.textContent = 'List updated ' + (when ? when.toLocaleTimeString() : 'recently')
+    + '. Feeds are checked before they are listed; if one stops working, pick another.';
+  var list = document.getElementById('list');
+  list.innerHTML = '';
+  var games = data.games || [];
+  if (!games.length) {
+    list.innerHTML = '<p class="none">No guest feeds are available right now. '
+      + 'Check back closer to puck drop.</p>';
+    return;
+  }
+  games.forEach(function (g) {
+    var h = document.createElement('h2');
+    h.textContent = g.title;
+    list.appendChild(h);
+    (g.feeds || []).forEach(function (f) {
+      var b = document.createElement('button');
+      b.className = 'feed';
+      b.textContent = f.name;
+      b.onclick = function () { play(f.url, f.name, b); };
+      list.appendChild(b);
+    });
+  });
+}
+
+function fetchData(url) {
+  fetch(url + (url.indexOf('?') >= 0 ? '&' : '?') + 't=' + Date.now())
+    .then(function (r) { return r.json(); })
+    .then(render)
+    .catch(function () {
+      document.getElementById('stamp').textContent =
+        'Could not load the list. Check your connection and refresh.';
+    });
+}
+
+function load() {
+  if (DATA_URL) { fetchData(DATA_URL); return; }
+  // Default discovery: latest commit of the data repo, then the data
+  // file pinned at that commit (always fresh, never cache-stale).
+  fetch('https://api.github.com/repos/Nipolia/guest-tv/commits?per_page=1')
+    .then(function (r) { return r.json(); })
+    .then(function (j) {
+      var sha = j && j[0] && j[0].sha;
+      if (!sha) throw new Error('no sha');
+      fetchData('https://cdn.jsdelivr.net/gh/Nipolia/guest-tv@' + sha + '/data.json');
+    })
+    .catch(function () {
+      document.getElementById('stamp').textContent =
+        'Could not load the list. Check your connection and refresh.';
+    });
+}
+load();
+setInterval(load, 10 * 60 * 1000);
+</script>
+</body>
+</html>
