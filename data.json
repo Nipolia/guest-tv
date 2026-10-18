@@ -1,24 +1,6 @@
 {
- "generated": "2026-10-18T11:02:19.571015+00:00",
+ "generated": "2026-10-18T11:16:59.310345+00:00",
  "games": [
-  {
-   "title": "Krefeld - Eisb\u00e4ren Berlin",
-   "feeds": [
-    {
-     "name": "480p german",
-     "url": "https://a114.azplay49.me/hls/streama268763/index.m3u8?cst=85721bee40a5ece659831fb10ceb3b06"
-    }
-   ]
-  },
-  {
-   "title": "Straubing - Wolfsburg",
-   "feeds": [
-    {
-     "name": "480p german",
-     "url": "https://a94.azplay49.me/hls/streama269159/index.m3u8?cst=31e4d3b34e0431f9bc50c6b81480eddf"
-    }
-   ]
-  },
   {
    "title": "Dinamo Minsk - Ak Bars (russian(by))",
    "feeds": [
