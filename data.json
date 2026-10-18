@@ -1,14 +1,4 @@
 {
- "generated": "2026-10-18T14:02:10.383991+00:00",
- "games": [
-  {
-   "title": "Dinamo Minsk - Ak Bars (russian(by))",
-   "feeds": [
-    {
-     "name": "1080p",
-     "url": "https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8"
-    }
-   ]
-  }
- ]
+ "generated": "2026-10-18T14:17:27.177280+00:00",
+ "games": []
 }
