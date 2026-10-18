@@ -139,7 +139,7 @@ function load() {
     .then(function (j) {
       var sha = j && j[0] && j[0].sha;
       if (!sha) throw new Error('no sha');
-      fetchData('https://cdn.jsdelivr.net/gh/Nipolia/guest-tv@' + sha + '/data.json');
+      fetchData('https://rawcdn.githack.com/Nipolia/guest-tv/' + sha + '/data.json');
     })
     .catch(function () {
       document.getElementById('stamp').textContent =
