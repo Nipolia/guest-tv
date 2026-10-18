@@ -1,27 +1,4 @@
 {
- "generated": "2026-10-18T08:46:54.349790+00:00",
- "games": [
-  {
-   "title": "Boston - Los Angeles",
-   "feeds": [
-    {
-     "name": "432p away",
-     "url": "https://instreams.pro/live3/F181/index.m3u8?st=jbAT-ziRG3piDLwnBnLf_Q&e=1792322361"
-    }
-   ]
-  },
-  {
-   "title": "Edmonton - Utah",
-   "feeds": [
-    {
-     "name": "1080p away",
-     "url": "https://instreams.pro/live3/F133/index.m3u8?st=_5sWGKzOC81tJ_ZgqU6A1w&e=1792322407"
-    },
-    {
-     "name": "720p home",
-     "url": "https://instreams.pro/live3/F182/index.m3u8?st=0O1Ofa6aRQ4TNzjvqvQBQw&e=1792322383"
-    }
-   ]
-  }
- ]
+ "generated": "2026-10-18T09:01:52.892670+00:00",
+ "games": []
 }
