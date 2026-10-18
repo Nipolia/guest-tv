@@ -1,90 +1,12 @@
 {
- "generated": "2026-10-18T02:17:12.604219+00:00",
+ "generated": "2026-10-18T02:32:36.268411+00:00",
  "games": [
-  {
-   "title": "NY - Toronto",
-   "feeds": [
-    {
-     "name": "1080p home",
-     "url": "https://instreams.xyz/live3/F133/index.m3u8?st=UgeVOtnpaxp4w-9jOORurg&e=1792298902"
-    },
-    {
-     "name": "720p away",
-     "url": "https://instreams.pro/live3/F132/index.m3u8?st=8zbUNnbIoOaJTPfHqDU4Xg&e=1792298920"
-    }
-   ]
-  },
-  {
-   "title": "Buffalo - Montr\u00e9al",
-   "feeds": [
-    {
-     "name": "1080p away",
-     "url": "https://instreams.xyz/live3/F140/index.m3u8?st=-bTscx415uXS3LcNOiB-iw&e=1792298951"
-    },
-    {
-     "name": "720p french",
-     "url": "https://instreams.pro/live3/F146/index.m3u8?st=8X2gOdk8e0xyI7eW3CHmQg&e=1792298954"
-    }
-   ]
-  },
-  {
-   "title": "San Jose - Detroit",
-   "feeds": [
-    {
-     "name": "720p home",
-     "url": "https://instreams.pro/live3/F171/index.m3u8?st=5ApMbw1nPLqJLOpcGXsc9A&e=1792298962"
-    },
-    {
-     "name": "720p away",
-     "url": "https://instreams.live/live3/F172/index.m3u8?st=jGq31KshHj0aNqltsCxVDA&e=1792298987"
-    },
-    {
-     "name": "540p home",
-     "url": "https://instreams.xyz/live3/F69/index.m3u8?st=3yTxdPL9JYqWguuP7cQrhw&e=1792298967"
-    }
-   ]
-  },
-  {
-   "title": "Ottawa - Philadelphia",
-   "feeds": [
-    {
-     "name": "1080p away",
-     "url": "https://instreams.xyz/live3/F174/index.m3u8?st=6h5XyZDDWhPhbRGeJAkYaQ&e=1792299020"
-    },
-    {
-     "name": "720p home",
-     "url": "https://instreams.pro/live3/F173/index.m3u8?st=w_Dw6RhZSXChuo_mmm_9-A&e=1792299919"
-    }
-   ]
-  },
-  {
-   "title": "NY - Columbus",
-   "feeds": [
-    {
-     "name": "720p home",
-     "url": "https://instreams.xyz/live3/F175/index.m3u8?st=J66vJ4K_k3-tOqgnOi6dWQ&e=1792299038"
-    },
-    {
-     "name": "720p away",
-     "url": "https://instreams.live/live3/F177/index.m3u8?st=ZGI4jZgWmC48kxPApklCmw&e=1792299047"
-    }
-   ]
-  },
-  {
-   "title": "Dallas - Chicago",
-   "feeds": [
-    {
-     "name": "1080p home",
-     "url": "https://instreams.pro/live3/F178/index.m3u8?st=-BYE33Ma0dW5VtZr6Z-ppg&e=1792299066"
-    }
-   ]
-  },
   {
    "title": "St. Louis - Nashville",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F179/index.m3u8?st=tsKhow7VCqLxaclj97QtKw&e=1792299098"
+     "url": "https://instreams.live/live3/F179/index.m3u8?st=H10hf6mHu3cNqTl-OgaOGQ&e=1792300771"
     }
    ]
   },
@@ -93,7 +15,7 @@
    "feeds": [
     {
      "name": "432p away",
-     "url": "https://instreams.pro/live3/F181/index.m3u8?st=-leZ5JWbGKryebri7sh0UA&e=1792299132"
+     "url": "https://instreams.xyz/live3/F181/index.m3u8?st=7FUVH_t7qOKzMZBB5pn2FQ&e=1792300796"
     }
    ]
   },
@@ -102,20 +24,11 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://instreams.pro/live3/F133/index.m3u8?st=qcnkec1aezeXOWD1TD8A7A&e=1792299171"
+     "url": "https://instreams.live/live3/F133/index.m3u8?st=E-nkRKDHhocBV6fbclVAMw&e=1792300847"
     },
     {
      "name": "720p home",
-     "url": "https://instreams.live/live3/F182/index.m3u8?st=p97vsSwSJkxmHG4Y7Jma0w&e=1792299154"
-    }
-   ]
-  },
-  {
-   "title": "Pittsburgh - Vegas",
-   "feeds": [
-    {
-     "name": "720p away",
-     "url": "https://instreams.xyz/live3/F185/index.m3u8?st=3tT3ZBaAPTCqI0E3F2Wqvw&e=1792299209"
+     "url": "https://instreams.xyz/live3/F182/index.m3u8?st=lYI7ofrzGLucJEybGRfjRg&e=1792300815"
     }
    ]
   }
