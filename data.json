@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-19T07:32:01.476893+00:00",
+ "generated": "2026-10-19T07:46:51.417971+00:00",
  "games": [
   {
    "title": "Carolina - Calgary",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.live/live3/F132/index.m3u8?st=hZWg2G34HD2KIV_3zk6r5w&e=1792404317"
+     "url": "https://instreams.xyz/live3/F132/index.m3u8?st=Y5aJ4tli3T0I5WCraOKSuA&e=1792405996"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.pro/live3/F68/index.m3u8?st=FJ7oJIyGOyjzxzO2qch4qQ&e=1792404317"
+     "url": "https://instreams.pro/live3/F68/index.m3u8?st=2jmRFfRGzKuB6i_1ZNjP6w&e=1792405996"
     }
    ]
   },
