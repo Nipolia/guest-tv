@@ -1,4 +1,27 @@
 {
- "generated": "2026-10-19T16:01:58.893594+00:00",
- "games": []
+ "generated": "2026-10-19T16:19:06.577821+00:00",
+ "games": [
+  {
+   "title": "Dynamo M - Dinamo-Sh.",
+   "feeds": [
+    {
+     "name": "480p Match TV",
+     "url": "https://a114.azplay49.me/hls/streama267727/index.m3u8?cst=a7783a2fb9b49aa4d536d422bc6623fb"
+    },
+    {
+     "name": "480p KHL TV",
+     "url": "https://a114.azplay49.me/hls/streama268027/index.m3u8?cst=0955154b9101c9593b99966f00c3ed05"
+    }
+   ]
+  },
+  {
+   "title": "Severstal - Torpedo Nizhny",
+   "feeds": [
+    {
+     "name": "480p russian",
+     "url": "https://a85.azplay49.me/hls/streama267991/index.m3u8?cst=fdd2b4cb1e9fae922f24c45734abcd25"
+    }
+   ]
+  }
+ ]
 }
