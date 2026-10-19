@@ -1,25 +1,16 @@
 {
- "generated": "2026-10-19T00:32:06.339708+00:00",
+ "generated": "2026-10-19T00:47:13.080963+00:00",
  "games": [
-  {
-   "title": "Columbus - Minnesota",
-   "feeds": [
-    {
-     "name": "720p home",
-     "url": "https://instreams.xyz/live3/F131/index.m3u8?st=_NXqy7buTgKUsVlwVKTIAg&e=1792379447"
-    }
-   ]
-  },
   {
    "title": "Carolina - Calgary",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.pro/live3/F132/index.m3u8?st=q2ZnN49bKudwrW2FPTSUrQ&e=1792379495"
+     "url": "https://instreams.live/live3/F132/index.m3u8?st=HgbSr--7kDxuBAYa1avO7g&e=1792381128"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.pro/live3/F68/index.m3u8?st=x_X4NmOoa8gdHaBZbFCAFg&e=1792379498"
+     "url": "https://instreams.xyz/live3/F68/index.m3u8?st=-wulk7pCQbPkyIZJmW3q_Q&e=1792381128"
     }
    ]
   }
