@@ -1,52 +1,12 @@
 {
- "generated": "2026-10-19T11:02:07.795409+00:00",
+ "generated": "2026-10-19T11:16:55.744985+00:00",
  "games": [
-  {
-   "title": "Amur Khabarovsk - Barys (russian(ru))",
-   "feeds": [
-    {
-     "name": "480p",
-     "url": "https://a75.azplay49.me/hls/streama268027/index.m3u8?cst=81a145d2af6b560a6f6ee0e5314bb25f"
-    }
-   ]
-  },
   {
    "title": "Amur Khabarovsk - Barys (russian(by))",
    "feeds": [
     {
      "name": "1080p",
      "url": "https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8"
-    }
-   ]
-  },
-  {
-   "title": "Admiral - Salavat Yulaev",
-   "feeds": [
-    {
-     "name": "480p russian",
-     "url": "https://a50.azplay49.me/hls/streama267991/index.m3u8?cst=cedacde14ce56e35d25ebb7701362e31"
-    }
-   ]
-  },
-  {
-   "title": "Severstal - Torpedo Nizhny",
-   "feeds": [
-    {
-     "name": "480p russian",
-     "url": "https://a120.azplay49.me/hls/streama267991/index.m3u8?cst=e8818da2fe24a2eb235de27821fdc23b"
-    }
-   ]
-  },
-  {
-   "title": "Dynamo M - Dinamo-Sh.",
-   "feeds": [
-    {
-     "name": "480p Match TV",
-     "url": "https://a121.azplay49.me/hls/streama267727/index.m3u8?cst=67b87ab1654423509f254168d620ff10"
-    },
-    {
-     "name": "480p KHL TV",
-     "url": "https://a118.azplay49.me/hls/streama268027/index.m3u8?cst=0245ba61b875fe809b67248160ab074e"
     }
    ]
   }
