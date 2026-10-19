@@ -1,16 +1,25 @@
 {
- "generated": "2026-10-19T01:32:03.320748+00:00",
+ "generated": "2026-10-19T01:47:02.563489+00:00",
  "games": [
   {
    "title": "Carolina - Calgary",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.pro/live3/F132/index.m3u8?st=23p7cyI7wUMIMk_xen77xw&e=1792382746"
+     "url": "https://instreams.pro/live3/F132/index.m3u8?st=5FtU5pzXkVPcHF7fxGK5Sg&e=1792384367"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.xyz/live3/F68/index.m3u8?st=JAc2eJfGGhdCBrGYU3tq4w&e=1792382746"
+     "url": "https://instreams.xyz/live3/F68/index.m3u8?st=o_ItVSoP036pbSa3vuYBjQ&e=1792384367"
+    }
+   ]
+  },
+  {
+   "title": "Amur Khabarovsk - Barys (russian(by))",
+   "feeds": [
+    {
+     "name": "1080p",
+     "url": "https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8"
     }
    ]
   }
