@@ -1,4 +1,40 @@
 {
- "generated": "2026-10-19T22:17:00.536992+00:00",
- "games": []
+ "generated": "2026-10-19T22:32:02.048073+00:00",
+ "games": [
+  {
+   "title": "Anaheim - NY",
+   "feeds": [
+    {
+     "name": "720p home",
+     "url": "https://instreams.live/live3/F131/index.m3u8?st=iZOCYOSLJ3AR5e_ar9DEKg&e=1792459505"
+    },
+    {
+     "name": "720p away",
+     "url": "https://instreams.pro/live3/F132/index.m3u8?st=15aYwcA-RK_vOb_0SCOLiQ&e=1792459510"
+    }
+   ]
+  },
+  {
+   "title": "Colorado - Philadelphia",
+   "feeds": [
+    {
+     "name": "720p home",
+     "url": "https://instreams.pro/live3/F133/index.m3u8?st=enstrPNGMxvgVphSQPuslw&e=1792459513"
+    },
+    {
+     "name": "540p home",
+     "url": "https://instreams.pro/live3/F69/index.m3u8?st=daIPSS4rEwlTHnH2yEFTlg&e=1792459515"
+    }
+   ]
+  },
+  {
+   "title": "San Jose - Toronto",
+   "feeds": [
+    {
+     "name": "720p away",
+     "url": "https://instreams.pro/live3/F136/index.m3u8?st=b2IkLlbDamqdoIcogxttKQ&e=1792459575"
+    }
+   ]
+  }
+ ]
 }
