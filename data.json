@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T08:32:04.876209+00:00",
+ "generated": "2026-10-19T08:47:03.243377+00:00",
  "games": [
   {
    "title": "Carolina - Calgary",
@@ -15,29 +15,11 @@
    ]
   },
   {
-   "title": "Amur Khabarovsk - Barys (russian(ru))",
-   "feeds": [
-    {
-     "name": "480p",
-     "url": "https://a51.azplay49.me/hls/streama268027/index.m3u8?cst=112b347908705c4a3a7cff26072dd407"
-    }
-   ]
-  },
-  {
    "title": "Amur Khabarovsk - Barys (russian(by))",
    "feeds": [
     {
      "name": "1080p",
      "url": "https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8"
-    }
-   ]
-  },
-  {
-   "title": "Admiral - Salavat Yulaev",
-   "feeds": [
-    {
-     "name": "480p russian",
-     "url": "https://a52.azplay49.me/hls/streama267991/index.m3u8?cst=5e4fcf8cb93b9b60d66e917cc55d6e99"
     }
    ]
   }
