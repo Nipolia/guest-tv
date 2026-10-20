@@ -1,15 +1,6 @@
 {
- "generated": "2026-10-20T18:47:01.124696+00:00",
+ "generated": "2026-10-20T19:02:17.579506+00:00",
  "games": [
-  {
-   "title": "Karlovy Vary - Kometa Brno",
-   "feeds": [
-    {
-     "name": "russian",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2d81d8192bb76ce1c4/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMWM0OjE3OTI1MzYxNDMzNzY6Y2RubGl2ZXR2LmlzOjAwNmU5N2YwZGIwNThhZDkuODcwYzJmMWY0ZTk0NGUwMWE3NmRiMWQzNmQ1YmZkNzkzMzU4YzJmODM4Zjg5OGUxNzAzOTI3Yjk1NGQxZGU0Mg"
-    }
-   ]
-  },
   {
    "title": "Gen\u00e8ve-Servette - Lugano",
    "feeds": [
