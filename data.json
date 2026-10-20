@@ -1,15 +1,6 @@
 {
- "generated": "2026-10-20T17:32:19.886797+00:00",
+ "generated": "2026-10-20T17:47:21.887301+00:00",
  "games": [
-  {
-   "title": "Karlovy Vary - Kometa Brno",
-   "feeds": [
-    {
-     "name": "576p russian",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2d81d8192bb76ce1c4/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMWM0OjE3OTI1MzA5MzA2MDM6Y2RubGl2ZXR2LmlzOmQzMzVlZmM5NWFkOTQ4YmQuZTZhNzc3MTM5OTY3ZjgzY2U1OWY3ZjJkYWUwNjk3M2FhMzEzNzA3MzA2MTFhMjM0OWE2NjFlMWY1NTczYmM5NQ"
-    }
-   ]
-  },
   {
    "title": "SKA - Avtomobilist (russian(ru))",
    "feeds": [
