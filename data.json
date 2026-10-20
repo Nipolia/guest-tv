@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-20T16:47:00.729111+00:00",
+ "generated": "2026-10-20T17:02:16.567849+00:00",
  "games": [
   {
    "title": "SKA - Avtomobilist (russian(ru))",
    "feeds": [
     {
      "name": "720p",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2d81d8192bb76ce150/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTUwOjE3OTI1Mjc4MDU5NjU6Y2RubGl2ZXR2LmlzOmNlMzNhMmEzYTc5ZGI5OTUuOWU4NjEzZjI3NDhmMmI4NDQ4MWI1YWFmODUxOTMwOGE2Y2RiM2U3OWE2MzcxMzAwMjUwMWY2NDAxZDE3NmRkMg"
+     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2d81d8192bb76ce150/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTUwOjE3OTI1MjkxOTQ0OTU6Y2RubGl2ZXR2LmlzOmIwNWM3ZDAxNDBmYmE4NzMuYTJlYmRiNWU5N2NiYzA0YTdlMDIxZDJmODYyNmE0N2JmOGJlMmY2ZDcxYTI1MjEyZjMwNGYzNTM4ZDdiNmNmMA"
     }
    ]
   },
@@ -16,6 +16,15 @@
     {
      "name": "1080p",
      "url": "https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8"
+    }
+   ]
+  },
+  {
+   "title": "Gen\u00e8ve-Servette - Lugano",
+   "feeds": [
+    {
+     "name": "720p italian",
+     "url": "https://vstream-cdn.ch/hls/teleticino.m3u8"
     }
    ]
   }
