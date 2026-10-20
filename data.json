@@ -1,14 +1,4 @@
 {
- "generated": "2026-10-20T20:02:20.544289+00:00",
- "games": [
-  {
-   "title": "Gen\u00e8ve-Servette - Lugano",
-   "feeds": [
-    {
-     "name": "720p italian",
-     "url": "https://vstream-cdn.ch/hls/teleticino.m3u8"
-    }
-   ]
-  }
- ]
+ "generated": "2026-10-20T20:17:00.241906+00:00",
+ "games": []
 }
