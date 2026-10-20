@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-20T06:17:10.798104+00:00",
+ "generated": "2026-10-20T06:32:06.660331+00:00",
  "games": [
   {
    "title": "Anaheim - NY",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.pro/live3/F131/index.m3u8?st=PI3UefxOHzPRF2FncAQjtA&e=1792485816"
+     "url": "https://instreams.live/live3/F131/index.m3u8?st=elQYAjUYTWDxMOBGcE4h_w&e=1792487658"
     },
     {
      "name": "720p away",
-     "url": "https://gate4.st/live3/F132/index.m3u8?st=IPxT-bfcDlG-6A8QoDIQSQ&e=1792485850"
+     "url": "https://instreams.live/live3/F132/index.m3u8?st=2C_5Q__MEvXrHXfPO0CCTg&e=1792487690"
     }
    ]
   },
@@ -19,11 +19,11 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://gate4.st/live3/F134/index.m3u8?st=PH_d4qQE5AqwjTK38TBk1Q&e=1792485892"
+     "url": "https://instreams.pro/live3/F134/index.m3u8?st=b-pQPA13igstA8yoG-JvnQ&e=1792487731"
     },
     {
      "name": "720p home",
-     "url": "https://instreams.live/live3/F133/index.m3u8?st=MOmPJqvLNusX_np2A18RxA&e=1792485869"
+     "url": "https://instreams.live/live3/F133/index.m3u8?st=pusmD9QN_xiq5j88FYgnwg&e=1792487706"
     }
    ]
   },
@@ -32,7 +32,7 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.live/live3/F136/index.m3u8?st=bSYHoWRihU6xRrwsjyG3Ow&e=1792486003"
+     "url": "https://instreams.live/live3/F136/index.m3u8?st=ylGViVUg_QCBUPjGR5rGuw&e=1792487827"
     }
    ]
   },
@@ -41,15 +41,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.pro/live3/F137/index.m3u8?st=6s9tQQDdhy6x4OzbwOnuYA&e=1792486044"
+     "url": "https://instreams.live/live3/F137/index.m3u8?st=IcoAPdpxQl-CjH0UEUQ2nA&e=1792487863"
     },
     {
      "name": "720p away",
-     "url": "https://gate4.st/live3/F138/index.m3u8?st=D6RK35maYHjXJGytq9vLKw&e=1792486060"
-    },
-    {
-     "name": "540p home",
-     "url": "https://instreams.live/live3/F68/index.m3u8?st=bVgpwBNfLqY5J2HR3-HDLg&e=1792486045"
+     "url": "https://gate4.st/live3/F138/index.m3u8?st=aK8jvU83C1d2H6J5mmO4pQ&e=1792487885"
     }
    ]
   }
