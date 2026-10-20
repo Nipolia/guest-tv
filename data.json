@@ -1,12 +1,16 @@
 {
- "generated": "2026-10-20T05:17:30.611654+00:00",
+ "generated": "2026-10-20T05:32:06.959165+00:00",
  "games": [
   {
    "title": "Anaheim - NY",
    "feeds": [
     {
+     "name": "720p home",
+     "url": "https://instreams.xyz/live3/F131/index.m3u8?st=XFC-RLyouqKshgFxfut1AA&e=1792484005"
+    },
+    {
      "name": "720p away",
-     "url": "https://gate4.st/live3/F132/index.m3u8?st=GeoInhGGTAY9PImponNorw&e=1792482185"
+     "url": "https://instreams.xyz/live3/F132/index.m3u8?st=k4_lLMqWuObIqJEPz4XDdQ&e=1792484034"
     }
    ]
   },
@@ -15,11 +19,11 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://instreams.pro/live3/F134/index.m3u8?st=jMrcYSLiS_4GQzr-a2IXgw&e=1792482237"
+     "url": "https://instreams.pro/live3/F134/index.m3u8?st=zroPpPer9Eh9llM4AECiBA&e=1792484082"
     },
     {
      "name": "720p home",
-     "url": "https://instreams.pro/live3/F133/index.m3u8?st=2Qfl9xNBRqMPTHTf4qud_Q&e=1792482202"
+     "url": "https://gate4.st/live3/F133/index.m3u8?st=CY9BeUMuqBl9ma43AGUG_g&e=1792484053"
     }
    ]
   },
@@ -28,7 +32,7 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F136/index.m3u8?st=u7NMVnqMuPMsGh65GWtraA&e=1792482336"
+     "url": "https://instreams.pro/live3/F136/index.m3u8?st=aZ4-xIOSLmlNVqcptbS-LQ&e=1792484167"
     }
    ]
   },
@@ -37,11 +41,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.xyz/live3/F137/index.m3u8?st=VMfY1fFQnkN8Tc5nGUd9ug&e=1792482372"
+     "url": "https://instreams.pro/live3/F137/index.m3u8?st=dgGAwawu5saPRNVpf9Fgig&e=1792484202"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.pro/live3/F138/index.m3u8?st=RPRlrtfUmw0sqYtHv5BX0w&e=1792482391"
+     "url": "https://instreams.xyz/live3/F138/index.m3u8?st=gsH2q-cG5dIsWSNj_FwDQg&e=1792484222"
     }
    ]
   }
