@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-20T23:19:23.145868+00:00",
+ "generated": "2026-10-20T23:32:10.628705+00:00",
  "games": [
   {
    "title": "San Jose - Montr\u00e9al",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F131/index.m3u8?st=WzMfOWVzYx98JIkDbArCBw&e=1792547185"
+     "url": "https://instreams.pro/live3/F131/index.m3u8?st=AX_p1QXrEGsKxwPGJV5Pyw&e=1792548956"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F132/index.m3u8?st=KSCzJbaxYeLGnDwP9c9XYg&e=1792547208"
+     "url": "https://instreams.pro/live3/F132/index.m3u8?st=963jIOLzIufg2rxHeKzjuw&e=1792548983"
     }
    ]
   },
@@ -19,11 +19,11 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://instreams.live/live3/F134/index.m3u8?st=wqyhc7Dreo4OrMvpbglvXg&e=1792547253"
+     "url": "https://gate4.st/live3/F134/index.m3u8?st=RbwLaZ5vtASTXxaaefPfpg&e=1792549034"
     },
     {
      "name": "576p home",
-     "url": "https://instreams.pro/live3/F133/index.m3u8?st=wVpu4JEIhTxWIYEcKC15AQ&e=1792547236"
+     "url": "https://instreams.xyz/live3/F133/index.m3u8?st=Z54tGjsGmvIGy1f2pK9g7A&e=1792549016"
     }
    ]
   },
@@ -32,11 +32,15 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.live/live3/F135/index.m3u8?st=CvCXHBq9Eq2XyYn_6MgTeA&e=1792547267"
+     "url": "https://instreams.live/live3/F135/index.m3u8?st=wu90uILcR-i9tCPiFiUQqA&e=1792549055"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F136/index.m3u8?st=J3_JiX6lMFNKKvkUTrvHDQ&e=1792547282"
+     "url": "https://instreams.pro/live3/F136/index.m3u8?st=Kuxtmyp7WRyEVae6x5XXVQ&e=1792549076"
+    },
+    {
+     "name": "576p home",
+     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2c81d8192bb76cd69f/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNjlmOjE3OTI1NTI2NzgyNjM6Y2RubGl2ZXR2LmlzOmZjZWQ0NTZkMTBhOTI3YzAuYjgxM2JiOTkzZGJmZjhlZTczNjBlNTVhYWZhMmY0OGZkMjEyM2RlMmVhYjZiN2U4MGU4MWU4MWQ2MTE0ZDRiNg"
     }
    ]
   },
@@ -45,11 +49,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.live/live3/F137/index.m3u8?st=IlxijVT2bXpe1Dlus5ZxrQ&e=1792547288"
+     "url": "https://gate4.st/live3/F137/index.m3u8?st=SqsumJOT4KfAVdbdmaxFhg&e=1792549096"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.live/live3/F68/index.m3u8?st=7yUkOrZJQ3LOgZRi4EwC_Q&e=1792547291"
+     "url": "https://instreams.pro/live3/F68/index.m3u8?st=2n2xcYvteaDxRJS3oL3ZOg&e=1792549100"
     }
    ]
   },
@@ -58,11 +62,33 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://gate4.st/live3/F138/index.m3u8?st=9gmf6MZIf30SoU_CPn5iiw&e=1792547336"
+     "url": "https://instreams.live/live3/F138/index.m3u8?st=wXRZWvub5jxPo0AnfjgGsA&e=1792549138"
     },
     {
      "name": "1080p away",
-     "url": "https://instreams.xyz/live3/F139/index.m3u8?st=zPy5eqmfmUelJ9YyrNvxGw&e=1792547355"
+     "url": "https://gate4.st/live3/F139/index.m3u8?st=99YnsvuaZA-rFOF1e0R-yg&e=1792549160"
+    }
+   ]
+  },
+  {
+   "title": "Winnipeg - St. Louis",
+   "feeds": [
+    {
+     "name": "720p away",
+     "url": "https://instreams.live/live3/F171/index.m3u8?st=Lgi3NzMcbONW5txpW5okaQ&e=1792549184"
+    }
+   ]
+  },
+  {
+   "title": "Boston - Dallas",
+   "feeds": [
+    {
+     "name": "720p english",
+     "url": "https://instreams.xyz/live3/F172/index.m3u8?st=g0kwhtSP-EoLnqfUjxd02g&e=1792549195"
+    },
+    {
+     "name": "720p english",
+     "url": "https://gate4.st/live3/F111/index.m3u8?st=E38XERy8RSRj-47MFKdc6Q&e=1792549198"
     }
    ]
   }
