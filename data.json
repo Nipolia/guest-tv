@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T04:17:31.513653+00:00",
+ "generated": "2026-10-20T04:32:11.602052+00:00",
  "games": [
   {
    "title": "Anaheim - NY",
@@ -22,7 +22,7 @@
      "url": "https://gate4.st/live3/F134/index.m3u8?st=_CP0JlCrb0CZuhckYfQiOw&e=1792480456"
     },
     {
-     "name": "home",
+     "name": "720p home",
      "url": "https://gate4.st/live3/F133/index.m3u8?st=F-7HRwDY-ZbpKIAgYS0Xcw&e=1792480431"
     }
    ]
@@ -32,7 +32,7 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.pro/live3/F136/index.m3u8?st=atOg1CXRQo6URsQjpr2BwA&e=1792480527"
+     "url": "https://instreams.live/live3/F136/index.m3u8?st=lom9uBgIEepljPJZRcNIqg&e=1792481105"
     }
    ]
   },
@@ -46,23 +46,6 @@
     {
      "name": "720p away",
      "url": "https://instreams.pro/live3/F138/index.m3u8?st=EclUS7kHo950ypCb8QdQsg&e=1792480580"
-    }
-   ]
-  },
-  {
-   "title": "Taifun - Spartak MAH",
-   "feeds": [
-    {
-     "name": "480p KHL Prime",
-     "url": "https://a90.azplay49.me/hls/streama267991/index.m3u8?cst=20c2b8119994dfa166c51b6a4dc855b7"
-    },
-    {
-     "name": "480p KHL TV",
-     "url": "https://a85.azplay49.me/hls/streama268027/index.m3u8?cst=034b3efa81e5517c996be27c8ee0e006"
-    },
-    {
-     "name": "480p KHL TV",
-     "url": "https://a25.azplay49.me/hls/streama266590/index.m3u8?cst=b293e327c555d681ae5d91a55ac03c0e"
     }
    ]
   }
