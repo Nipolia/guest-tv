@@ -1,6 +1,15 @@
 {
- "generated": "2026-10-20T16:17:16.379507+00:00",
+ "generated": "2026-10-20T16:32:14.398015+00:00",
  "games": [
+  {
+   "title": "SKA - Avtomobilist (russian(ru))",
+   "feeds": [
+    {
+     "name": "720p",
+     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2d81d8192bb76ce150/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTUwOjE3OTI1Mjc4MDU5NjU6Y2RubGl2ZXR2LmlzOmNlMzNhMmEzYTc5ZGI5OTUuOWU4NjEzZjI3NDhmMmI4NDQ4MWI1YWFmODUxOTMwOGE2Y2RiM2U3OWE2MzcxMzAwMjUwMWY2NDAxZDE3NmRkMg"
+    }
+   ]
+  },
   {
    "title": "SKA - Avtomobilist (russian(by))",
    "feeds": [
