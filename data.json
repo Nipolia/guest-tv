@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-20T22:17:07.210185+00:00",
+ "generated": "2026-10-20T22:32:12.064753+00:00",
  "games": [
   {
    "title": "San Jose - Montr\u00e9al",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.live/live3/F131/index.m3u8?st=YNwvMQ-IvGHfrOSuCjsyaQ&e=1792543796"
+     "url": "https://instreams.xyz/live3/F131/index.m3u8?st=QnNTH8Mj2JsVKHUF-gSIJQ&e=1792545476"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.pro/live3/F132/index.m3u8?st=s2FCLPFuVZfxQaBZhZY4zg&e=1792543804"
+     "url": "https://instreams.xyz/live3/F132/index.m3u8?st=o2HL8sw_Hi3xnGdRu9QrIA&e=1792545489"
     }
    ]
   },
@@ -19,11 +19,11 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://instreams.xyz/live3/F134/index.m3u8?st=FZDxuzHGqOQXol4w36oDzQ&e=1792543843"
+     "url": "https://instreams.xyz/live3/F134/index.m3u8?st=CWUKfhSyFAzfapk74pU_fw&e=1792545533"
     },
     {
      "name": "576p home",
-     "url": "https://instreams.pro/live3/F133/index.m3u8?st=j98QyC3FrwxqYFdBSHihnw&e=1792543826"
+     "url": "https://instreams.xyz/live3/F133/index.m3u8?st=_Yivg6sRjge5NstpJnDG1w&e=1792545513"
     }
    ]
   },
@@ -32,11 +32,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://gate4.st/live3/F135/index.m3u8?st=64iHAG9VOYoLCNopEViNqA&e=1792543850"
+     "url": "https://instreams.live/live3/F135/index.m3u8?st=k8pJ-4lF9P9MwUa5UTYIZg&e=1792545538"
     },
     {
      "name": "720p away",
-     "url": "https://gate4.st/live3/F136/index.m3u8?st=EtzxOYASK8zXSj1oRp_wdA&e=1792543861"
+     "url": "https://instreams.live/live3/F136/index.m3u8?st=CXQ70xZxE_69umrW9rsApQ&e=1792545554"
     }
    ]
   },
@@ -45,11 +45,15 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.pro/live3/F137/index.m3u8?st=vTLZk-2Y_Dp2KOZ15RlbHw&e=1792543863"
+     "url": "https://instreams.live/live3/F137/index.m3u8?st=6UEfUtnl4t251XJm2OHJvg&e=1792545557"
+    },
+    {
+     "name": "1080p home",
+     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc35e/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzVlOjE3OTI1NDk3MTAyOTE6Y2RubGl2ZXR2LmlzOmZkODJhOTlhNmIwMzkxYmIuMGNiYmE1MjhiYjkyZmJiNjA1MTVkNzIzNzgzNmJhNzg1N2FjYjk4ZDhlYzdjNzY4OTc0NjQ1MmZkNDc5ZDFiNw"
     },
     {
      "name": "540p home",
-     "url": "https://gate4.st/live3/F68/index.m3u8?st=23154T2APkyBOkPU3b_zTw&e=1792543866"
+     "url": "https://gate4.st/live3/F68/index.m3u8?st=HZMyV6p27kCm36u1zHQ5Ag&e=1792545558"
     }
    ]
   },
@@ -58,11 +62,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://gate4.st/live3/F138/index.m3u8?st=nAT3BHKoaKBNgRXDOl9lpg&e=1792543892"
+     "url": "https://instreams.xyz/live3/F138/index.m3u8?st=XPxe0NvksnZ0SV5vPl1-9g&e=1792545585"
     },
     {
      "name": "1080p away",
-     "url": "https://instreams.live/live3/F139/index.m3u8?st=UvXGGFyEMkenCLmt5b93bg&e=1792543900"
+     "url": "https://instreams.live/live3/F139/index.m3u8?st=U4_YiAN1JtWShbsrtqAK8A&e=1792545598"
     }
    ]
   }
