@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-20T00:47:09.795002+00:00",
+ "generated": "2026-10-20T01:02:15.271010+00:00",
  "games": [
   {
    "title": "Anaheim - NY",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://gate4.st/live3/F131/index.m3u8?st=YxjYP91wRi9hAoZxXC13XA&e=1792466282"
+     "url": "https://instreams.live/live3/F131/index.m3u8?st=V6UIOCn67NriNFz99xvnsg&e=1792467992"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F132/index.m3u8?st=8G5kUkczRLUdbUyrnHc8Jg&e=1792466307"
+     "url": "https://instreams.xyz/live3/F132/index.m3u8?st=2ImZZcZ8QIPq9SXVm8Zr3Q&e=1792468014"
     }
    ]
   },
@@ -19,11 +19,15 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://instreams.pro/live3/F134/index.m3u8?st=SbaMuwkEX-cCQoJQzhUiCQ&e=1792466345"
+     "url": "https://gate4.st/live3/F134/index.m3u8?st=EkgqfCNdzO0rLlQLjLqApQ&e=1792468049"
     },
     {
      "name": "720p home",
-     "url": "https://instreams.live/live3/F133/index.m3u8?st=E5Ad5XSvVV6122-DbYTMgQ&e=1792466323"
+     "url": "https://instreams.xyz/live3/F133/index.m3u8?st=xTtCLErsCXtnc3ujHfFQKg&e=1792468025"
+    },
+    {
+     "name": "540p away",
+     "url": "https://instreams.live/live3/F69/index.m3u8?st=aTg8hlNfX95BKVwrARsyfw&e=1792468051"
     }
    ]
   },
@@ -32,7 +36,7 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.pro/live3/F136/index.m3u8?st=iiNYN_OxXRQcip-E0cQDIg&e=1792466401"
+     "url": "https://instreams.live/live3/F136/index.m3u8?st=HEbf4AXnlt1MTT-Y6tMipg&e=1792468109"
     }
    ]
   },
@@ -41,15 +45,15 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.pro/live3/F137/index.m3u8?st=4GhI8R6JVlN7ow_rE3b3uw&e=1792466422"
+     "url": "https://instreams.xyz/live3/F137/index.m3u8?st=s8FXRa3TjGOKFvUERuHQiA&e=1792468134"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.pro/live3/F138/index.m3u8?st=ZRLkJ4rLjfVb2asxjZMGOg&e=1792466440"
+     "url": "https://instreams.pro/live3/F138/index.m3u8?st=CEvWmicn0Jj9ohjCAYIkrw&e=1792468155"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.xyz/live3/F68/index.m3u8?st=Ohied0mgIe2a0CINo9-67A&e=1792466424"
+     "url": "https://instreams.live/live3/F68/index.m3u8?st=Xol7V9UX3prMu0T8djlgmA&e=1792468137"
     }
    ]
   }
