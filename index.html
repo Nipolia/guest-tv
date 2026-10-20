@@ -142,15 +142,20 @@ function load() {
   // the unauthenticated GitHub API is rate-limited per IP and dies on
   // shared/NAT addresses), then fall back to commit-SHA discovery.
   var sources = [
-    'https://rawcdn.githack.com/Nipolia/guest-tv/main/data.json',
-    'https://cdn.jsdelivr.net/gh/Nipolia/guest-tv@main/data.json'
+    'https://cdn.jsdelivr.net/gh/Nipolia/guest-tv@main/data.json',
+    'https://raw.githubusercontent.com/Nipolia/guest-tv/main/data.json',
+    'https://rawcdn.githack.com/Nipolia/guest-tv/main/data.json'
   ];
   var i = 0;
   function next() {
     if (i >= sources.length) { discover(); return; }
     fetchJson(sources[i++])
       .then(function (d) {
-        if (!d || !d.games) throw new Error('bad data');
+        // An empty games list from a CDN copy is treated as a miss:
+        // both CDNs have served stale empty copies while a fresher
+        // source had the real list. Fall through and let the next
+        // source (or SHA discovery) answer instead.
+        if (!d || !d.games || !d.games.length) throw new Error('bad data');
         render(d);
       })
       .catch(next);
