@@ -1,4 +1,74 @@
 {
- "generated": "2026-10-20T21:47:00.338514+00:00",
- "games": []
+ "generated": "2026-10-20T22:02:21.014172+00:00",
+ "games": [
+  {
+   "title": "San Jose - Montr\u00e9al",
+   "feeds": [
+    {
+     "name": "720p home",
+     "url": "https://instreams.live/live3/F131/index.m3u8?st=YNwvMQ-IvGHfrOSuCjsyaQ&e=1792543796"
+    },
+    {
+     "name": "720p away",
+     "url": "https://instreams.pro/live3/F132/index.m3u8?st=s2FCLPFuVZfxQaBZhZY4zg&e=1792543804"
+    }
+   ]
+  },
+  {
+   "title": "Colorado - New Jersey",
+   "feeds": [
+    {
+     "name": "1080p away",
+     "url": "https://instreams.xyz/live3/F134/index.m3u8?st=FZDxuzHGqOQXol4w36oDzQ&e=1792543843"
+    },
+    {
+     "name": "576p home",
+     "url": "https://instreams.pro/live3/F133/index.m3u8?st=j98QyC3FrwxqYFdBSHihnw&e=1792543826"
+    }
+   ]
+  },
+  {
+   "title": "Anaheim - NY",
+   "feeds": [
+    {
+     "name": "720p home",
+     "url": "https://gate4.st/live3/F135/index.m3u8?st=64iHAG9VOYoLCNopEViNqA&e=1792543850"
+    },
+    {
+     "name": "720p away",
+     "url": "https://gate4.st/live3/F136/index.m3u8?st=EtzxOYASK8zXSj1oRp_wdA&e=1792543861"
+    }
+   ]
+  },
+  {
+   "title": "Los Angeles - Washington",
+   "feeds": [
+    {
+     "name": "1080p home",
+     "url": "https://instreams.pro/live3/F137/index.m3u8?st=vTLZk-2Y_Dp2KOZ15RlbHw&e=1792543863"
+    },
+    {
+     "name": "1080p home",
+     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc35e/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzVlOjE3OTI1NDc0ODY4ODE6Y2RubGl2ZXR2LmlzOjc5NzU5ZjhmMWM5NjJjZDUuMjY2MjkxYWQ2ZWExYzlkOGNhNTA4NTg5MzI2YjI4MDdmNGE3ZTM4NmRlZWY5MTU3NDk3ZDcxNGQ4OTk3NThjYg"
+    },
+    {
+     "name": "540p home",
+     "url": "https://gate4.st/live3/F68/index.m3u8?st=23154T2APkyBOkPU3b_zTw&e=1792543866"
+    }
+   ]
+  },
+  {
+   "title": "Toronto - Columbus",
+   "feeds": [
+    {
+     "name": "1080p home",
+     "url": "https://gate4.st/live3/F138/index.m3u8?st=nAT3BHKoaKBNgRXDOl9lpg&e=1792543892"
+    },
+    {
+     "name": "1080p away",
+     "url": "https://instreams.live/live3/F139/index.m3u8?st=UvXGGFyEMkenCLmt5b93bg&e=1792543900"
+    }
+   ]
+  }
+ ]
 }
