@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-20T03:17:07.168520+00:00",
+ "generated": "2026-10-20T03:32:12.959198+00:00",
  "games": [
   {
    "title": "Anaheim - NY",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F131/index.m3u8?st=3ttYoNu9-h_5pVVeawH54g&e=1792475046"
+     "url": "https://instreams.pro/live3/F131/index.m3u8?st=zBHY1a65ehsj1wimTFk3vw&e=1792476815"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.live/live3/F132/index.m3u8?st=B1nUlsR064rHktR_WDAJaQ&e=1792475068"
+     "url": "https://instreams.live/live3/F132/index.m3u8?st=BmOH2V3WlYW1A-uaBksi4g&e=1792476839"
     }
    ]
   },
@@ -19,11 +19,11 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://instreams.xyz/live3/F134/index.m3u8?st=RNuLIDhr52XKsmcyq5GpEg&e=1792475107"
+     "url": "https://instreams.pro/live3/F134/index.m3u8?st=51CJNN4nxvJKIIHz52KEng&e=1792476882"
     },
     {
      "name": "720p home",
-     "url": "https://gate4.st/live3/F133/index.m3u8?st=wSBMK0ZZDkjRo__nRXlY7A&e=1792475083"
+     "url": "https://gate4.st/live3/F133/index.m3u8?st=9fi1utPgmgGmWAJNcS77KQ&e=1792476856"
     }
    ]
   },
@@ -32,7 +32,7 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.pro/live3/F136/index.m3u8?st=_TuUCBcEDsEOZrgbsnTj_A&e=1792475182"
+     "url": "https://instreams.xyz/live3/F136/index.m3u8?st=TET78MgjcbHDWW-Xtt2RSQ&e=1792476968"
     }
    ]
   },
@@ -41,11 +41,15 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.xyz/live3/F137/index.m3u8?st=8aUxljbMpQc1SJwX2Hp24Q&e=1792475209"
+     "url": "https://instreams.xyz/live3/F137/index.m3u8?st=A3iyLk21K96-XZobc3JCIg&e=1792477006"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F138/index.m3u8?st=n0c2XFNWh9cKANfkQjnaRA&e=1792475230"
+     "url": "https://instreams.xyz/live3/F138/index.m3u8?st=pFWwf_DOUUMTXtnIdZmySQ&e=1792477028"
+    },
+    {
+     "name": "540p home",
+     "url": "https://instreams.live/live3/F68/index.m3u8?st=OMz165f7wDv3f77hNjuC0Q&e=1792477008"
     }
    ]
   }
