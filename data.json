@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-20T05:47:25.182512+00:00",
+ "generated": "2026-10-20T06:02:05.890080+00:00",
  "games": [
   {
    "title": "Anaheim - NY",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F131/index.m3u8?st=XFC-RLyouqKshgFxfut1AA&e=1792484005"
+     "url": "https://instreams.pro/live3/F131/index.m3u8?st=PI3UefxOHzPRF2FncAQjtA&e=1792485816"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F132/index.m3u8?st=k4_lLMqWuObIqJEPz4XDdQ&e=1792484034"
+     "url": "https://gate4.st/live3/F132/index.m3u8?st=IPxT-bfcDlG-6A8QoDIQSQ&e=1792485850"
     }
    ]
   },
@@ -19,11 +19,20 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://instreams.pro/live3/F134/index.m3u8?st=zroPpPer9Eh9llM4AECiBA&e=1792484082"
+     "url": "https://gate4.st/live3/F134/index.m3u8?st=PH_d4qQE5AqwjTK38TBk1Q&e=1792485892"
     },
     {
      "name": "720p home",
-     "url": "https://gate4.st/live3/F133/index.m3u8?st=CY9BeUMuqBl9ma43AGUG_g&e=1792484053"
+     "url": "https://instreams.live/live3/F133/index.m3u8?st=MOmPJqvLNusX_np2A18RxA&e=1792485869"
+    }
+   ]
+  },
+  {
+   "title": "San Jose - Toronto",
+   "feeds": [
+    {
+     "name": "720p away",
+     "url": "https://instreams.live/live3/F136/index.m3u8?st=bSYHoWRihU6xRrwsjyG3Ow&e=1792486003"
     }
    ]
   },
@@ -32,11 +41,15 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.pro/live3/F137/index.m3u8?st=dgGAwawu5saPRNVpf9Fgig&e=1792484202"
+     "url": "https://instreams.pro/live3/F137/index.m3u8?st=6s9tQQDdhy6x4OzbwOnuYA&e=1792486044"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F138/index.m3u8?st=gsH2q-cG5dIsWSNj_FwDQg&e=1792484222"
+     "url": "https://gate4.st/live3/F138/index.m3u8?st=D6RK35maYHjXJGytq9vLKw&e=1792486060"
+    },
+    {
+     "name": "540p home",
+     "url": "https://instreams.live/live3/F68/index.m3u8?st=bVgpwBNfLqY5J2HR3-HDLg&e=1792486045"
     }
    ]
   }
