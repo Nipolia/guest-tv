@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T10:02:07.848011+00:00",
+ "generated": "2026-10-20T10:17:08.469362+00:00",
  "games": [
   {
    "title": "Anaheim - NY",
@@ -22,12 +22,12 @@
      "url": "https://instreams.xyz/live3/F134/index.m3u8?st=TTDH7QzUO88FUjI6hKeMCg&e=1792500518"
     },
     {
-     "name": "540p away",
-     "url": "https://instreams.live/live3/F69/index.m3u8?st=tHjpLgjIxj2iAnf8QNk4xg&e=1792500521"
+     "name": "720p home",
+     "url": "https://gate4.st/live3/F133/index.m3u8?st=KWee7Wo7Rtz8kCfIVcdL8g&e=1792501991"
     },
     {
-     "name": "home",
-     "url": "https://gate4.st/live3/F133/index.m3u8?st=7fDWvWjVqiz1Elrue0S1CQ&e=1792500495"
+     "name": "540p away",
+     "url": "https://instreams.live/live3/F69/index.m3u8?st=tHjpLgjIxj2iAnf8QNk4xg&e=1792500521"
     }
    ]
   },
