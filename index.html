@@ -42,6 +42,10 @@ var DATA_URL = null;
   if (m) DATA_URL = decodeURIComponent(m[1]);
 })();
 
+// Baked in by the updater at publish time; the fetch chain below is
+// only a fallback for copies of this page served without data.
+var EMBEDDED_DATA = {"generated": "2026-10-20T01:04:15.664550+00:00", "games": [{"title": "Anaheim - NY", "feeds": [{"name": "720p home", "url": "https://instreams.live/live3/F131/index.m3u8?st=V6UIOCn67NriNFz99xvnsg&e=1792467992"}, {"name": "720p away", "url": "https://instreams.xyz/live3/F132/index.m3u8?st=2ImZZcZ8QIPq9SXVm8Zr3Q&e=1792468014"}]}, {"title": "Colorado - Philadelphia", "feeds": [{"name": "1080p away", "url": "https://gate4.st/live3/F134/index.m3u8?st=EkgqfCNdzO0rLlQLjLqApQ&e=1792468049"}, {"name": "720p home", "url": "https://instreams.xyz/live3/F133/index.m3u8?st=xTtCLErsCXtnc3ujHfFQKg&e=1792468025"}, {"name": "540p away", "url": "https://instreams.live/live3/F69/index.m3u8?st=aTg8hlNfX95BKVwrARsyfw&e=1792468051"}]}, {"title": "San Jose - Toronto", "feeds": [{"name": "720p away", "url": "https://instreams.live/live3/F136/index.m3u8?st=HEbf4AXnlt1MTT-Y6tMipg&e=1792468109"}]}, {"title": "Pittsburgh - Utah", "feeds": [{"name": "1080p home", "url": "https://instreams.xyz/live3/F137/index.m3u8?st=s8FXRa3TjGOKFvUERuHQiA&e=1792468134"}, {"name": "720p away", "url": "https://instreams.pro/live3/F138/index.m3u8?st=CEvWmicn0Jj9ohjCAYIkrw&e=1792468155"}, {"name": "540p home", "url": "https://instreams.live/live3/F68/index.m3u8?st=Xol7V9UX3prMu0T8djlgmA&e=1792468137"}]}]};
+
 var video = document.getElementById('v');
 var wrap = document.getElementById('playerwrap');
 var nowEl = document.getElementById('now');
@@ -139,6 +143,7 @@ function load() {
     fetchJson(DATA_URL).then(render).catch(showLoadError);
     return;
   }
+  if (EMBEDDED_DATA) { render(EMBEDDED_DATA); return; }
   // Try plain CDN copies of the data file first (no API quota involved —
   // the unauthenticated GitHub API is rate-limited per IP and dies on
   // shared/NAT addresses), then fall back to commit-SHA discovery.
@@ -176,7 +181,11 @@ function load() {
   next();
 }
 load();
-setInterval(load, 10 * 60 * 1000);
+setInterval(function () {
+  // With baked-in data the freshest list is a fresh copy of this page
+  // (served no-store); with fetched data just re-fetch.
+  if (!DATA_URL && EMBEDDED_DATA) { location.reload(); } else { load(); }
+}, 10 * 60 * 1000);
 </script>
 </body>
 </html>
