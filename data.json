@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T22:02:21.014172+00:00",
+ "generated": "2026-10-20T22:17:07.210185+00:00",
  "games": [
   {
    "title": "San Jose - Montr\u00e9al",
@@ -46,10 +46,6 @@
     {
      "name": "1080p home",
      "url": "https://instreams.pro/live3/F137/index.m3u8?st=vTLZk-2Y_Dp2KOZ15RlbHw&e=1792543863"
-    },
-    {
-     "name": "1080p home",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc35e/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzVlOjE3OTI1NDc0ODY4ODE6Y2RubGl2ZXR2LmlzOjc5NzU5ZjhmMWM5NjJjZDUuMjY2MjkxYWQ2ZWExYzlkOGNhNTA4NTg5MzI2YjI4MDdmNGE3ZTM4NmRlZWY5MTU3NDk3ZDcxNGQ4OTk3NThjYg"
     },
     {
      "name": "540p home",
