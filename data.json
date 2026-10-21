@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T06:32:06.555254+00:00",
+ "generated": "2026-10-21T06:47:07.525770+00:00",
  "games": [
   {
    "title": "Minnesota - Edmonton",
@@ -7,10 +7,6 @@
     {
      "name": "720p home",
      "url": "https://instreams.live/live3/F173/index.m3u8?st=Zu9_tuFw4qIX5UANm1UBHw&e=1792574727"
-    },
-    {
-     "name": "720p home",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc2be/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJlOjE3OTI1NzgzNTI4Mzg6Y2RubGl2ZXR2LmlzOmU1NWE5MWUyYzI4NjU2ODkuOTNjYjY4YTEyYTE0M2U5YjBhN2FiZDE2YjUxYmNiY2E1YmEwNGJkZDJlOGEzOGQ4YzlhYTk2ZDJkMjEyY2E0Yw"
     }
    ]
   },
@@ -24,19 +20,6 @@
     {
      "name": "720p away",
      "url": "https://gate4.st/live3/F175/index.m3u8?st=YcHmZDVCHeYvDL29giFNtw&e=1792574779"
-    }
-   ]
-  },
-  {
-   "title": "Carolina - Vancouver",
-   "feeds": [
-    {
-     "name": "home",
-     "url": "https://instreams.xyz/live3/F177/index.m3u8?st=bDdSQAIxXRNf7CkMTDvpig&e=1792574802"
-    },
-    {
-     "name": "home",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc168/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTY4OjE3OTI1Nzg0NTkxMjE6Y2RubGl2ZXR2LmlzOmFkYTVmMjcyOWJlMDE2ZGUuODI0MGMzMTIwYTVmMTVmOTBjMjE2NmEwMjEyOTYwZmY5Y2ZmYTFlNDc4M2I5NzA1MWRiMjc3OTRmZWJlYmI5NQ"
     }
    ]
   },
@@ -57,8 +40,8 @@
    "title": "Admiral Vladivostok - Barys (russian(ru))",
    "feeds": [
     {
-     "name": "feed",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2d81d8192bb76ce150/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTUwOjE3OTI1Nzg1NzQ5NTc6Y2RubGl2ZXR2LmlzOjY2ZWI5NzBhZGVlYTljZWUuMDAwZGM4M2I4OGZlMzlhMGJkZTBiOGVlMGI1MGMzZTVhOWQ2NTA0ZThkMjg4ZmJkMmU1NjhhMmNkOGM3MDFjNg"
+     "name": "720p",
+     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2d81d8192bb76ce150/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTUwOjE3OTI1Nzk1MTQ1ODY6Y2RubGl2ZXR2LmlzOjQ3NjNmNjRlNjRmMjgyNjYuZmNmOTJlYmM5MzUzOTYyMzIwMDgzYzVjZjQ1ZmVlOGE4YWRjZjExMzA0YTUwMGJmMTc0NzRkZGVkMmE3YzliZQ"
     }
    ]
   },
