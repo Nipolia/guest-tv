@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T09:02:11.652021+00:00",
+ "generated": "2026-10-21T09:17:10.798922+00:00",
  "games": [
   {
    "title": "Minnesota - Edmonton",
@@ -28,19 +28,6 @@
    ]
   },
   {
-   "title": "Carolina - Vancouver",
-   "feeds": [
-    {
-     "name": "home",
-     "url": "https://instreams.live/live3/F177/index.m3u8?st=Aaz5-z3sZ5xMtjvH8qK0XA&e=1792583892"
-    },
-    {
-     "name": "home",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc168/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTY4OjE3OTI1ODc1Mzc1NTk6Y2RubGl2ZXR2LmlzOjdlYzA0Mzg1ZmQ3OTg2NmIuMGJmYmE0NzI2MWM0ZTMzODM2ZDg2ODk3ODViYmE5YTg3NWY0ZjZkYTc3YTFkOGFlM2MwZGQ1Y2EzMmNmMDA4YQ"
-    }
-   ]
-  },
-  {
    "title": "Tampa Bay - Vegas",
    "feeds": [
     {
@@ -54,28 +41,11 @@
    ]
   },
   {
-   "title": "Admiral Vladivostok - Barys (russian(ru))",
-   "feeds": [
-    {
-     "name": "480p",
-     "url": "https://a73.azplay49.me/hls/streama267991/index.m3u8?cst=4a1c10e78397dfba62ce6721eccbb1ea"
-    },
-    {
-     "name": "feed",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2d81d8192bb76ce150/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTUwOjE3OTI1ODc2ODg4MzM6Y2RubGl2ZXR2LmlzOjA2NTU2NTViYzc2YjczZWMuZjQ1YmJiNmZjZGY2OTA3ODJiNDkzYzhmMGM5NzU4ZDc2MTFmNjAzNzE3YTY0YmQ5ZGU0MmIwOGQxMTBhNzE2NQ"
-    }
-   ]
-  },
-  {
    "title": "Admiral Vladivostok - Barys (russian(by))",
    "feeds": [
     {
      "name": "1080p",
      "url": "https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8"
-    },
-    {
-     "name": "480p",
-     "url": "https://a120.azplay49.me/hls/streama266037/index.m3u8?cst=ea91faac3b93f931ad3e8a864c65443b"
     }
    ]
   }
