@@ -1,12 +1,21 @@
 {
- "generated": "2026-10-21T12:17:06.109302+00:00",
+ "generated": "2026-10-21T12:31:59.373624+00:00",
  "games": [
   {
-   "title": "Admiral Vladivostok - Barys (russian(by))",
+   "title": "Lokomotiv Orsha - Brest",
    "feeds": [
     {
-     "name": "1080p",
+     "name": "1080p Belarus 5",
      "url": "https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8"
+    }
+   ]
+  },
+  {
+   "title": "Ak Bars Kazan - Torpedo",
+   "feeds": [
+    {
+     "name": "720p russian",
+     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2d81d8192bb76ce150/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTUwOjE3OTI1OTk2MTE1OTk6Y2RubGl2ZXR2LmlzOjRiNWNkMDVhZTU5ODA5M2YuMGM2MGVlZjljNjFjMjU4NjgxOWFlODA3MzRhN2U1OWViZjYyZDEwMTM3ZDYyYThiYjNkZjljODhiYTNiNTY3Zg"
     }
    ]
   },
