@@ -1,12 +1,16 @@
 {
- "generated": "2026-10-21T04:17:25.294466+00:00",
+ "generated": "2026-10-21T04:32:07.788321+00:00",
  "games": [
   {
    "title": "Minnesota - Edmonton",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F173/index.m3u8?st=Py9GkeMypdqeEFZ42AZtoA&e=1792565843"
+     "url": "https://gate4.st/live3/F173/index.m3u8?st=mdnOGT7P9AOHRftLiiudSg&e=1792567585"
+    },
+    {
+     "name": "720p home",
+     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc2be/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJlOjE3OTI1NzEyMTM5MjQ6Y2RubGl2ZXR2LmlzOjU2YTRkODIyZTI5MzZlZWMuOTJlODllNjljYzdlOGIyOGVlOWQ5NWUxNTAxMTlhMDYzOGQzNTMyNjQ1MmRjM2ZmNjM4ZTc1MmM0M2I5YjM0MQ"
     }
    ]
   },
@@ -15,11 +19,24 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.xyz/live3/F174/index.m3u8?st=aWaVA_B18KhMIwrY-JSO8Q&e=1792565874"
+     "url": "https://gate4.st/live3/F174/index.m3u8?st=BY8FqpL_IYJMxiygrJ5imA&e=1792567624"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.pro/live3/F175/index.m3u8?st=WjmBla1VQQiWtO7lsafmWg&e=1792565884"
+     "url": "https://instreams.live/live3/F175/index.m3u8?st=U73DFdDBrWVnIE3z2nX_kg&e=1792567636"
+    }
+   ]
+  },
+  {
+   "title": "Carolina - Vancouver",
+   "feeds": [
+    {
+     "name": "home",
+     "url": "https://instreams.live/live3/F177/index.m3u8?st=JrfYuO21ugaNc9lS8trFFw&e=1792567657"
+    },
+    {
+     "name": "home",
+     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc168/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTY4OjE3OTI1NzEzMDQ5ODg6Y2RubGl2ZXR2LmlzOjU2M2NhNWVkZDg1ODI0M2EuNTUzNmQ5MzIyMzcxYTVkZGZhOGNkNDlmMTU5NTIzZjQ0MTQ3NTEzOWZmYTJlMzNjMGU0NzY1MzAzODdlODE2NQ"
     }
    ]
   },
@@ -28,11 +45,11 @@
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://instreams.xyz/live3/F178/index.m3u8?st=bEqKYKOUunn39J-i4ugpCA&e=1792565960"
+     "url": "https://instreams.live/live3/F178/index.m3u8?st=3rV_Kdc8X9-SPPk9vHhXJw&e=1792567724"
     },
     {
      "name": "720p english",
-     "url": "https://instreams.pro/live3/F111/index.m3u8?st=RkVBg1P3rE9jPbTlxgSphA&e=1792565964"
+     "url": "https://gate4.st/live3/F111/index.m3u8?st=7eaCIcZry7uklN0I8vjZqQ&e=1792567726"
     }
    ]
   },
