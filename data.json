@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T09:17:10.798922+00:00",
+ "generated": "2026-10-21T09:31:56.025358+00:00",
  "games": [
   {
    "title": "Minnesota - Edmonton",
@@ -7,10 +7,6 @@
     {
      "name": "720p home",
      "url": "https://gate4.st/live3/F173/index.m3u8?st=6GS58wv4sBzDMRJ299ciPw&e=1792583813"
-    },
-    {
-     "name": "720p home",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc2be/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJlOjE3OTI1ODc0NDE2Njg6Y2RubGl2ZXR2LmlzOjE2MjI3NzUwZDFmZGE4OWIuMDU1ZWI5YTMwODc2ZmJhZjI1MzhhZTlhMWVmNTg4NmZlNDU5NzllMWE5ZDc0Y2UyYzdkYzQ2N2IyN2YxNjE2ZQ"
     }
    ]
   },
