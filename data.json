@@ -1,16 +1,20 @@
 {
- "generated": "2026-10-21T00:17:20.349583+00:00",
+ "generated": "2026-10-21T00:32:55.043568+00:00",
  "games": [
   {
    "title": "San Jose - Montr\u00e9al",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.live/live3/F131/index.m3u8?st=YpCY8Ls6ZuZ1eq71gB5kAA&e=1792550785"
+     "url": "https://instreams.pro/live3/F131/index.m3u8?st=rlc0XNgjp1RYCuO2EMwJYw&e=1792552704"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.pro/live3/F132/index.m3u8?st=Am-JHzbNMQ9Ir2ccj_mj5g&e=1792550811"
+     "url": "https://gate4.st/live3/F132/index.m3u8?st=JA3lIrCqunOXVk_RLZ46-A&e=1792552729"
+    },
+    {
+     "name": "720p french",
+     "url": "https://instreams.live/live3/F146/index.m3u8?st=pJdqjdWHazoXlJvT4DmV2Q&e=1792552735"
     }
    ]
   },
@@ -19,11 +23,11 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://gate4.st/live3/F134/index.m3u8?st=FTyCFgUCn6Kgb6oMO_nYhA&e=1792550861"
+     "url": "https://instreams.pro/live3/F134/index.m3u8?st=YX0b0g0IlR3WOHW1J48Svg&e=1792552782"
     },
     {
      "name": "576p home",
-     "url": "https://gate4.st/live3/F133/index.m3u8?st=g-ncL6oZbA-jlRhxGiDRtg&e=1792550838"
+     "url": "https://instreams.live/live3/F133/index.m3u8?st=2--CExfA1L4yT1X1KkFVlA&e=1792552762"
     }
    ]
   },
@@ -32,11 +36,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F135/index.m3u8?st=DupPVEHInFGRDDQpYRdi8w&e=1792550880"
+     "url": "https://instreams.live/live3/F135/index.m3u8?st=P7Debo46ODcMDqnWyqlYRg&e=1792552807"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.pro/live3/F136/index.m3u8?st=iZrinEoLnDOE2msFs22BUA&e=1792550903"
+     "url": "https://instreams.live/live3/F136/index.m3u8?st=CmQ8Eo5kaC-v0jEGe3NnLA&e=1792552830"
     }
    ]
   },
@@ -45,11 +49,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://gate4.st/live3/F137/index.m3u8?st=2keWPZMZk5TSnDiabf9K_A&e=1792550927"
+     "url": "https://instreams.pro/live3/F137/index.m3u8?st=7nUyxZQVMsq_kcdBi0JvQA&e=1792552848"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.live/live3/F68/index.m3u8?st=KI440zTz_voc11VjJu5NSA&e=1792550929"
+     "url": "https://gate4.st/live3/F68/index.m3u8?st=Aiw6Lrd6POlJu0WlC_YOCA&e=1792552851"
     }
    ]
   },
@@ -58,11 +62,15 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.pro/live3/F138/index.m3u8?st=_Y5G8OUPfSSw8DbLEj2gHA&e=1792550971"
+     "url": "https://gate4.st/live3/F138/index.m3u8?st=b0tTzrrgOZmFTuEkCBi_sg&e=1792552896"
     },
     {
      "name": "1080p away",
-     "url": "https://instreams.live/live3/F139/index.m3u8?st=WauMVHbdJOxyiYCmi4-AwA&e=1792550994"
+     "url": "https://instreams.pro/live3/F139/index.m3u8?st=0J7EltXeI2_PK2rn5eaaLg&e=1792552920"
+    },
+    {
+     "name": "away",
+     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc168/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTY4OjE3OTI1NTY1NDE1Mzg6Y2RubGl2ZXR2LmlzOjIxYmFiNWJiNWE2YTBkYTUuOGJiYzUxYjBjMjVjNDZiMzY0ODM5OWExMmJlYjRmNmU0YzkzNzAyODIxNzdhNDkyMWI5NmYyNmZhNmQxNWI0Ng"
     }
    ]
   },
@@ -71,7 +79,7 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.live/live3/F171/index.m3u8?st=4-JE1DJj-Q5dspgelE1lrw&e=1792551034"
+     "url": "https://instreams.xyz/live3/F171/index.m3u8?st=pX3iSOq0Inaegz98JFH_WA&e=1792552960"
     }
    ]
   },
@@ -80,11 +88,28 @@
    "feeds": [
     {
      "name": "720p english",
-     "url": "https://instreams.pro/live3/F172/index.m3u8?st=jnetrsG7TlbKwJEPRV79tw&e=1792551059"
+     "url": "https://instreams.pro/live3/F172/index.m3u8?st=OBObZCIWvT0E23f7-JsCow&e=1792552982"
     },
     {
      "name": "720p english",
-     "url": "https://gate4.st/live3/F111/index.m3u8?st=ZGbTw9cVwuiliVWeUvCxug&e=1792551061"
+     "url": "https://gate4.st/live3/F111/index.m3u8?st=seQ7Vgdww42yI9EDCYYTdQ&e=1792552985"
+    },
+    {
+     "name": "540p english",
+     "url": "https://instreams.live/live3/F69/index.m3u8?st=EDEnVYk-q7PjbfAcDMAeyA&e=1792552987"
+    }
+   ]
+  },
+  {
+   "title": "Minnesota - Edmonton",
+   "feeds": [
+    {
+     "name": "720p home",
+     "url": "https://gate4.st/live3/F173/index.m3u8?st=qe94cIBWNaCk7NAFG3Z4ng&e=1792553036"
+    },
+    {
+     "name": "720p home",
+     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc2be/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJlOjE3OTI1NTY2NDgxNjY6Y2RubGl2ZXR2LmlzOmQwYTQ0NWFlMzM1Njk2ODIuMjkzYWE2OGQ2MTM2Y2UxYWM3ZWU3NjhjNzNiMzdkMTIwYmZmM2U4MGM5MmIyMDQwMWZlZTFjZGZiYzdkMGQ5Mw"
     }
    ]
   }
