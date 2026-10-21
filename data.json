@@ -1,15 +1,6 @@
 {
- "generated": "2026-10-21T10:31:54.827807+00:00",
+ "generated": "2026-10-21T10:46:53.408051+00:00",
  "games": [
-  {
-   "title": "Admiral Vladivostok - Barys (russian(ru))",
-   "feeds": [
-    {
-     "name": "feed",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2d81d8192bb76ce150/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTUwOjE3OTI1OTI5MTQ1Nzg6Y2RubGl2ZXR2LmlzOjM4MjBmMDIzY2Y3MDNhMzkuYjg2OTIzMWU1ZDc1NzA4ODc2YzMwYTkyMmE0NDczYWQxNjYzMDA0NmU3YjM3YTg3ZTI1YjMzODdkZTUyMzY3Yg"
-    }
-   ]
-  },
   {
    "title": "Admiral Vladivostok - Barys (russian(by))",
    "feeds": [
