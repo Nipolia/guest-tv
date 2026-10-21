@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T08:32:08.106481+00:00",
+ "generated": "2026-10-21T08:46:58.758024+00:00",
  "games": [
   {
    "title": "Minnesota - Edmonton",
@@ -7,10 +7,6 @@
     {
      "name": "720p home",
      "url": "https://instreams.live/live3/F173/index.m3u8?st=GRD_EN3KFDypRH6r7AH7RA&e=1792581987"
-    },
-    {
-     "name": "720p home",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc2be/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJlOjE3OTI1ODU2MTgyNTQ6Y2RubGl2ZXR2LmlzOjViYWM0MmZlOTUzMjQ0MTQuYWY5MjkyODkxMDUwNmNhZWQ5NTZlMWQwMDQxNGMxM2Y1YzAzMTljODJjMmE5ODQxNDJkNzY4YTE2YmM0NTUxYQ"
     }
    ]
   },
@@ -24,19 +20,6 @@
     {
      "name": "720p away",
      "url": "https://instreams.pro/live3/F175/index.m3u8?st=4s5qjZmAFSsSglDdzOxXcg&e=1792582045"
-    }
-   ]
-  },
-  {
-   "title": "Carolina - Vancouver",
-   "feeds": [
-    {
-     "name": "home",
-     "url": "https://instreams.pro/live3/F177/index.m3u8?st=RlRkHsvO-iD-Du_iD5jECg&e=1792582069"
-    },
-    {
-     "name": "home",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc168/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTY4OjE3OTI1ODU3MTQ2ODE6Y2RubGl2ZXR2LmlzOmRjZDhiNGE0MTg3N2ZhMDguMmE1MmRlYzNjMTRiODAzNzc0MzdkMjJkNzUzMWJlYTEwYjg3MDNhMmE2YzIwMjdiYTExYjFhYzU5OWQ4OWI4Nw"
     }
    ]
   },
@@ -57,8 +40,8 @@
    "title": "Admiral Vladivostok - Barys (russian(ru))",
    "feeds": [
     {
-     "name": "feed",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2d81d8192bb76ce150/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTUwOjE3OTI1ODU4NjQzMjc6Y2RubGl2ZXR2LmlzOjYxNGYwNWYxZmY4YWM1ZDkuZTBhNTliOGRlZjA4YmQxYzVjMjIzOTE1YzljOWNjZDQ1ZjBhYTllMDk2MmM0N2VjYzkyYmYyM2E1YzJkYTY2ZA"
+     "name": "720p",
+     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2d81d8192bb76ce150/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTUwOjE3OTI1ODU5NDE5MTM6Y2RubGl2ZXR2LmlzOjJkZmQ1NDJkODA2ZDc1MzMuYTljNDViMTMwYTU1ZDg2MTlhN2ViZGEzZjBhMzEwMjVlZjI2MDM3ODcxNDhmODZiZWYwMzA5YzUyMmY5ZWMyOQ"
     }
    ]
   },
@@ -68,10 +51,6 @@
     {
      "name": "1080p",
      "url": "https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8"
-    },
-    {
-     "name": "480p",
-     "url": "https://a119.azplay49.me/hls/streama266037/index.m3u8?cst=20862c8120cf3617bc1490ba63519a3e"
     }
    ]
   }
