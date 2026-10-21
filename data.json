@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T02:47:10.925871+00:00",
+ "generated": "2026-10-21T03:02:19.830257+00:00",
  "games": [
   {
    "title": "Winnipeg - St. Louis",
@@ -29,10 +29,6 @@
     {
      "name": "720p home",
      "url": "https://instreams.live/live3/F173/index.m3u8?st=dTC5v_8f_y9iNu4cvDMkpA&e=1792560569"
-    },
-    {
-     "name": "720p home",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc2be/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJlOjE3OTI1NjQxOTcyMTk6Y2RubGl2ZXR2LmlzOmMyMmI3MzZjMDY5NGUwZjcuODA1NzU0OGY1Mjg3M2I3NjE1MzlhNTM0NWViMDAyMmEwM2MwYTM5ZTc2Mzc0NTUyNjliMTdlOTlmZmU4ZmEwZQ"
     }
    ]
   },
@@ -59,15 +55,6 @@
     {
      "name": "720p english",
      "url": "https://instreams.live/live3/F111/index.m3u8?st=9cmGqD8tX6UUmc_hfLvhhQ&e=1792560693"
-    }
-   ]
-  },
-  {
-   "title": "Admiral Vladivostok - Barys (russian(ru))",
-   "feeds": [
-    {
-     "name": "720p",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2d81d8192bb76ce150/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTUwOjE3OTI1NjQzNjEzMjg6Y2RubGl2ZXR2LmlzOmUzZWZiMjM2YjFjY2EwOTMuMjk3MWUyZDg1NDI3YTBiNWI3N2NkNTA3YWYxMmM1NWNiYTQzZWYyZDgyMjlmNjlhM2IyODQ5ODI4MmIwNzY1YQ"
     }
    ]
   },
