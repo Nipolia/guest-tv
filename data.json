@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T01:34:28.513327+00:00",
+ "generated": "2026-10-21T01:47:14.958084+00:00",
  "games": [
   {
    "title": "San Jose - Montr\u00e9al",
@@ -41,10 +41,6 @@
     {
      "name": "720p away",
      "url": "https://instreams.pro/live3/F136/index.m3u8?st=L9KQCiUNwob2Jy8WLKpJ0w&e=1792556700"
-    },
-    {
-     "name": "576p home",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2c81d8192bb76cd69f/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNjlmOjE3OTI1NjAyOTczMzQ6Y2RubGl2ZXR2LmlzOjkzNmE1Njk1NDcyMTJiZDUuNWMzNTQ2MGY1MzA5NDMzODUyNWUwNDBhOGFkZjI4Y2I2MjRkMzdjZDU4NmU3YWNmZDRiMGRkNmY1YjlmMTkxMQ"
     }
    ]
   },
@@ -71,10 +67,6 @@
     {
      "name": "1080p away",
      "url": "https://instreams.pro/live3/F139/index.m3u8?st=U0lfe6BPoqpA5zxYs4XWMw&e=1792556790"
-    },
-    {
-     "name": "away",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc168/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTY4OjE3OTI1NjA0MDkxOTg6Y2RubGl2ZXR2LmlzOjRkYmU2MjY1NGQyNTFmNmYuM2VlZGJjMGM0MzkxZjlhMmY4YTExNzMzYzAyZWYyZmJjMGMwYmJkZGNjZmE5YzY0NWQ3M2M2M2I4ZjcwMWE3OQ"
     }
    ]
   },
@@ -110,10 +102,6 @@
     {
      "name": "720p home",
      "url": "https://gate4.st/live3/F173/index.m3u8?st=irTgrLgV6fVKPQ6oEwnI7g&e=1792556909"
-    },
-    {
-     "name": "720p home",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc2be/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJlOjE3OTI1NjA1MjY0MjQ6Y2RubGl2ZXR2LmlzOmE3MWJhNmI4YjczOGIwNmQuMTUzZDJhYjFhMzkxOWQyMjZlOWIwZTcyOGRiYzRmMWU1MGFiNTFhZGU2ZThkMDVmNjZlZWViYTUzNTZlYmJkMQ"
     }
    ]
   },
@@ -131,19 +119,6 @@
    ]
   },
   {
-   "title": "Carolina - Vancouver",
-   "feeds": [
-    {
-     "name": "home",
-     "url": "https://instreams.pro/live3/F177/index.m3u8?st=114vRmfdGHpvDfEljcBnKw&e=1792556962"
-    },
-    {
-     "name": "home",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc168/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTY4OjE3OTI1NjA1OTg3OTk6Y2RubGl2ZXR2LmlzOmM4NzI4Y2VkN2YxNTMzMmEuZWIyNjY5MWM2OGNjZWJmMDMwOTUyNjZlZmEzYTc5MzkwNzYwZmM2NDIxMDMyN2M1Yjc2NTU3YmQ5Yjc5Mjg0OA"
-    }
-   ]
-  },
-  {
    "title": "Tampa Bay - Vegas",
    "feeds": [
     {
@@ -153,10 +128,6 @@
     {
      "name": "720p english",
      "url": "https://instreams.xyz/live3/F111/index.m3u8?st=GStKQl9OMZHaEcBQHrrKcw&e=1792556991"
-    },
-    {
-     "name": "576p english",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2c81d8192bb76cd69f/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNjlmOjE3OTI1NjA2MzYzMzI6Y2RubGl2ZXR2LmlzOjgwZDAzMDM3NjNkOGZiYzAuMzlkNDg5MDFiYjg1ZDdkNjZjYjczYmM3OWY5MDA5NDQyMWIyYzI1MGE4ZWJiZDk0ODhhYTA2ZGY0ZDQ0ZDhkYQ"
     }
    ]
   }
