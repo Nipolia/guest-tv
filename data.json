@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T06:02:11.919908+00:00",
+ "generated": "2026-10-21T06:17:01.079716+00:00",
  "games": [
   {
    "title": "Minnesota - Edmonton",
@@ -24,19 +24,6 @@
     {
      "name": "720p away",
      "url": "https://instreams.live/live3/F175/index.m3u8?st=KVejym2chE8BQdpHuBAwzw&e=1792572967"
-    }
-   ]
-  },
-  {
-   "title": "Carolina - Vancouver",
-   "feeds": [
-    {
-     "name": "home",
-     "url": "https://instreams.pro/live3/F177/index.m3u8?st=BUmIRkgkVwfzrxlNqwG9tA&e=1792572988"
-    },
-    {
-     "name": "home",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc168/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTY4OjE3OTI1NzY2NDIyNjE6Y2RubGl2ZXR2LmlzOmNlZjZkZGRhYmMyYzVlMjcuZTM1ZDA4MDBjZWM5ZTIyYWM5ZTc5MzYwOTAzMTk2OTcyMDE4ZDAyMjQzYmE5OGU4YmM0MjA1NDljYTY0YjA4NA"
     }
    ]
   },
