@@ -1,16 +1,25 @@
 {
- "generated": "2026-10-21T23:32:03.411385+00:00",
+ "generated": "2026-10-21T23:47:10.088781+00:00",
  "games": [
   {
    "title": "Philadelphia - Buffalo",
    "feeds": [
     {
      "name": "1080p TNT",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb402/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDAyOjE3OTI2Mzg5NDkxNDM6Y2RubGl2ZXR2LmlzOmZhZWFlMzljMTYzM2JlMDEuM2IxYzdkYjI0YjczMzFiOWNmMWY1YWZjZjFkODA3YTBlOWQ0M2FmM2M3YzQ5MTNjN2I5Mjk5YjQxZDk2ZmZhZQ"
+     "url": "https://instreams.xyz/live3/F131/index.m3u8?st=vUReYrX-xfXygV3nzEjHaA&e=1792636956"
     },
     {
-     "name": "1080p TruTV",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb2a1/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMmExOjE3OTI2Mzg5NDk0MzU6Y2RubGl2ZXR2LmlzOjQ0ZWMxOWNjNjc0NWIxM2UuN2NjMzQ2OTBmNTlmMTRlM2VkMDc1NGQ4ZGY3OWY0N2E3NjViMWFkMTU3YjcxMThkZjkxZTE5OTcxZTlmYzYzOA"
+     "name": "1080p TNT",
+     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb402/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDAyOjE3OTI2NDA1NzQ4MDE6Y2RubGl2ZXR2LmlzOjU0NDJmODI0YmUzZWJhMDguODNhZWJmYjYwM2Q5YzU1ZDhlNjU3NGUzOWU3MjRiYzc1NDQ1NDkwNWJkM2ZkMTljOGFjMTA4OWJjZGZjOGI3NQ"
+    }
+   ]
+  },
+  {
+   "title": "Florida - Ottawa",
+   "feeds": [
+    {
+     "name": "1080p home",
+     "url": "https://instreams.pro/live3/F132/index.m3u8?st=HWusEvVD1enfWMsQmt5DTQ&e=1792636979"
     }
    ]
   }
