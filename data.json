@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T05:32:06.322088+00:00",
+ "generated": "2026-10-21T05:46:59.439271+00:00",
  "games": [
   {
    "title": "Minnesota - Edmonton",
@@ -7,10 +7,6 @@
     {
      "name": "720p home",
      "url": "https://gate4.st/live3/F173/index.m3u8?st=TEwwmQdTkLxEjd8LHvMRWg&e=1792571125"
-    },
-    {
-     "name": "720p home",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc2be/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJlOjE3OTI1NzQ3NDMwMDc6Y2RubGl2ZXR2LmlzOjBlODYxOWE2ODYzMmMzYjMuY2IyYjQxZTAwOTJjY2JjMzYxMmMwMTFiNjMxYzg5MzFhMDBiODU0YzkzYTRmYmQyODc4NTFlMzhlYWI0M2VmMg"
     }
    ]
   },
@@ -20,19 +16,10 @@
     {
      "name": "1080p home",
      "url": "https://instreams.pro/live3/F174/index.m3u8?st=6cdC40XsHMoW_VdlcQXxwA&e=1792571160"
-    }
-   ]
-  },
-  {
-   "title": "Carolina - Vancouver",
-   "feeds": [
-    {
-     "name": "home",
-     "url": "https://instreams.pro/live3/F177/index.m3u8?st=n4BH60AUYEXGQm5v-eCjig&e=1792571193"
     },
     {
-     "name": "home",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc168/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTY4OjE3OTI1NzQ4NDEyMzk6Y2RubGl2ZXR2LmlzOmZkODczNDI4MzNmNzNiZDAuYWRmYzAwMmRlZTZhMGViZDFhYTc2YTE3YWYzMGI0ODRiODc5YzBjNjZlYjlmYjQ1ZTc3MGZiZDg1NzAyYmIxNQ"
+     "name": "720p away",
+     "url": "https://instreams.pro/live3/F175/index.m3u8?st=k3hI3bO9NIke-94iZyjD4A&e=1792571172"
     }
    ]
   },
