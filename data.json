@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-21T10:01:59.409913+00:00",
+ "generated": "2026-10-21T10:17:12.551524+00:00",
  "games": [
   {
    "title": "Minnesota - Edmonton",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F173/index.m3u8?st=0hyD5YqooC95dwkTgildCw&e=1792585646"
+     "url": "https://instreams.live/live3/F173/index.m3u8?st=Le_zpVK0QSaErjDNjn6vFQ&e=1792587477"
     }
    ]
   },
@@ -15,11 +15,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.pro/live3/F174/index.m3u8?st=U_DQwL507OaoUSpkUjM2Rw&e=1792585687"
+     "url": "https://gate4.st/live3/F174/index.m3u8?st=eTX_YxEfQ1eb5JLBjEmrdw&e=1792587518"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.live/live3/F175/index.m3u8?st=aSGlbGSJV4hmLUby-JPlbQ&e=1792585702"
+     "url": "https://instreams.xyz/live3/F175/index.m3u8?st=NjXcNvkY3g5psozVNKRrsg&e=1792587531"
     }
    ]
   },
@@ -28,11 +28,11 @@
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://instreams.live/live3/F178/index.m3u8?st=6lYnpSvB8EvaUV6N8FEMew&e=1792585806"
+     "url": "https://gate4.st/live3/F178/index.m3u8?st=0r2tpOGtdV2xknAlkrDoww&e=1792587630"
     },
     {
      "name": "720p english",
-     "url": "https://instreams.pro/live3/F111/index.m3u8?st=9OmSXPvV4lyjtAaMfHohLw&e=1792585809"
+     "url": "https://instreams.pro/live3/F111/index.m3u8?st=InVZA-rdWkyUqO87Go-k1w&e=1792587633"
     }
    ]
   },
