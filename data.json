@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T12:46:56.774492+00:00",
+ "generated": "2026-10-21T12:47:38.724149+00:00",
  "games": [
   {
    "title": "Lokomotiv Orsha - Brest",
@@ -15,7 +15,16 @@
    "feeds": [
     {
      "name": "720p russian",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2d81d8192bb76ce150/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTUwOjE3OTI2MDAzODMxMzA6Y2RubGl2ZXR2LmlzOjQwOTk3NzgxNDczOGQzN2QuNjIzZWI5MzIxODA5Mjk0OGQzNThiYWNlNWQyOTI5YzdkZmNiNzg4OGVjOTRkMjFkYmU0MWQ3YzhiN2RkODFiYg"
+     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2d81d8192bb76ce150/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTUwOjE3OTI2MDEyMDE4NTY6Y2RubGl2ZXR2LmlzOjJhMjM2ZmExNTNkZTI1ZjQuYTJmZjBkMGYwNmQyZTM1MzVhZWIzYTE4ODk4Y2RkMDEyZWE5OGE2YzNmY2NlMTFmYzdhYjc2YzAxMzRmMDczMA"
+    }
+   ]
+  },
+  {
+   "title": "Spartak Moscow - CSKA",
+   "feeds": [
+    {
+     "name": "480p russian",
+     "url": "https://a119.azplay49.me/hls/streama267991/index.m3u8?cst=0b33c797d943b1677058f784a21fb39a"
     }
    ]
   },
