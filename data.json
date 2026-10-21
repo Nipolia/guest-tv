@@ -1,38 +1,12 @@
 {
- "generated": "2026-10-21T10:17:12.551524+00:00",
+ "generated": "2026-10-21T10:31:54.827807+00:00",
  "games": [
   {
-   "title": "Minnesota - Edmonton",
+   "title": "Admiral Vladivostok - Barys (russian(ru))",
    "feeds": [
     {
-     "name": "720p home",
-     "url": "https://instreams.live/live3/F173/index.m3u8?st=Le_zpVK0QSaErjDNjn6vFQ&e=1792587477"
-    }
-   ]
-  },
-  {
-   "title": "Detroit - Seattle",
-   "feeds": [
-    {
-     "name": "1080p home",
-     "url": "https://gate4.st/live3/F174/index.m3u8?st=eTX_YxEfQ1eb5JLBjEmrdw&e=1792587518"
-    },
-    {
-     "name": "720p away",
-     "url": "https://instreams.xyz/live3/F175/index.m3u8?st=NjXcNvkY3g5psozVNKRrsg&e=1792587531"
-    }
-   ]
-  },
-  {
-   "title": "Tampa Bay - Vegas",
-   "feeds": [
-    {
-     "name": "1080p english",
-     "url": "https://gate4.st/live3/F178/index.m3u8?st=0r2tpOGtdV2xknAlkrDoww&e=1792587630"
-    },
-    {
-     "name": "720p english",
-     "url": "https://instreams.pro/live3/F111/index.m3u8?st=InVZA-rdWkyUqO87Go-k1w&e=1792587633"
+     "name": "feed",
+     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2d81d8192bb76ce150/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTUwOjE3OTI1OTI5MTQ1Nzg6Y2RubGl2ZXR2LmlzOjM4MjBmMDIzY2Y3MDNhMzkuYjg2OTIzMWU1ZDc1NzA4ODc2YzMwYTkyMmE0NDczYWQxNjYzMDA0NmU3YjM3YTg3ZTI1YjMzODdkZTUyMzY3Yg"
     }
    ]
   },
