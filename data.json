@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T16:32:15.367944+00:00",
+ "generated": "2026-10-21T16:47:04.108086+00:00",
  "games": [
   {
    "title": "Lokomotiv Orsha - Brest",
@@ -7,15 +7,6 @@
     {
      "name": "1080p Belarus 5",
      "url": "https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8"
-    }
-   ]
-  },
-  {
-   "title": "Ak Bars Kazan - Torpedo",
-   "feeds": [
-    {
-     "name": "720p russian",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2d81d8192bb76ce150/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTUwOjE3OTI2MTQxMzY5ODA6Y2RubGl2ZXR2LmlzOmZlMzc0NzI0ZGU1NmE3YmQuM2RkNjI1N2I0MzBiNzhlYjlmZmViNjI1M2IzNDBlNWFiMDc3M2RmNDg5MWE2MjgwMjVhYTQ4YTgzMTM3NjRlNQ"
     }
    ]
   },
