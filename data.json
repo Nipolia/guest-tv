@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T09:46:57.466982+00:00",
+ "generated": "2026-10-21T10:01:59.409913+00:00",
  "games": [
   {
    "title": "Minnesota - Edmonton",
@@ -33,15 +33,6 @@
     {
      "name": "720p english",
      "url": "https://instreams.pro/live3/F111/index.m3u8?st=9OmSXPvV4lyjtAaMfHohLw&e=1792585809"
-    }
-   ]
-  },
-  {
-   "title": "Admiral Vladivostok - Barys (russian(ru))",
-   "feeds": [
-    {
-     "name": "720p",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2d81d8192bb76ce150/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTUwOjE3OTI1ODk1MjA4ODM6Y2RubGl2ZXR2LmlzOjNkYmU0YjUxZGJkNjY1OWIuYjZmOTQ5OTRiMTUxYzc1OWZiYWEwMjhlODhjNDZlOTIxMzdkNzY1MDUyNWUwOTJkOTY5ZTM1YjUzZTM5NjQxMQ"
     }
    ]
   },
