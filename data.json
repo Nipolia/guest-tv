@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T00:32:55.043568+00:00",
+ "generated": "2026-10-21T00:47:23.610953+00:00",
  "games": [
   {
    "title": "San Jose - Montr\u00e9al",
@@ -11,10 +11,6 @@
     {
      "name": "720p away",
      "url": "https://gate4.st/live3/F132/index.m3u8?st=JA3lIrCqunOXVk_RLZ46-A&e=1792552729"
-    },
-    {
-     "name": "720p french",
-     "url": "https://instreams.live/live3/F146/index.m3u8?st=pJdqjdWHazoXlJvT4DmV2Q&e=1792552735"
     }
    ]
   },
@@ -67,10 +63,6 @@
     {
      "name": "1080p away",
      "url": "https://instreams.pro/live3/F139/index.m3u8?st=0J7EltXeI2_PK2rn5eaaLg&e=1792552920"
-    },
-    {
-     "name": "away",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc168/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTY4OjE3OTI1NTY1NDE1Mzg6Y2RubGl2ZXR2LmlzOjIxYmFiNWJiNWE2YTBkYTUuOGJiYzUxYjBjMjVjNDZiMzY0ODM5OWExMmJlYjRmNmU0YzkzNzAyODIxNzdhNDkyMWI5NmYyNmZhNmQxNWI0Ng"
     }
    ]
   },
@@ -106,10 +98,6 @@
     {
      "name": "720p home",
      "url": "https://gate4.st/live3/F173/index.m3u8?st=qe94cIBWNaCk7NAFG3Z4ng&e=1792553036"
-    },
-    {
-     "name": "720p home",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc2be/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJlOjE3OTI1NTY2NDgxNjY6Y2RubGl2ZXR2LmlzOmQwYTQ0NWFlMzM1Njk2ODIuMjkzYWE2OGQ2MTM2Y2UxYWM3ZWU3NjhjNzNiMzdkMTIwYmZmM2U4MGM5MmIyMDQwMWZlZTFjZGZiYzdkMGQ5Mw"
     }
    ]
   }
