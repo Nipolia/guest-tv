@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T13:17:10.036610+00:00",
+ "generated": "2026-10-21T13:32:03.581891+00:00",
  "games": [
   {
    "title": "Lokomotiv Orsha - Brest",
@@ -15,7 +15,7 @@
    "feeds": [
     {
      "name": "720p russian",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2d81d8192bb76ce150/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTUwOjE3OTI2MDI4NTQ4MjY6Y2RubGl2ZXR2LmlzOjViMzk4MmU0MjQ2ODE5NjAuODExOTllMGM3ZWQ5ZThhOGFmMmU1NmNiNDJjZDM3YzE4ZmZiMTQ2ODlkNmRlZmYxZGVmOGI5ZDBiODkyMjY5YQ"
+     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2d81d8192bb76ce150/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTUwOjE3OTI2MDM3Nzk4MTk6Y2RubGl2ZXR2LmlzOjA2NDYyN2M1MzcwZmJjOGYuYTA0MjMyNTg4MDJlYTA3N2QzYmY4NDY0ZjcwYjJjZDViYjI2ODIwOWM4ZWRkMGI5YWY3ZDE4ZmI0MjY2NzdjZg"
     }
    ]
   },
