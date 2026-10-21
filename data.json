@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T04:02:16.223679+00:00",
+ "generated": "2026-10-21T04:17:25.294466+00:00",
  "games": [
   {
    "title": "Minnesota - Edmonton",
@@ -7,10 +7,6 @@
     {
      "name": "720p home",
      "url": "https://instreams.xyz/live3/F173/index.m3u8?st=Py9GkeMypdqeEFZ42AZtoA&e=1792565843"
-    },
-    {
-     "name": "720p home",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc2be/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJlOjE3OTI1Njk0NjU1MDg6Y2RubGl2ZXR2LmlzOjQzNjJhZWIwZmZiMmE4OTUuNjY1ZmIwMzFmZWJlNDFiZjg5NDZiOTQzZDkzOTVmNGNhMTk1NzFjZjQ4OGFjZTliY2U0M2NkMDY2YzBlMzExNQ"
     }
    ]
   },
@@ -28,19 +24,6 @@
    ]
   },
   {
-   "title": "Carolina - Vancouver",
-   "feeds": [
-    {
-     "name": "home",
-     "url": "https://instreams.live/live3/F177/index.m3u8?st=lRUEfX6-H7Up1B0EMIPW1g&e=1792565905"
-    },
-    {
-     "name": "home",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc168/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTY4OjE3OTI1Njk1NTU4MzA6Y2RubGl2ZXR2LmlzOjU1NGMxMTM4NDZkNjlmNjIuZjEyMmE1MjRjYTAzYWQyOTU2ZDg0NzQzOTk2YzZjZWM1MDg1NzhhY2M5YzQ1ODlkOGQxYjE5NzEzMzA0MGNmNQ"
-    }
-   ]
-  },
-  {
    "title": "Tampa Bay - Vegas",
    "feeds": [
     {
@@ -50,15 +33,6 @@
     {
      "name": "720p english",
      "url": "https://instreams.pro/live3/F111/index.m3u8?st=RkVBg1P3rE9jPbTlxgSphA&e=1792565964"
-    }
-   ]
-  },
-  {
-   "title": "Admiral Vladivostok - Barys (russian(ru))",
-   "feeds": [
-    {
-     "name": "feed",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2d81d8192bb76ce150/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTUwOjE3OTI1Njk2MzIxODY6Y2RubGl2ZXR2LmlzOjNiODY3OTdmNTk2OGFjMmUuMGRkNDIyNGZjNDc1YmMzMTEyN2QyN2E0NzJmZGQ3N2ZlYTk3ZWE0ODljOTliODkxM2E0MmQ4ZmM2ZTYwNTI4NA"
     }
    ]
   },
