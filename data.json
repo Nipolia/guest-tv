@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-21T06:17:01.079716+00:00",
+ "generated": "2026-10-21T06:32:06.555254+00:00",
  "games": [
   {
    "title": "Minnesota - Edmonton",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.pro/live3/F173/index.m3u8?st=ANykHbXxxkGUtVRuGUvbKQ&e=1792572925"
+     "url": "https://instreams.live/live3/F173/index.m3u8?st=Zu9_tuFw4qIX5UANm1UBHw&e=1792574727"
     },
     {
      "name": "720p home",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc2be/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJlOjE3OTI1NzY1NDI1Nzg6Y2RubGl2ZXR2LmlzOmVhYmFhZjZlZmRkZTk2MWIuNTBjZTMyYjQ5ZmY0N2Y2ZGIzMWQ3MDk3ZWYyZTQ2MmExNWZlMTQ5ZTljZjQ1NWUxZjNkMDk3ZDhjNjkyODEyYw"
+     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc2be/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJlOjE3OTI1NzgzNTI4Mzg6Y2RubGl2ZXR2LmlzOmU1NWE5MWUyYzI4NjU2ODkuOTNjYjY4YTEyYTE0M2U5YjBhN2FiZDE2YjUxYmNiY2E1YmEwNGJkZDJlOGEzOGQ4YzlhYTk2ZDJkMjEyY2E0Yw"
     }
    ]
   },
@@ -19,11 +19,24 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.xyz/live3/F174/index.m3u8?st=SbVdGuvQZb8Lr8rVeIqCRA&e=1792572956"
+     "url": "https://instreams.live/live3/F174/index.m3u8?st=g0PAb3E3OxuX23YFuXhoYA&e=1792574767"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.live/live3/F175/index.m3u8?st=KVejym2chE8BQdpHuBAwzw&e=1792572967"
+     "url": "https://gate4.st/live3/F175/index.m3u8?st=YcHmZDVCHeYvDL29giFNtw&e=1792574779"
+    }
+   ]
+  },
+  {
+   "title": "Carolina - Vancouver",
+   "feeds": [
+    {
+     "name": "home",
+     "url": "https://instreams.xyz/live3/F177/index.m3u8?st=bDdSQAIxXRNf7CkMTDvpig&e=1792574802"
+    },
+    {
+     "name": "home",
+     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc168/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTY4OjE3OTI1Nzg0NTkxMjE6Y2RubGl2ZXR2LmlzOmFkYTVmMjcyOWJlMDE2ZGUuODI0MGMzMTIwYTVmMTVmOTBjMjE2NmEwMjEyOTYwZmY5Y2ZmYTFlNDc4M2I5NzA1MWRiMjc3OTRmZWJlYmI5NQ"
     }
    ]
   },
@@ -32,11 +45,20 @@
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://gate4.st/live3/F178/index.m3u8?st=TRvozeDaVP6SfvnoOtXZFQ&e=1792573051"
+     "url": "https://instreams.pro/live3/F178/index.m3u8?st=Fc0tcOyEp4WHf34EZbrrQg&e=1792574870"
     },
     {
      "name": "720p english",
-     "url": "https://instreams.live/live3/F111/index.m3u8?st=GzuX4HFBsYxuFR_kqJKV_g&e=1792573053"
+     "url": "https://gate4.st/live3/F111/index.m3u8?st=blnsj85fQ8fKEJO2BDeW4g&e=1792574871"
+    }
+   ]
+  },
+  {
+   "title": "Admiral Vladivostok - Barys (russian(ru))",
+   "feeds": [
+    {
+     "name": "feed",
+     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2d81d8192bb76ce150/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNlMTUwOjE3OTI1Nzg1NzQ5NTc6Y2RubGl2ZXR2LmlzOjY2ZWI5NzBhZGVlYTljZWUuMDAwZGM4M2I4OGZlMzlhMGJkZTBiOGVlMGI1MGMzZTVhOWQ2NTA0ZThkMjg4ZmJkMmU1NjhhMmNkOGM3MDFjNg"
     }
    ]
   },
