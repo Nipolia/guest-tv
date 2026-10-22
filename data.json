@@ -1,4 +1,23 @@
 {
- "generated": "2026-10-22T12:31:54.514085+00:00",
- "games": []
+ "generated": "2026-10-22T12:47:02.138174+00:00",
+ "games": [
+  {
+   "title": "Avangard - Neftekhimik (russian(by))",
+   "feeds": [
+    {
+     "name": "1080p",
+     "url": "https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8"
+    }
+   ]
+  },
+  {
+   "title": "Sochi - Dinamo Minsk",
+   "feeds": [
+    {
+     "name": "1080p russian",
+     "url": "https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8"
+    }
+   ]
+  }
+ ]
 }
