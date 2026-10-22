@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T17:02:14.740188+00:00",
+ "generated": "2026-10-22T17:17:25.074232+00:00",
  "games": [
   {
    "title": "Sochi - Dinamo Minsk",
@@ -7,24 +7,6 @@
     {
      "name": "1080p russian",
      "url": "https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8"
-    }
-   ]
-  },
-  {
-   "title": "Skellefte\u00e5 AIK - Djurg\u00e5rden",
-   "feeds": [
-    {
-     "name": "540p swedish",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2c81d8192bb76cd68b/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNjhiOjE3OTI3MDIxMTcxMzg6Y2RubGl2ZXR2LmlzOmE5NjI2Y2FkN2MxN2JjMjIuYjhhZTEwYjE3Njk4NDU5MTg5MDkxMWRmNDdkZTRkNDcxODNiYjdmOTU4Yjk1ZWQzNTQxMmE4YjU4YTVkOWYxNA"
-    }
-   ]
-  },
-  {
-   "title": "\u00d6rebro HK - Bryn\u00e4s IF",
-   "feeds": [
-    {
-     "name": "576p swedish",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2c81d8192bb76cd688/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNjg4OjE3OTI3MDIxNjMxNzk6Y2RubGl2ZXR2LmlzOmU5ZjFlMDFjODdlMzRmOTcuOWZhNTM4ODg2NGY4NDgxNzJjZDllODZlZGEwNjZkMTYxMjhjN2EyZmUxN2Q1ZjcxODJiYWFlMDY0MzcwMGM3Mg"
     }
    ]
   }
