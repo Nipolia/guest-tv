@@ -1,12 +1,20 @@
 {
- "generated": "2026-10-22T03:17:21.015553+00:00",
+ "generated": "2026-10-22T03:31:54.340055+00:00",
  "games": [
   {
    "title": "Philadelphia - Buffalo",
    "feeds": [
     {
      "name": "1080p TNT",
-     "url": "https://instreams.pro/live3/F119/index.m3u8?st=qUK66sjluKjs6Ms9e-1RKg&e=1792648623"
+     "url": "https://instreams.pro/live3/F131/index.m3u8?st=BLpPawJmI-rO88h96CBCPw&e=1792650301"
+    },
+    {
+     "name": "1080p TNT",
+     "url": "https://instreams.xyz/live3/F119/index.m3u8?st=BoRnzG4xFaB_YIUoqnPQXw&e=1792650301"
+    },
+    {
+     "name": "1080p TNT",
+     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb402/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDAyOjE3OTI2NTM5MTMxMzA6Y2RubGl2ZXR2LmlzOjMwZWUxMDkxYjNlZWU0ZGMuNzM5Y2EzY2JiODgzOWUzODBlYmNjNDFlZGQ0NDVjMmRlNWE5YjE1ZTdiYTlkMzRlZmI1NTFlYzBlMDg3NmU0MQ"
     }
    ]
   },
@@ -15,7 +23,7 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.live/live3/F132/index.m3u8?st=mIL5AcIhVlX2GaNTOqL7IA&e=1792648643"
+     "url": "https://instreams.pro/live3/F132/index.m3u8?st=T62V0-p9MYZ0KPB6UuVXBw&e=1792650317"
     }
    ]
   }
