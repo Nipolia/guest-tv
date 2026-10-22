@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T00:47:09.293138+00:00",
+ "generated": "2026-10-22T01:02:07.134658+00:00",
  "games": [
   {
    "title": "Philadelphia - Buffalo",
@@ -11,10 +11,6 @@
     {
      "name": "1080p TNT",
      "url": "https://gate4.st/live3/F119/index.m3u8?st=RTcK_nJAIXC8vinQ_bauyw&e=1792640315"
-    },
-    {
-     "name": "1080p TNT",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb402/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDAyOjE3OTI2NDM5MzMyOTA6Y2RubGl2ZXR2LmlzOjAxNTM0YzEyNDA2YWMzZjUuYjJiNjZhM2FhMDRhYzcyNWVjMDEyMGI5MjRkYmU1ZmM4MGZhNDBkOWQ3N2NiMGM0MjQyZWZjY2Q1NzFmN2FlNg"
     }
    ]
   },
