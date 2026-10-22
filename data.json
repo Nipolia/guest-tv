@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T23:47:10.088781+00:00",
+ "generated": "2026-10-22T00:02:11.675359+00:00",
  "games": [
   {
    "title": "Philadelphia - Buffalo",
@@ -7,10 +7,6 @@
     {
      "name": "1080p TNT",
      "url": "https://instreams.xyz/live3/F131/index.m3u8?st=vUReYrX-xfXygV3nzEjHaA&e=1792636956"
-    },
-    {
-     "name": "1080p TNT",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb402/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDAyOjE3OTI2NDA1NzQ4MDE6Y2RubGl2ZXR2LmlzOjU0NDJmODI0YmUzZWJhMDguODNhZWJmYjYwM2Q5YzU1ZDhlNjU3NGUzOWU3MjRiYzc1NDQ1NDkwNWJkM2ZkMTljOGFjMTA4OWJjZGZjOGI3NQ"
     }
    ]
   },
