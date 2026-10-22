@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T16:32:12.018736+00:00",
+ "generated": "2026-10-22T16:47:06.017268+00:00",
  "games": [
   {
    "title": "Avangard - Neftekhimik (russian(by))",
@@ -16,15 +16,6 @@
     {
      "name": "1080p russian",
      "url": "https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8"
-    }
-   ]
-  },
-  {
-   "title": "Skellefte\u00e5 AIK - Djurg\u00e5rden",
-   "feeds": [
-    {
-     "name": "540p swedish",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2c81d8192bb76cd68b/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNjhiOjE3OTI3MDA2NzUyNDc6Y2RubGl2ZXR2LmlzOmQ3MDg1MDNlMDBhMzlmMWUuYzQ1OGY3N2EwNWNiZWFlYmVkOTc2MTQwNmMyZGNmZDA0YmUyYWUxZmI1NGU1MjY2YjYxNDNkZWY3ZTkwMDNjMQ"
     }
    ]
   }
