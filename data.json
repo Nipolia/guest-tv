@@ -1,4 +1,14 @@
 {
- "generated": "2026-10-23T14:31:57.518255+00:00",
- "games": []
+ "generated": "2026-10-23T14:47:00.160754+00:00",
+ "games": [
+  {
+   "title": "Shakhter - HK Vitebsk",
+   "feeds": [
+    {
+     "name": "1080p Belarus 5",
+     "url": "https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8"
+    }
+   ]
+  }
+ ]
 }
