@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T03:02:10.525546+00:00",
+ "generated": "2026-10-23T03:17:07.587474+00:00",
  "games": [
   {
    "title": "Winnipeg - Dallas",
@@ -47,10 +47,6 @@
     {
      "name": "720p away",
      "url": "https://gate4.st/live3/F178/index.m3u8?st=EbZfEAAu_k1gAh9zd-8ZxQ&e=1792734932"
-    },
-    {
-     "name": "home",
-     "url": "https://instreams.live/live3/F177/index.m3u8?st=Wa1RpUs6ctOdxcZAUOsCQg&e=1792734908"
     }
    ]
   }
