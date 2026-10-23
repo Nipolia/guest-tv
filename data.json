@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T01:32:37.058024+00:00",
+ "generated": "2026-10-23T01:47:29.373456+00:00",
  "games": [
   {
    "title": "Nashville - Boston",
@@ -82,10 +82,6 @@
     {
      "name": "720p home",
      "url": "https://instreams.live/live3/F171/index.m3u8?st=YL0wYga6vedorYqx3p2vbg&e=1792729161"
-    },
-    {
-     "name": "720p away",
-     "url": "https://instreams.pro/live3/F172/index.m3u8?st=iwFo_jewDMzYp0yn080dXA&e=1792729187"
     }
    ]
   },
