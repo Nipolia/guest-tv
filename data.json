@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-23T00:02:07.106719+00:00",
+ "generated": "2026-10-23T00:17:49.330205+00:00",
  "games": [
   {
    "title": "Nashville - Boston",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F131/index.m3u8?st=Z8Hy-Uh6D5cXcgEGujgdNw&e=1792723198"
+     "url": "https://instreams.pro/live3/F131/index.m3u8?st=by546JL3-lPcO1jGlouH5Q&e=1792725029"
     }
    ]
   },
@@ -15,11 +15,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.live/live3/F132/index.m3u8?st=qFnjI9Bmq_xpQ_4MvhzDFQ&e=1792723223"
+     "url": "https://gate4.st/live3/F132/index.m3u8?st=5HksDyohYpp_nHaQJuC-WA&e=1792725055"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.pro/live3/F133/index.m3u8?st=v5RNxIOdFt_4lf2qgAH-3Q&e=1792723244"
+     "url": "https://instreams.live/live3/F133/index.m3u8?st=mx1k3kBeK90QI-0ZD2PvjQ&e=1792725077"
     }
    ]
   },
@@ -28,11 +28,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.live/live3/F134/index.m3u8?st=fLJ0pgsXDoBS1HW3aCCDrQ&e=1792723264"
+     "url": "https://gate4.st/live3/F134/index.m3u8?st=4dsCnvDJnUHAApscSFE1SQ&e=1792725097"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.live/live3/F135/index.m3u8?st=bMWSEBRYoPLQNisFvv3pew&e=1792723295"
+     "url": "https://gate4.st/live3/F135/index.m3u8?st=GoonRIQEKuC7mCLZroXmYw&e=1792725129"
     }
    ]
   },
@@ -41,11 +41,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.pro/live3/F136/index.m3u8?st=P9HVG-orxDeFSLArM2CvIA&e=1792723317"
+     "url": "https://instreams.pro/live3/F136/index.m3u8?st=ga8i7YX-lxu7igEDbppdQA&e=1792725147"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.live/live3/F137/index.m3u8?st=ftI2RwEKC5XT_1l9I5rrLg&e=1792723329"
+     "url": "https://instreams.xyz/live3/F137/index.m3u8?st=eTVcL7FzEoSpC1AIhVr6fw&e=1792725170"
     }
    ]
   },
@@ -54,7 +54,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.pro/live3/F138/index.m3u8?st=bAhlYxfJCNxxSc_u5SvhvA&e=1792723335"
+     "url": "https://gate4.st/live3/F138/index.m3u8?st=i8psF-ItcPTytQvNNbYTDQ&e=1792725181"
     }
    ]
   },
@@ -63,7 +63,29 @@
    "feeds": [
     {
      "name": "720p english",
-     "url": "https://instreams.pro/live3/F139/index.m3u8?st=eiagC0b4ECbi0VstLGVHZQ&e=1792723374"
+     "url": "https://instreams.pro/live3/F139/index.m3u8?st=jwTbu8-D_jYrCVzwQaxNWA&e=1792725221"
+    }
+   ]
+  },
+  {
+   "title": "Vegas - St. Louis",
+   "feeds": [
+    {
+     "name": "720p home",
+     "url": "https://gate4.st/live3/F140/index.m3u8?st=EBMkphfLGRyaUbaeCqGQCQ&e=1792725240"
+    }
+   ]
+  },
+  {
+   "title": "Winnipeg - Dallas",
+   "feeds": [
+    {
+     "name": "720p home",
+     "url": "https://gate4.st/live3/F171/index.m3u8?st=MZSBu93_Kpch5Aq0VVXJNg&e=1792725275"
+    },
+    {
+     "name": "720p away",
+     "url": "https://gate4.st/live3/F172/index.m3u8?st=EsOOzYLfypXQ2kL9HQozbQ&e=1792725305"
     }
    ]
   }
