@@ -1,25 +1,16 @@
 {
- "generated": "2026-10-23T02:47:10.850673+00:00",
+ "generated": "2026-10-23T03:02:10.525546+00:00",
  "games": [
-  {
-   "title": "Vegas - St. Louis",
-   "feeds": [
-    {
-     "name": "720p home",
-     "url": "https://gate4.st/live3/F140/index.m3u8?st=0_SnmSY0G8e44wV2TPklLw&e=1792732942"
-    }
-   ]
-  },
   {
    "title": "Winnipeg - Dallas",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F171/index.m3u8?st=w8jsZ14ANa1OaYBINu1eRg&e=1792732982"
+     "url": "https://instreams.xyz/live3/F171/index.m3u8?st=WHtVW6FWNTjni0pyfRJqqA&e=1792734775"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.pro/live3/F172/index.m3u8?st=zTX0iwTNL81Ptb41FJel1w&e=1792732998"
+     "url": "https://instreams.pro/live3/F172/index.m3u8?st=kPSRGLnaLxTabrAgglLkwA&e=1792734798"
     }
    ]
   },
@@ -28,7 +19,7 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://gate4.st/live3/F173/index.m3u8?st=gqrwkhig3dKRmerbdyRooQ&e=1792733011"
+     "url": "https://instreams.xyz/live3/F173/index.m3u8?st=gc0fwkyz6SiXa2sJ_X15fw&e=1792734805"
     }
    ]
   },
@@ -37,7 +28,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://gate4.st/live3/F174/index.m3u8?st=Da48rW766gTMtbe7BtQuRA&e=1792733048"
+     "url": "https://instreams.xyz/live3/F174/index.m3u8?st=XUAKIi28EjVq4vnweujLCw&e=1792734841"
     }
    ]
   },
@@ -46,7 +37,7 @@
    "feeds": [
     {
      "name": "720p english",
-     "url": "https://instreams.live/live3/F175/index.m3u8?st=RST-1WngIz6TNvCigMeVaw&e=1792733092"
+     "url": "https://instreams.live/live3/F175/index.m3u8?st=RXYTqVrrJ5yCUT-baeujKQ&e=1792734885"
     }
    ]
   },
@@ -55,7 +46,11 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.pro/live3/F178/index.m3u8?st=KYfDlK1jC-l6HLAS848yYA&e=1792733146"
+     "url": "https://gate4.st/live3/F178/index.m3u8?st=EbZfEAAu_k1gAh9zd-8ZxQ&e=1792734932"
+    },
+    {
+     "name": "home",
+     "url": "https://instreams.live/live3/F177/index.m3u8?st=Wa1RpUs6ctOdxcZAUOsCQg&e=1792734908"
     }
    ]
   }
