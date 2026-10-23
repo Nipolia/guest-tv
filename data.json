@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T05:02:07.655105+00:00",
+ "generated": "2026-10-23T05:16:55.084899+00:00",
  "games": [
   {
    "title": "Winnipeg - Dallas",
@@ -29,15 +29,6 @@
     {
      "name": "720p home",
      "url": "https://instreams.live/live3/F174/index.m3u8?st=k0b4NkE0NwV9UuUX35BMGg&e=1792742100"
-    }
-   ]
-  },
-  {
-   "title": "Utah - Seattle",
-   "feeds": [
-    {
-     "name": "720p english",
-     "url": "https://instreams.pro/live3/F175/index.m3u8?st=O_c5mOg8OP_jdpKSut7cjA&e=1792742162"
     }
    ]
   },
