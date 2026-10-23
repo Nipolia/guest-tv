@@ -1,12 +1,30 @@
 {
- "generated": "2026-10-23T16:02:02.834626+00:00",
+ "generated": "2026-10-23T16:17:09.025133+00:00",
  "games": [
+  {
+   "title": "MoDo Hockey - AIK",
+   "feeds": [
+    {
+     "name": "576p TV4 Hockey",
+     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2c81d8192bb76cd688/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNjg4OjE3OTI3ODU5MjczODg6Y2RubGl2ZXR2LmlzOmM5OTk2MzZiNWExNTcxNTYuZGMxY2RjNzljZmU5NjhmOTgzNjIwY2JkMjZkMGM1M2Y1MGUxY2FkMjk5YjkxOTEwNDk0YTMwZDJlMWMzZWEyOQ"
+    }
+   ]
+  },
   {
    "title": "Shakhter - HK Vitebsk",
    "feeds": [
     {
      "name": "1080p Belarus 5",
      "url": "https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8"
+    }
+   ]
+  },
+  {
+   "title": "Kalmar HC - Leksands IF",
+   "feeds": [
+    {
+     "name": "576p TV4 Hockey",
+     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2c81d8192bb76cd688/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNjg4OjE3OTI3ODU5Njk2NzE6Y2RubGl2ZXR2LmlzOmUzMDU3OWVlOWJjZmE5MGIuZmE1YjA4MjkyZjZlMWMyYzQzY2U4YTUwNDVkZWZhZDYyNzU4MTQzNzk0ZWI2MjIwOTBiNjY3MGJlMGQxZWY0Zg"
     }
    ]
   }
