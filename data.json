@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-23T04:46:58.756153+00:00",
+ "generated": "2026-10-23T05:02:07.655105+00:00",
  "games": [
   {
    "title": "Winnipeg - Dallas",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.pro/live3/F171/index.m3u8?st=XTYfyth7jRzR0nyH_Bxfig&e=1792740187"
+     "url": "https://gate4.st/live3/F171/index.m3u8?st=CGGWOorpyJzX9ZojpsmznQ&e=1792742011"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.pro/live3/F172/index.m3u8?st=xnkHd6rwYAN4x2zYuGf-lw&e=1792740218"
+     "url": "https://gate4.st/live3/F172/index.m3u8?st=QNW7tInotKB0ayTwDME-_Q&e=1792742047"
     }
    ]
   },
@@ -19,7 +19,7 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.xyz/live3/F173/index.m3u8?st=tfKPmbf4ZjUCmw5-pdgyPg&e=1792740229"
+     "url": "https://instreams.pro/live3/F173/index.m3u8?st=h-iBeQbBXQBTnew5mfzLbA&e=1792742059"
     }
    ]
   },
@@ -28,7 +28,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F174/index.m3u8?st=9xy4JRoMNw8CbKAnALqwQw&e=1792740270"
+     "url": "https://instreams.live/live3/F174/index.m3u8?st=k0b4NkE0NwV9UuUX35BMGg&e=1792742100"
     }
    ]
   },
@@ -37,7 +37,7 @@
    "feeds": [
     {
      "name": "720p english",
-     "url": "https://instreams.pro/live3/F175/index.m3u8?st=cgmSvFwvb9zm7IaCn8-hmg&e=1792740332"
+     "url": "https://instreams.pro/live3/F175/index.m3u8?st=O_c5mOg8OP_jdpKSut7cjA&e=1792742162"
     }
    ]
   },
@@ -46,7 +46,7 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://gate4.st/live3/F178/index.m3u8?st=7ZY_sXJTzBbaYOsQIBrjHA&e=1792740378"
+     "url": "https://instreams.live/live3/F178/index.m3u8?st=NiSrxt85G0XyW-wF9MExaQ&e=1792742215"
     }
    ]
   }
