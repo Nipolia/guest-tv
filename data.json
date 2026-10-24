@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T01:47:08.524325+00:00",
+ "generated": "2026-10-24T02:01:55.060777+00:00",
  "games": [
   {
    "title": "Montr\u00e9al - Chicago",
@@ -11,10 +11,6 @@
     {
      "name": "1080p away",
      "url": "https://instreams.pro/live3/F132/index.m3u8?st=_3QaG9rc2pzXoP01sLdogA&e=1792815776"
-    },
-    {
-     "name": "1080p away",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc173/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTczOjE3OTI4MTkzOTAzNDc6Y2RubGl2ZXR2LmlzOmQ4M2NiYzU0NDM4NzdjZjEuZDNhOWFjNTRhMTM1MGFiNjljZWJjMjRiZDU3MDRlOWQ1NjlkMjhkZDA1MTdlMWZmMjhiMWU0NzBlYjYyMWUxNw"
     },
     {
      "name": "720p french",
