@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-24T18:16:53.230951+00:00",
+ "generated": "2026-10-24T18:31:51.081256+00:00",
  "games": [
   {
    "title": "Anaheim - Philadelphia",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://gate4.st/live3/F131/index.m3u8?st=kGiOrZQnwdFMpSH1qNwnYg&e=1792874725"
+     "url": "https://instreams.xyz/live3/F131/index.m3u8?st=EtVyMooiZmzEW4yaEg1_2g&e=1792876464"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.pro/live3/F132/index.m3u8?st=cywGQ1McvLdec0lvpqSuhg&e=1792874760"
+     "url": "https://instreams.pro/live3/F132/index.m3u8?st=9L6ph1hRAS13i6SFnzMEXA&e=1792876505"
     }
    ]
   }
