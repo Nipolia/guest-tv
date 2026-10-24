@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T01:17:05.538523+00:00",
+ "generated": "2026-10-24T01:32:02.413989+00:00",
  "games": [
   {
    "title": "Montr\u00e9al - Chicago",
@@ -17,6 +17,10 @@
   {
    "title": "Tampa Bay - Colorado",
    "feeds": [
+    {
+     "name": "1080p home",
+     "url": "https://instreams.live/live3/F133/index.m3u8?st=CcgNmSRSb3I_M4hyrhgPGw&e=1792813638"
+    },
     {
      "name": "540p home",
      "url": "https://instreams.xyz/live3/F68/index.m3u8?st=isBS1KgmNXPEPQa5sy7GVQ&e=1792813640"
