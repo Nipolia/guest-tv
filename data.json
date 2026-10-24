@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-24T09:31:50.813848+00:00",
+ "generated": "2026-10-24T09:46:52.126463+00:00",
  "games": [
   {
    "title": "Tampa Bay - Colorado",
    "feeds": [
     {
      "name": "540p home",
-     "url": "https://instreams.pro/live3/F68/index.m3u8?st=ha0SCJBtbjv9DtVV2d7IZA&e=1792842840"
+     "url": "https://gate4.st/live3/F68/index.m3u8?st=CAf7jLl8_anRSJpSA6GJpw&e=1792844822"
     }
    ]
   }
