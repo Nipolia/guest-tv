@@ -1,16 +1,24 @@
 {
- "generated": "2026-10-24T01:32:02.413989+00:00",
+ "generated": "2026-10-24T01:47:08.524325+00:00",
  "games": [
   {
    "title": "Montr\u00e9al - Chicago",
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://gate4.st/live3/F131/index.m3u8?st=wnQy8eh_3DmNVDyolg57ow&e=1792813590"
+     "url": "https://instreams.pro/live3/F131/index.m3u8?st=-c6ssm-baKrEJMDLbqe0Bg&e=1792815749"
     },
     {
      "name": "1080p away",
-     "url": "https://instreams.xyz/live3/F132/index.m3u8?st=Hcxne_ajaUvGoBQkXI4Mqg&e=1792813612"
+     "url": "https://instreams.pro/live3/F132/index.m3u8?st=_3QaG9rc2pzXoP01sLdogA&e=1792815776"
+    },
+    {
+     "name": "1080p away",
+     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc173/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTczOjE3OTI4MTkzOTAzNDc6Y2RubGl2ZXR2LmlzOmQ4M2NiYzU0NDM4NzdjZjEuZDNhOWFjNTRhMTM1MGFiNjljZWJjMjRiZDU3MDRlOWQ1NjlkMjhkZDA1MTdlMWZmMjhiMWU0NzBlYjYyMWUxNw"
+    },
+    {
+     "name": "720p french",
+     "url": "https://instreams.live/live3/F146/index.m3u8?st=QKmYS_x-ziTo98qj6sP1xA&e=1792815780"
     }
    ]
   },
@@ -19,11 +27,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.live/live3/F133/index.m3u8?st=CcgNmSRSb3I_M4hyrhgPGw&e=1792813638"
+     "url": "https://gate4.st/live3/F133/index.m3u8?st=7SFxJCtJgegBHL_CRurOAQ&e=1792815802"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.xyz/live3/F68/index.m3u8?st=isBS1KgmNXPEPQa5sy7GVQ&e=1792813640"
+     "url": "https://gate4.st/live3/F68/index.m3u8?st=wkw4EApG1zrBMcBbN0-kHQ&e=1792815804"
     }
    ]
   }
