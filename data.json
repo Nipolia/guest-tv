@@ -1,4 +1,14 @@
 {
- "generated": "2026-10-24T16:46:53.736230+00:00",
- "games": []
+ "generated": "2026-10-24T17:01:57.390697+00:00",
+ "games": [
+  {
+   "title": "Anaheim - Philadelphia",
+   "feeds": [
+    {
+     "name": "720p away",
+     "url": "https://instreams.live/live3/F132/index.m3u8?st=os5nivkVab7_FGijGFIznA&e=1792871181"
+    }
+   ]
+  }
+ ]
 }
