@@ -1,33 +1,16 @@
 {
- "generated": "2026-10-24T03:01:55.494292+00:00",
+ "generated": "2026-10-24T03:16:57.507198+00:00",
  "games": [
-  {
-   "title": "Montr\u00e9al - Chicago",
-   "feeds": [
-    {
-     "name": "1080p home",
-     "url": "https://gate4.st/live3/F131/index.m3u8?st=-mfiy_Vchq-XkLEQV-UirQ&e=1792819922"
-    },
-    {
-     "name": "1080p away",
-     "url": "https://instreams.pro/live3/F132/index.m3u8?st=sp5nqTy0DBIdTUsA2wraCw&e=1792819948"
-    },
-    {
-     "name": "720p french",
-     "url": "https://instreams.xyz/live3/F146/index.m3u8?st=re7iT5ETRAIa3gj0gy9ZTg&e=1792819954"
-    }
-   ]
-  },
   {
    "title": "Tampa Bay - Colorado",
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.live/live3/F133/index.m3u8?st=XwcfbGSFJo0fRYI3IAafcQ&e=1792819974"
+     "url": "https://gate4.st/live3/F133/index.m3u8?st=8_k68GDjAW_2_D9zFPEM8A&e=1792821812"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.xyz/live3/F68/index.m3u8?st=y1aFTHKnNT7SzJWjhHi87A&e=1792819978"
+     "url": "https://instreams.pro/live3/F68/index.m3u8?st=YZ9lcxGg0UnimXwtvlX5SQ&e=1792821812"
     }
    ]
   }
