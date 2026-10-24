@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T01:02:04.073944+00:00",
+ "generated": "2026-10-24T01:17:05.538523+00:00",
  "games": [
   {
    "title": "Montr\u00e9al - Chicago",
@@ -11,20 +11,12 @@
     {
      "name": "1080p away",
      "url": "https://instreams.xyz/live3/F132/index.m3u8?st=Hcxne_ajaUvGoBQkXI4Mqg&e=1792813612"
-    },
-    {
-     "name": "1080p away",
-     "url": "https://cdnlivetv.is/secure/api/v1/6a288d2a81d8192bb76cc173/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTczOjE3OTI4MTcyMjU2NDI6Y2RubGl2ZXR2LmlzOmJiNjY2ZDFhMjgyYjVlZmYuN2EyOTJiY2Y2NDQxY2MyZDcwMDE2ZTBmN2ViZTFmYjczMDdlZTRmNmQzZWQ1ZTEyODMxMmNlMWE4YWU5MGYxNQ"
     }
    ]
   },
   {
    "title": "Tampa Bay - Colorado",
    "feeds": [
-    {
-     "name": "1080p home",
-     "url": "https://instreams.live/live3/F133/index.m3u8?st=CcgNmSRSb3I_M4hyrhgPGw&e=1792813638"
-    },
     {
      "name": "540p home",
      "url": "https://instreams.xyz/live3/F68/index.m3u8?st=isBS1KgmNXPEPQa5sy7GVQ&e=1792813640"
