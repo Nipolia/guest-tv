@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T05:01:55.147478+00:00",
+ "generated": "2026-10-25T05:16:53.901234+00:00",
  "games": [
   {
    "title": "Tampa Bay - Utah",
@@ -26,10 +26,6 @@
   {
    "title": "Minnesota - Seattle",
    "feeds": [
-    {
-     "name": "720p home",
-     "url": "https://instreams.pro/live3/F178/index.m3u8?st=lnyAwr4Ex-VB04epavNmsw&e=1792915146"
-    },
     {
      "name": "540p home",
      "url": "https://gate4.st/live3/F68/index.m3u8?st=5VgH1fXZCOq3qe_lZNlm9A&e=1792915150"
