@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-25T23:02:04.338807+00:00",
+ "generated": "2026-10-25T23:16:58.380101+00:00",
  "games": [
   {
    "title": "NY - Dallas",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://gate4.st/live3/F133/index.m3u8?st=zUPFeNNdI8lHF8xQHFHIXQ&e=1792978373"
+     "url": "https://gate4.st/live3/F133/index.m3u8?st=nbJLp-PRyuJ4jWgw_NkD1w&e=1792980022"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.pro/live3/F69/index.m3u8?st=2K2WnSsQ5YsTwOtafk60Cw&e=1792978351"
+     "url": "https://instreams.pro/live3/F69/index.m3u8?st=ghYFAf50NxhmhAiMxd1ezQ&e=1792980002"
     }
    ]
   },
@@ -19,15 +19,11 @@
    "feeds": [
     {
      "name": "1080p SN",
-     "url": "https://gate4.st/live3/F134/index.m3u8?st=qnWvzMnMnv-D6Jkuw6HMjQ&e=1792978392"
+     "url": "https://instreams.xyz/live3/F134/index.m3u8?st=ZBi8oOWYmEphC-JeUxs9BA&e=1792980048"
     },
     {
      "name": "1080p TNT",
-     "url": "https://instreams.xyz/live3/F135/index.m3u8?st=ILW7wHQF_qngYZvSXx5-sQ&e=1792978418"
-    },
-    {
-     "name": "1080p TNT",
-     "url": "https://instreams.live/live3/F119/index.m3u8?st=dEO0ebk763lxUx_06KiEfg&e=1792978419"
+     "url": "https://gate4.st/live3/F135/index.m3u8?st=NNUsoM5lu3ePiTmDhZ0M0A&e=1792980076"
     }
    ]
   }
