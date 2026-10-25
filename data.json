@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T22:17:13.940511+00:00",
+ "generated": "2026-10-25T22:31:55.550383+00:00",
  "games": [
   {
    "title": "NY - Dallas",
@@ -13,6 +13,10 @@
   {
    "title": "Montr\u00e9al - Winnipeg",
    "feeds": [
+    {
+     "name": "1080p TNT",
+     "url": "https://instreams.live/live3/F119/index.m3u8?st=PbI9YwE6OjzhiHPW5d-tTA&e=1792976771"
+    },
     {
      "name": "540p SN",
      "url": "https://instreams.live/live3/F68/index.m3u8?st=RDbiWzSfWgRKbM9yZPcu3g&e=1792976739"
