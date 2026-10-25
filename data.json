@@ -1,70 +1,25 @@
 {
- "generated": "2026-10-25T02:02:12.195577+00:00",
+ "generated": "2026-10-25T02:17:04.840347+00:00",
  "games": [
-  {
-   "title": "San Jose - Boston",
-   "feeds": [
-    {
-     "name": "1080p home",
-     "url": "https://instreams.live/live3/F134/index.m3u8?st=u0u4rq5ATUZqzkb71oUE4A&e=1792903108"
-    },
-    {
-     "name": "720p away",
-     "url": "https://instreams.xyz/live3/F135/index.m3u8?st=BKHputddd0o_MN_4_TsA5A&e=1792903112"
-    }
-   ]
-  },
-  {
-   "title": "New York - Ottawa",
-   "feeds": [
-    {
-     "name": "1080p home",
-     "url": "https://instreams.live/live3/F136/index.m3u8?st=Pan5FpOThpEFX11OjTh7zA&e=1792903142"
-    }
-   ]
-  },
-  {
-   "title": "Nashville - Pittsburgh",
-   "feeds": [
-    {
-     "name": "720p home",
-     "url": "https://instreams.xyz/live3/F138/index.m3u8?st=HoCM_uVuET7NjWkHxGgSzA&e=1792903183"
-    }
-   ]
-  },
-  {
-   "title": "Buffalo - Washington",
-   "feeds": [
-    {
-     "name": "1080p away",
-     "url": "https://instreams.pro/live3/F140/index.m3u8?st=A6kqECdQbdgBcTUtDjGDTg&e=1792903224"
-    }
-   ]
-  },
-  {
-   "title": "Carolina - St. Louis",
-   "feeds": [
-    {
-     "name": "720p home",
-     "url": "https://instreams.pro/live3/F172/index.m3u8?st=ofvyz-t2vT-O03V_mOks9g&e=1792903274"
-    }
-   ]
-  },
-  {
-   "title": "Toronto - Edmonton",
-   "feeds": [
-    {
-     "name": "1080p english",
-     "url": "https://instreams.live/live3/F173/index.m3u8?st=OPG0K1zD1WM-0T-wDBL24Q&e=1792903303"
-    }
-   ]
-  },
   {
    "title": "Tampa Bay - Utah",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F174/index.m3u8?st=mXSzJk3g10uJL2_19NbtDQ&e=1792903333"
+     "url": "https://instreams.pro/live3/F174/index.m3u8?st=jAe91-OeoDbATKhUxv6bTQ&e=1792905090"
+    }
+   ]
+  },
+  {
+   "title": "Detroit - Calgary",
+   "feeds": [
+    {
+     "name": "1080p home",
+     "url": "https://gate4.st/live3/F175/index.m3u8?st=5mWx72U4rgbGCN2uZj7fxA&e=1792905115"
+    },
+    {
+     "name": "720p away",
+     "url": "https://instreams.xyz/live3/F177/index.m3u8?st=G0YeWfqGIutsnG_1HcwXaA&e=1792905136"
     }
    ]
   },
@@ -72,8 +27,12 @@
    "title": "Minnesota - Seattle",
    "feeds": [
     {
+     "name": "720p home",
+     "url": "https://instreams.pro/live3/F178/index.m3u8?st=L2nr-WI8uCkDnri3R0Xosg&e=1792905157"
+    },
+    {
      "name": "540p home",
-     "url": "https://gate4.st/live3/F68/index.m3u8?st=boDXJzTDhoFfmRe8zDJi0A&e=1792903373"
+     "url": "https://instreams.live/live3/F68/index.m3u8?st=faKKN4M_opFZj0yvLIwjsg&e=1792905159"
     }
    ]
   }
