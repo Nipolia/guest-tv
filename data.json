@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-25T10:02:03.222843+00:00",
+ "generated": "2026-10-25T10:16:56.852597+00:00",
  "games": [
   {
    "title": "Detroit - Calgary",
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.pro/live3/F175/index.m3u8?st=O-WURtRIzMZHREnpoOdlIg&e=1792932019"
+     "url": "https://instreams.pro/live3/F175/index.m3u8?st=-9scKlvVSz8fGi2AZq2oEQ&e=1792933729"
     },
     {
      "name": "720p away",
-     "url": "https://gate4.st/live3/F177/index.m3u8?st=kPrfAO7lOgEw9rlijLvKrg&e=1792932048"
+     "url": "https://instreams.live/live3/F177/index.m3u8?st=m9HrHgFwUfUM8zxHM54ozw&e=1792933763"
     }
    ]
   },
@@ -19,7 +19,7 @@
    "feeds": [
     {
      "name": "540p home",
-     "url": "https://instreams.pro/live3/F68/index.m3u8?st=ExAfj6Fz2u81eZu3XInIZg&e=1792932088"
+     "url": "https://instreams.xyz/live3/F68/index.m3u8?st=qcQmD6kQt5Np8G78YrMWzQ&e=1792933799"
     }
    ]
   }
