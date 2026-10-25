@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T23:47:09.524975+00:00",
+ "generated": "2026-10-25T00:02:10.779776+00:00",
  "games": [
   {
    "title": "San Jose - Boston",
@@ -7,10 +7,6 @@
     {
      "name": "1080p home",
      "url": "https://instreams.live/live3/F134/index.m3u8?st=sYOD1BDkbewECRTO7Njykg&e=1792895187"
-    },
-    {
-     "name": "720p away",
-     "url": "https://gate4.st/live3/F135/index.m3u8?st=FXXbTudiAUrZC9YHbi2s3Q&e=1792895193"
     }
    ]
   },
