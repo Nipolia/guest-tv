@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-25T21:31:59.454595+00:00",
+ "generated": "2026-10-25T21:46:58.711829+00:00",
  "games": [
   {
    "title": "Florida - Chicago",
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.live/live3/F131/index.m3u8?st=uif4qHOO1XrxXUP--FkyEA&e=1792973404"
+     "url": "https://instreams.live/live3/F131/index.m3u8?st=E8klG48eMV-dJq8w-5ymKA&e=1792975053"
     }
    ]
   },
@@ -14,8 +14,8 @@
    "title": "NY - Dallas",
    "feeds": [
     {
-     "name": "540p away",
-     "url": "https://instreams.live/live3/F69/index.m3u8?st=eC7Vbiv-rh6F4YxqpAx97A&e=1792973430"
+     "name": "540p home",
+     "url": "https://instreams.pro/live3/F69/index.m3u8?st=xbvk0_scGKuOFA2ZOx8Yew&e=1792975080"
     }
    ]
   }
