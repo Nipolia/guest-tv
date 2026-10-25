@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-25T02:32:14.401577+00:00",
+ "generated": "2026-10-25T02:47:00.005050+00:00",
  "games": [
   {
    "title": "Tampa Bay - Utah",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.pro/live3/F174/index.m3u8?st=jAe91-OeoDbATKhUxv6bTQ&e=1792905090"
+     "url": "https://instreams.pro/live3/F174/index.m3u8?st=uXUELRqqYSO6mfT1sgWIRg&e=1792906804"
     }
    ]
   },
@@ -15,11 +15,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://gate4.st/live3/F175/index.m3u8?st=5mWx72U4rgbGCN2uZj7fxA&e=1792905115"
+     "url": "https://gate4.st/live3/F175/index.m3u8?st=hrOmEIVxcZd3AJ-Eh-S2Xg&e=1792906821"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F177/index.m3u8?st=G0YeWfqGIutsnG_1HcwXaA&e=1792905136"
+     "url": "https://gate4.st/live3/F177/index.m3u8?st=Wp_4DeB2eG2A3fPULmaTaw&e=1792906846"
     }
    ]
   },
@@ -28,11 +28,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.pro/live3/F178/index.m3u8?st=L2nr-WI8uCkDnri3R0Xosg&e=1792905157"
+     "url": "https://instreams.live/live3/F178/index.m3u8?st=aB1o-Ug0BZz91LKIM-whlg&e=1792906874"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.live/live3/F68/index.m3u8?st=faKKN4M_opFZj0yvLIwjsg&e=1792905159"
+     "url": "https://instreams.live/live3/F68/index.m3u8?st=ENxYYL6GpMffSmd3j0L4yg&e=1792906876"
     }
    ]
   }
