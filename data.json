@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T01:47:20.336738+00:00",
+ "generated": "2026-10-25T02:02:12.195577+00:00",
  "games": [
   {
    "title": "San Jose - Boston",
@@ -20,10 +20,6 @@
     {
      "name": "1080p home",
      "url": "https://instreams.live/live3/F136/index.m3u8?st=Pan5FpOThpEFX11OjTh7zA&e=1792903142"
-    },
-    {
-     "name": "1080p away",
-     "url": "https://instreams.pro/live3/F137/index.m3u8?st=Lo5RUR9i5dIuRQOwgKCmfg&e=1792903169"
     }
    ]
   },
@@ -40,21 +36,8 @@
    "title": "Buffalo - Washington",
    "feeds": [
     {
-     "name": "1080p home",
-     "url": "https://gate4.st/live3/F139/index.m3u8?st=FDBRk1xaJ_sVyWDPQyyaEQ&e=1792903212"
-    },
-    {
      "name": "1080p away",
      "url": "https://instreams.pro/live3/F140/index.m3u8?st=A6kqECdQbdgBcTUtDjGDTg&e=1792903224"
-    }
-   ]
-  },
-  {
-   "title": "Vegas - Columbus",
-   "feeds": [
-    {
-     "name": "720p home",
-     "url": "https://instreams.pro/live3/F171/index.m3u8?st=-7ErtLZc503rtNnSTtknaA&e=1792903250"
     }
    ]
   },
