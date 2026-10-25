@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T08:01:49.924422+00:00",
+ "generated": "2026-10-25T08:16:53.700277+00:00",
  "games": [
   {
    "title": "Tampa Bay - Utah",
@@ -28,7 +28,7 @@
    "feeds": [
     {
      "name": "540p home",
-     "url": "https://instreams.live/live3/F68/index.m3u8?st=iu0lTfQRTkPIoM2fDXoOyA&e=1792925235"
+     "url": "https://gate4.st/live3/F68/index.m3u8?st=VDFcEviER1agSMfb-ckWag&e=1792926752"
     }
    ]
   }
