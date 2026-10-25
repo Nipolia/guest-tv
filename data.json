@@ -1,25 +1,16 @@
 {
- "generated": "2026-10-25T09:31:49.358274+00:00",
+ "generated": "2026-10-25T09:47:01.581592+00:00",
  "games": [
-  {
-   "title": "Tampa Bay - Utah",
-   "feeds": [
-    {
-     "name": "720p home",
-     "url": "https://instreams.xyz/live3/F174/index.m3u8?st=9eOHPtt3WXmglX-fOVMYsA&e=1792930288"
-    }
-   ]
-  },
   {
    "title": "Detroit - Calgary",
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.live/live3/F175/index.m3u8?st=Tj1FTEjBnpSGfZcRkLdF5w&e=1792930310"
+     "url": "https://instreams.pro/live3/F175/index.m3u8?st=O-WURtRIzMZHREnpoOdlIg&e=1792932019"
     },
     {
      "name": "720p away",
-     "url": "https://gate4.st/live3/F177/index.m3u8?st=OwmFWPBfHG5pL0v2oY821w&e=1792930340"
+     "url": "https://gate4.st/live3/F177/index.m3u8?st=kPrfAO7lOgEw9rlijLvKrg&e=1792932048"
     }
    ]
   },
@@ -28,7 +19,7 @@
    "feeds": [
     {
      "name": "540p home",
-     "url": "https://instreams.live/live3/F68/index.m3u8?st=J23Nb7NfQBEmcZqJG0ELSw&e=1792930375"
+     "url": "https://instreams.pro/live3/F68/index.m3u8?st=ExAfj6Fz2u81eZu3XInIZg&e=1792932088"
     }
    ]
   }
