@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T03:46:56.048530+00:00",
+ "generated": "2026-10-25T04:02:08.204460+00:00",
  "games": [
   {
    "title": "Tampa Bay - Utah",
@@ -29,10 +29,6 @@
     {
      "name": "720p home",
      "url": "https://instreams.xyz/live3/F178/index.m3u8?st=lRceXxpZbkFjARHSa0j4rA&e=1792910161"
-    },
-    {
-     "name": "540p home",
-     "url": "https://instreams.pro/live3/F68/index.m3u8?st=1PfcU8fvGdwv6BrLaexbCA&e=1792910165"
     }
    ]
   }
