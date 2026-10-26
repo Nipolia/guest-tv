@@ -1,37 +1,20 @@
 {
- "generated": "2026-10-26T01:16:56.702479+00:00",
+ "generated": "2026-10-26T01:31:56.755599+00:00",
  "games": [
-  {
-   "title": "NY - Dallas",
-   "feeds": [
-    {
-     "name": "720p away",
-     "url": "https://instreams.live/live3/F133/index.m3u8?st=LHCpuO7diwA6SiSw6iRp_w&e=1792986743"
-    },
-    {
-     "name": "540p home",
-     "url": "https://gate4.st/live3/F69/index.m3u8?st=6id7ITTh-rj9nA7bmCrl-w&e=1792986722"
-    }
-   ]
-  },
   {
    "title": "Montr\u00e9al - Winnipeg",
    "feeds": [
     {
      "name": "1080p SN",
-     "url": "https://gate4.st/live3/F134/index.m3u8?st=bFrBUAuFv8v5iOuhS6pebQ&e=1792986769"
+     "url": "https://gate4.st/live3/F134/index.m3u8?st=j_zS9mXDfpxPt2gVcYF-yA&e=1792988431"
     },
     {
      "name": "1080p TNT",
-     "url": "https://gate4.st/live3/F135/index.m3u8?st=Ms2qp00UgqaUxtSur2CKvA&e=1792986795"
+     "url": "https://gate4.st/live3/F135/index.m3u8?st=qmLtZ0QhtdbJrJVdMbMMMA&e=1792988436"
     },
     {
      "name": "1080p TNT",
-     "url": "https://instreams.live/live3/F119/index.m3u8?st=vbELQYX-hIcZuY8I1tj7OA&e=1792986797"
-    },
-    {
-     "name": "720p french",
-     "url": "https://instreams.xyz/live3/F146/index.m3u8?st=1kIu4_DyQgXdfS1lcykAkw&e=1792986828"
+     "url": "https://instreams.xyz/live3/F119/index.m3u8?st=3PuWGGfe6tKlqaPgtWwvhg&e=1792988437"
     }
    ]
   },
@@ -40,11 +23,20 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://instreams.live/live3/F137/index.m3u8?st=V6xxqc2H8F7iC4hmQQAj6A&e=1792986867"
+     "url": "https://instreams.pro/live3/F137/index.m3u8?st=wkjGZCyw4sP-8QnxWA-r1g&e=1792988505"
     },
     {
      "name": "720p home",
-     "url": "https://gate4.st/live3/F136/index.m3u8?st=gJnCq6HOvtHYxl0eJ2VWRg&e=1792986849"
+     "url": "https://instreams.pro/live3/F136/index.m3u8?st=so1iOBYkdKtIvGhEpJf23A&e=1792988485"
+    }
+   ]
+  },
+  {
+   "title": "Minnesota - Vancouver",
+   "feeds": [
+    {
+     "name": "720p home",
+     "url": "https://gate4.st/live3/F138/index.m3u8?st=D78mHv2CL8fMGNqqVJh5yA&e=1792988512"
     }
    ]
   }
