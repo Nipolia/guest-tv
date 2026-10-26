@@ -1,13 +1,9 @@
 {
- "generated": "2026-10-26T03:18:00.921161+00:00",
+ "generated": "2026-10-26T03:33:11.581364+00:00",
  "games": [
   {
    "title": "Montr\u00e9al - Winnipeg",
    "feeds": [
-    {
-     "name": "1080p SN",
-     "url": "https://instreams.live/live3/F134/index.m3u8?st=ekh-YyvWkkceH1KC3Ss9iA&e=1792990082"
-    },
     {
      "name": "1080p TNT",
      "url": "https://instreams.xyz/live3/F135/index.m3u8?st=yT64m9C9TQn7WTpfL87wzA&e=1792990087"
@@ -15,6 +11,10 @@
     {
      "name": "1080p TNT",
      "url": "https://gate4.st/live3/F119/index.m3u8?st=Tb6qVDcRY9sZDMd8FNpVvA&e=1792990087"
+    },
+    {
+     "name": "720p french",
+     "url": "https://instreams.live/live3/F146/index.m3u8?st=rBe4D9SAKdVdG4dkIF8jtQ&e=1792990125"
     }
    ]
   },
