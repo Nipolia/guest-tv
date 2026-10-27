@@ -1,12 +1,16 @@
 {
- "generated": "2026-10-27T22:46:59.488837+00:00",
+ "generated": "2026-10-27T23:02:05.477482+00:00",
  "games": [
   {
    "title": "Boston - Carolina",
    "feeds": [
     {
      "name": "720p english",
-     "url": "https://gate4.st/live3/F111/index.m3u8?st=m6lJ6yh3esjGakuHE83WXw&e=1793150727"
+     "url": "https://instreams.live/live3/F132/index.m3u8?st=DB4BKTg7UF4aMZ0c3NZDdQ&e=1793152492"
+    },
+    {
+     "name": "720p english",
+     "url": "https://gate4.st/live3/F111/index.m3u8?st=1NVhQ5W3eFbfjBaydh6ejw&e=1793152493"
     }
    ]
   },
@@ -14,8 +18,65 @@
    "title": "Columbus - Philadelphia",
    "feeds": [
     {
+     "name": "720p home",
+     "url": "https://gate4.st/live3/F131/index.m3u8?st=IwyPDZasgItMq3sZGglYuA&e=1793152422"
+    },
+    {
      "name": "540p home",
-     "url": "https://instreams.pro/live3/F69/index.m3u8?st=wIoQzlMnf5mnXuv40c-yDg&e=1793150686"
+     "url": "https://instreams.live/live3/F69/index.m3u8?st=M3mHujeHbNZERF7YpCmDkQ&e=1793152422"
+    }
+   ]
+  },
+  {
+   "title": "Los Angeles - Chicago",
+   "feeds": [
+    {
+     "name": "1080p home",
+     "url": "https://instreams.pro/live3/F133/index.m3u8?st=eagx1M8AjWO63HEZTYFYCg&e=1793152515"
+    }
+   ]
+  },
+  {
+   "title": "Montr\u00e9al - St. Louis",
+   "feeds": [
+    {
+     "name": "1080p away",
+     "url": "https://gate4.st/live3/F135/index.m3u8?st=5fkawGYafUtGMVd9_fFfag&e=1793152535"
+    },
+    {
+     "name": "720p french",
+     "url": "https://instreams.pro/live3/F146/index.m3u8?st=rufR9AjW7HP3Wjtbyklu8A&e=1793152541"
+    }
+   ]
+  },
+  {
+   "title": "NY - Nashville",
+   "feeds": [
+    {
+     "name": "1080p home",
+     "url": "https://instreams.live/live3/F136/index.m3u8?st=YPXVJLYMdffcCEiQDtPEfg&e=1793152545"
+    },
+    {
+     "name": "720p away",
+     "url": "https://instreams.pro/live3/F137/index.m3u8?st=4zx0OBf6j2dXX2Ql57ltow&e=1793152548"
+    }
+   ]
+  },
+  {
+   "title": "New Jersey - Dallas",
+   "feeds": [
+    {
+     "name": "720p away",
+     "url": "https://gate4.st/live3/F139/index.m3u8?st=9A5jhJK86GxfXDM_KgGdFA&e=1793152554"
+    }
+   ]
+  },
+  {
+   "title": "Florida - Winnipeg",
+   "feeds": [
+    {
+     "name": "720p home",
+     "url": "https://instreams.pro/live3/F140/index.m3u8?st=8SYmvldjq1eUv2dgf5BnhQ&e=1793152575"
     }
    ]
   }
