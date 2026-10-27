@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-27T07:46:52.654653+00:00",
+ "generated": "2026-10-27T08:01:56.847022+00:00",
  "games": [
   {
    "title": "Toronto - Calgary",
    "feeds": [
     {
      "name": "720p english",
-     "url": "https://instreams.live/live3/F132/index.m3u8?st=WjEl9z7ouG4fMmDNlroiwg&e=1793096702"
+     "url": "https://instreams.xyz/live3/F132/index.m3u8?st=3B1oNBMbPqhWbTZ61GLExw&e=1793098381"
     }
    ]
   },
@@ -15,11 +15,11 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.live/live3/F134/index.m3u8?st=hdtTxyhqMMUkZe452o493w&e=1793096790"
+     "url": "https://instreams.xyz/live3/F134/index.m3u8?st=hyR4wcSQ366S1o9B33SpiQ&e=1793098463"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.xyz/live3/F68/index.m3u8?st=Z9daLUxhSjcWibFOTN_mZg&e=1793096759"
+     "url": "https://instreams.pro/live3/F68/index.m3u8?st=FX6D9eyLXCNZE8yAgjCBrQ&e=1793098439"
     }
    ]
   }
