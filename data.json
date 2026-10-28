@@ -1,86 +1,12 @@
 {
- "generated": "2026-10-28T03:02:30.545698+00:00",
+ "generated": "2026-10-28T03:17:00.454243+00:00",
  "games": [
-  {
-   "title": "Boston - Carolina",
-   "feeds": [
-    {
-     "name": "720p english",
-     "url": "https://instreams.pro/live3/F132/index.m3u8?st=5Xt3GNUYjvsuU_nR0C29iw&e=1793165786"
-    },
-    {
-     "name": "720p english",
-     "url": "https://gate4.st/live3/F111/index.m3u8?st=B2w21zudgBog0_h2uGORTw&e=1793165786"
-    }
-   ]
-  },
-  {
-   "title": "Los Angeles - Chicago",
-   "feeds": [
-    {
-     "name": "1080p home",
-     "url": "https://instreams.xyz/live3/F133/index.m3u8?st=FAW30oNPy0iWWIBp65MHCQ&e=1793165829"
-    }
-   ]
-  },
-  {
-   "title": "Montr\u00e9al - St. Louis",
-   "feeds": [
-    {
-     "name": "1080p away",
-     "url": "https://gate4.st/live3/F135/index.m3u8?st=ebXz8kOrQVH65PpdMiph6g&e=1793165884"
-    },
-    {
-     "name": "720p home",
-     "url": "https://instreams.pro/live3/F134/index.m3u8?st=N8c1YTTMhbNLoLrlF22i_Q&e=1793165868"
-    },
-    {
-     "name": "720p french",
-     "url": "https://instreams.live/live3/F146/index.m3u8?st=d-aArVe7ccw-NXqFt9j57Q&e=1793165896"
-    }
-   ]
-  },
-  {
-   "title": "NY - Nashville",
-   "feeds": [
-    {
-     "name": "1080p home",
-     "url": "https://instreams.xyz/live3/F136/index.m3u8?st=dnzUucQVx9JNQRBjhHERLA&e=1793165900"
-    },
-    {
-     "name": "720p away",
-     "url": "https://gate4.st/live3/F137/index.m3u8?st=KnGQUuFKET47wu_Tz-C0UQ&e=1793165913"
-    }
-   ]
-  },
-  {
-   "title": "New Jersey - Dallas",
-   "feeds": [
-    {
-     "name": "1080p home",
-     "url": "https://gate4.st/live3/F138/index.m3u8?st=p-JS9N9RZStTA-wysD9JLw&e=1793165935"
-    },
-    {
-     "name": "720p away",
-     "url": "https://gate4.st/live3/F139/index.m3u8?st=pUN35XcMUB06YGd3Ny3AsQ&e=1793165954"
-    }
-   ]
-  },
-  {
-   "title": "Florida - Winnipeg",
-   "feeds": [
-    {
-     "name": "720p home",
-     "url": "https://instreams.live/live3/F140/index.m3u8?st=tFoDuLST67XkqDEndsRvVg&e=1793165978"
-    }
-   ]
-  },
   {
    "title": "Minnesota - Utah",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F171/index.m3u8?st=lH6jHpA1LgOzDSOIN_Fv5A&e=1793166018"
+     "url": "https://instreams.xyz/live3/F171/index.m3u8?st=6w_TxS3oLEzJ0yYYTTU_Nw&e=1793167742"
     }
    ]
   },
@@ -89,11 +15,11 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://instreams.pro/live3/F173/index.m3u8?st=PS5s6H7ZyluQhTLg-54wmQ&e=1793166050"
+     "url": "https://instreams.pro/live3/F173/index.m3u8?st=8rqsTeOIYHvKcG0YMv4qrQ&e=1793167773"
     },
     {
      "name": "720p home",
-     "url": "https://instreams.live/live3/F172/index.m3u8?st=C6Ut8jyyg2GlrnhGOUOGsQ&e=1793166039"
+     "url": "https://instreams.xyz/live3/F172/index.m3u8?st=ZsbQmatdHOYiqEA_K9_E4A&e=1793167757"
     }
    ]
   },
@@ -102,11 +28,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.live/live3/F174/index.m3u8?st=wt4njEXWJ45hLkyIrEN9EQ&e=1793166067"
+     "url": "https://instreams.xyz/live3/F174/index.m3u8?st=_lA0OD7ubVXnbMpnJ3hKRw&e=1793167800"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F175/index.m3u8?st=f_l-uDXcS4tg35RSp1eXHw&e=1793166090"
+     "url": "https://instreams.pro/live3/F175/index.m3u8?st=ldbdPKZO55jrP3CUfYQ05w&e=1793167818"
     }
    ]
   },
@@ -115,11 +41,11 @@
    "feeds": [
     {
      "name": "720p english",
-     "url": "https://gate4.st/live3/F132/index.m3u8?st=YCMB3D-_-IjJ5PEPnVIUhw&e=1793166111"
+     "url": "https://gate4.st/live3/F132/index.m3u8?st=sBKEWL9xlz8SiYEeWgw20w&e=1793167846"
     },
     {
      "name": "720p english",
-     "url": "https://instreams.live/live3/F111/index.m3u8?st=Ze_kdM7uqRyvH9Qd7sHTzw&e=1793166113"
+     "url": "https://gate4.st/live3/F111/index.m3u8?st=L0Dy7uyat8AfSK3HrRfPZQ&e=1793167848"
     }
    ]
   }
