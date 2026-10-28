@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-28T04:32:13.507843+00:00",
+ "generated": "2026-10-28T04:47:01.915131+00:00",
  "games": [
   {
    "title": "Minnesota - Utah",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F171/index.m3u8?st=c2JHUmeLW5tdeKE8iQioGw&e=1793171211"
+     "url": "https://instreams.live/live3/F171/index.m3u8?st=PiUKB9TSI5NeqnXG3h4lVg&e=1793172923"
     }
    ]
   },
@@ -15,15 +15,15 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://instreams.live/live3/F173/index.m3u8?st=69PA3OhyHs-wyr-mqp_onw&e=1793171239"
+     "url": "https://gate4.st/live3/F173/index.m3u8?st=ldi1Dso3CX8VVML9EwCb7Q&e=1793172959"
     },
     {
      "name": "1080p french",
-     "url": "https://instreams.live/live3/F146/index.m3u8?st=wpc0RJpv60QLi6wkUiC23w&e=1793171260"
+     "url": "https://instreams.pro/live3/F146/index.m3u8?st=n1znSnopRZLE8js9enyDsA&e=1793172976"
     },
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F172/index.m3u8?st=139Ndu_Ksticvsz-AYmrjA&e=1793171224"
+     "url": "https://instreams.xyz/live3/F172/index.m3u8?st=vK2iGfXxCHVc37Y7g74XdQ&e=1793172940"
     }
    ]
   },
@@ -32,11 +32,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F174/index.m3u8?st=7nXKB2-e9GNColH-b9Qq4g&e=1793171264"
+     "url": "https://instreams.xyz/live3/F174/index.m3u8?st=bqQQfhWPfDm4K12dzSOigw&e=1793172979"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F175/index.m3u8?st=91Nth_n8avme7bEpLepSIg&e=1793171280"
+     "url": "https://gate4.st/live3/F175/index.m3u8?st=z822KZMZSuihZrTKcmE0Ng&e=1793172994"
     }
    ]
   },
@@ -45,11 +45,11 @@
    "feeds": [
     {
      "name": "720p english",
-     "url": "https://instreams.pro/live3/F132/index.m3u8?st=5H7yl8_j4RLjvskZcEbfcg&e=1793171307"
+     "url": "https://instreams.pro/live3/F132/index.m3u8?st=7oIf75TrwI4_c-Q4tRx2Rw&e=1793173035"
     },
     {
      "name": "720p english",
-     "url": "https://gate4.st/live3/F111/index.m3u8?st=BlMDNLjBjYb_Rc1KQxnoeA&e=1793171308"
+     "url": "https://instreams.live/live3/F111/index.m3u8?st=HWGJx6v1zk5xu0qN8ScKuw&e=1793173037"
     }
    ]
   }
