@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T10:17:06.937372+00:00",
+ "generated": "2026-10-28T10:32:10.828526+00:00",
  "games": [
   {
    "title": "Ottawa - Vegas",
@@ -20,10 +20,6 @@
     {
      "name": "720p home",
      "url": "https://instreams.live/live3/F174/index.m3u8?st=EmwEMk6IamGJHmQeZ4w3hA&e=1793192740"
-    },
-    {
-     "name": "720p away",
-     "url": "https://instreams.live/live3/F175/index.m3u8?st=B845MvM_vhskX1oZLfFjJQ&e=1793192756"
     }
    ]
   },
