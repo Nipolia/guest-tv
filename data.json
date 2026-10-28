@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T06:17:03.085941+00:00",
+ "generated": "2026-10-28T06:32:03.289114+00:00",
  "games": [
   {
    "title": "Minnesota - Utah",
@@ -29,10 +29,6 @@
     {
      "name": "720p home",
      "url": "https://instreams.live/live3/F174/index.m3u8?st=yxt9yhosnRa84T0vl_jnOA&e=1793178295"
-    },
-    {
-     "name": "720p away",
-     "url": "https://instreams.live/live3/F175/index.m3u8?st=SbgRQrB8dGCTmJuqvdPvGw&e=1793178318"
     }
    ]
   },
