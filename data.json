@@ -1,4 +1,18 @@
 {
- "generated": "2026-10-28T22:46:52.315681+00:00",
- "games": []
+ "generated": "2026-10-28T23:02:03.113461+00:00",
+ "games": [
+  {
+   "title": "Philadelphia - Washington",
+   "feeds": [
+    {
+     "name": "1080p national feed",
+     "url": "https://gate4.st/live3/F131/index.m3u8?st=oL3IhgAHVsYBIrMxMfpZQw&e=1793238604"
+    },
+    {
+     "name": "1080p national feed",
+     "url": "https://instreams.xyz/live3/F119/index.m3u8?st=quZ6t-j70ZtSJZ7Z9xbMLw&e=1793238604"
+    }
+   ]
+  }
+ ]
 }
