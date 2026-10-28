@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-28T08:32:05.236314+00:00",
+ "generated": "2026-10-28T08:47:03.370193+00:00",
  "games": [
   {
    "title": "Minnesota - Utah",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://gate4.st/live3/F171/index.m3u8?st=FFC5fqfnA4L0k2_llly1Jw&e=1793185438"
+     "url": "https://instreams.pro/live3/F171/index.m3u8?st=cqdfzcDK65nPVPVNG8zHKA&e=1793187237"
     }
    ]
   },
@@ -15,11 +15,11 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://instreams.live/live3/F173/index.m3u8?st=6IAYDyIvIKgfOsoddP4CJA&e=1793185489"
+     "url": "https://instreams.xyz/live3/F173/index.m3u8?st=_vBQRs0TqwECZnX__5wcSA&e=1793187288"
     },
     {
      "name": "720p french",
-     "url": "https://gate4.st/live3/F146/index.m3u8?st=Bjr9Aw2dIMaoHLVHpvT7hw&e=1793185508"
+     "url": "https://gate4.st/live3/F146/index.m3u8?st=DH40SwkM1-z6tCiWnqcf2g&e=1793187300"
     }
    ]
   },
@@ -28,7 +28,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F174/index.m3u8?st=ocxUMKV99HdWMKM1LOHjYA&e=1793185512"
+     "url": "https://instreams.live/live3/F174/index.m3u8?st=4E1Jn9HroZltxIpsd9r6gQ&e=1793187307"
     }
    ]
   },
@@ -37,11 +37,11 @@
    "feeds": [
     {
      "name": "720p english",
-     "url": "https://instreams.live/live3/F132/index.m3u8?st=WPStGp9ENglySEvgqYL8Rg&e=1793185566"
+     "url": "https://gate4.st/live3/F132/index.m3u8?st=otBwUK7a0Be4lysNPCHxOQ&e=1793187359"
     },
     {
      "name": "720p english",
-     "url": "https://instreams.pro/live3/F111/index.m3u8?st=q9QlyRaQAbLhagSQHEof8g&e=1793185570"
+     "url": "https://instreams.live/live3/F111/index.m3u8?st=y2jtomeG-ZXJAWNDZWsAqA&e=1793187367"
     }
    ]
   }
