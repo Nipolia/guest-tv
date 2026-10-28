@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-28T04:02:04.802327+00:00",
+ "generated": "2026-10-28T04:17:23.744163+00:00",
  "games": [
   {
    "title": "Minnesota - Utah",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.pro/live3/F171/index.m3u8?st=r1oJgQTrcTN0nN8hJDty1A&e=1793169484"
+     "url": "https://instreams.xyz/live3/F171/index.m3u8?st=c2JHUmeLW5tdeKE8iQioGw&e=1793171211"
     }
    ]
   },
@@ -15,15 +15,15 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://gate4.st/live3/F173/index.m3u8?st=EH9r3mGLHQHAiTNLA7RNUQ&e=1793169507"
+     "url": "https://instreams.live/live3/F173/index.m3u8?st=69PA3OhyHs-wyr-mqp_onw&e=1793171239"
+    },
+    {
+     "name": "1080p french",
+     "url": "https://instreams.live/live3/F146/index.m3u8?st=wpc0RJpv60QLi6wkUiC23w&e=1793171260"
     },
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F172/index.m3u8?st=UyCds2znx6etk-NR0e6EzA&e=1793169493"
-    },
-    {
-     "name": "720p french",
-     "url": "https://instreams.pro/live3/F146/index.m3u8?st=AGzz8XVxhJk-XO0mR9eUPQ&e=1793169532"
+     "url": "https://instreams.xyz/live3/F172/index.m3u8?st=139Ndu_Ksticvsz-AYmrjA&e=1793171224"
     }
    ]
   },
@@ -32,11 +32,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.pro/live3/F174/index.m3u8?st=aDohQV5wKShceA6qVihc8A&e=1793169534"
+     "url": "https://instreams.xyz/live3/F174/index.m3u8?st=7nXKB2-e9GNColH-b9Qq4g&e=1793171264"
     },
     {
      "name": "720p away",
-     "url": "https://gate4.st/live3/F175/index.m3u8?st=AdjtSRvcCssW1qzmj7j8_A&e=1793169553"
+     "url": "https://instreams.xyz/live3/F175/index.m3u8?st=91Nth_n8avme7bEpLepSIg&e=1793171280"
     }
    ]
   },
@@ -45,11 +45,11 @@
    "feeds": [
     {
      "name": "720p english",
-     "url": "https://instreams.live/live3/F132/index.m3u8?st=c8J9FrJuHtmSbZspABrFpg&e=1793169580"
+     "url": "https://instreams.pro/live3/F132/index.m3u8?st=5H7yl8_j4RLjvskZcEbfcg&e=1793171307"
     },
     {
      "name": "720p english",
-     "url": "https://instreams.pro/live3/F111/index.m3u8?st=8P5MeF4EMeZdyARVeu90TA&e=1793169582"
+     "url": "https://gate4.st/live3/F111/index.m3u8?st=BlMDNLjBjYb_Rc1KQxnoeA&e=1793171308"
     }
    ]
   }
