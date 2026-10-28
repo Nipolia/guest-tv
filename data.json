@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T00:47:16.172907+00:00",
+ "generated": "2026-10-28T01:02:11.611758+00:00",
  "games": [
   {
    "title": "Boston - Carolina",
@@ -18,12 +18,8 @@
    "title": "Columbus - Philadelphia",
    "feeds": [
     {
-     "name": "1080p away",
-     "url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e2023df2-30cf-46fe-8de8-244da9542fef/default.jobtemplate.hls.m3u8"
-    },
-    {
-     "name": "720p home",
-     "url": "https://gate4.st/live3/F131/index.m3u8?st=yLzSoyov7HMw23VccRnNqw&e=1793157871"
+     "name": "540p away",
+     "url": "https://gate4.st/live3/F69/index.m3u8?st=pzLxUewci9X_X9dfG3Q3mA&e=1793157896"
     }
    ]
   },
