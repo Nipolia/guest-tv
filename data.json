@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-29T01:17:02.291239+00:00",
+ "generated": "2026-10-29T01:32:21.107617+00:00",
  "games": [
   {
    "title": "Philadelphia - Washington",
    "feeds": [
     {
      "name": "1080p national feed",
-     "url": "https://instreams.pro/live3/F131/index.m3u8?st=goYf_Q2VV-dAE-NNNV_juA&e=1793245623"
+     "url": "https://instreams.xyz/live3/F131/index.m3u8?st=QTKhVzwYeRKu5PV74LSlCw&e=1793247398"
     },
     {
      "name": "1080p national feed",
-     "url": "https://instreams.live/live3/F119/index.m3u8?st=UXfl0Qv4w6XdBj9GheMHZw&e=1793245623"
+     "url": "https://gate4.st/live3/F119/index.m3u8?st=TFcKuaog6HOxumyKALUAWg&e=1793247398"
     }
    ]
   },
@@ -19,7 +19,7 @@
    "feeds": [
     {
      "name": "720p english",
-     "url": "https://instreams.pro/live3/F132/index.m3u8?st=t43COnKNeWkmvPxf5QYKTw&e=1793245651"
+     "url": "https://instreams.xyz/live3/F132/index.m3u8?st=5ag1cqh-NONacM8wIkGkXg&e=1793247422"
     }
    ]
   },
@@ -28,11 +28,24 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.xyz/live3/F133/index.m3u8?st=a7zEOOy3Js7adNU0mqXxtA&e=1793245673"
+     "url": "https://instreams.live/live3/F133/index.m3u8?st=ziCp4Xe6zKi21v8LT2Focg&e=1793247445"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.live/live3/F134/index.m3u8?st=C-etQozLR_tV_EKmd3SAoA&e=1793245697"
+     "url": "https://instreams.pro/live3/F134/index.m3u8?st=v24lL_ZikGxzhPvvgcFXHQ&e=1793247467"
+    }
+   ]
+  },
+  {
+   "title": "Toronto - Seattle",
+   "feeds": [
+    {
+     "name": "1080p home",
+     "url": "https://instreams.xyz/live3/F135/index.m3u8?st=SDirpMrnM4AkNV20yR61Jg&e=1793247475"
+    },
+    {
+     "name": "1080p away",
+     "url": "https://instreams.live/live3/F136/index.m3u8?st=1Wra9s0uSgGqQsMO-OXhFA&e=1793247496"
     }
    ]
   }
