@@ -1,40 +1,4 @@
 {
- "generated": "2026-10-29T10:02:09.191381+00:00",
- "games": [
-  {
-   "title": "Calgary - Edmonton",
-   "feeds": [
-    {
-     "name": "720p english",
-     "url": "https://instreams.live/live3/F132/index.m3u8?st=7JfwZ28itCWg_XOLBde_Cg&e=1793277245"
-    }
-   ]
-  },
-  {
-   "title": "New Jersey - Colorado",
-   "feeds": [
-    {
-     "name": "1080p home",
-     "url": "https://instreams.pro/live3/F133/index.m3u8?st=yG-kg0llGBJ1d_0ABfZMFg&e=1793277273"
-    },
-    {
-     "name": "720p away",
-     "url": "https://instreams.pro/live3/F134/index.m3u8?st=lKPwJfjNZcCK7E0G_f21MQ&e=1793277312"
-    }
-   ]
-  },
-  {
-   "title": "Toronto - Seattle",
-   "feeds": [
-    {
-     "name": "1080p home",
-     "url": "https://instreams.live/live3/F135/index.m3u8?st=AJNvD-F_0_lXQbwSE7bDUg&e=1793277335"
-    },
-    {
-     "name": "1080p away",
-     "url": "https://gate4.st/live3/F136/index.m3u8?st=vGFDvtLl9M-44xSc-3HZgw&e=1793277375"
-    }
-   ]
-  }
- ]
+ "generated": "2026-10-29T10:16:49.031543+00:00",
+ "games": []
 }
