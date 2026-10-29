@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T07:47:03.991867+00:00",
+ "generated": "2026-10-29T08:02:00.772259+00:00",
  "games": [
   {
    "title": "Calgary - Edmonton",
@@ -13,6 +13,10 @@
   {
    "title": "New Jersey - Colorado",
    "feeds": [
+    {
+     "name": "1080p home",
+     "url": "https://gate4.st/live3/F133/index.m3u8?st=fMKv7TS2hrp3mQT9VzS9bw&e=1793270042"
+    },
     {
      "name": "720p away",
      "url": "https://instreams.live/live3/F134/index.m3u8?st=-whNiR1yTV6qLp1bpsN58g&e=1793270077"
