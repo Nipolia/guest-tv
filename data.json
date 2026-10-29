@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-29T09:01:55.981015+00:00",
+ "generated": "2026-10-29T09:16:56.968589+00:00",
  "games": [
   {
    "title": "Calgary - Edmonton",
    "feeds": [
     {
      "name": "720p english",
-     "url": "https://instreams.xyz/live3/F132/index.m3u8?st=EUhnkQUKjrr1pGWrd3sdbQ&e=1793273647"
+     "url": "https://instreams.pro/live3/F132/index.m3u8?st=no3K3yjI5tzerF8sHZHxCg&e=1793275442"
     }
    ]
   },
@@ -15,11 +15,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://gate4.st/live3/F133/index.m3u8?st=iazYOTha2y8kBZ7Ti5nMkw&e=1793273672"
+     "url": "https://gate4.st/live3/F133/index.m3u8?st=_EjEH6Ag30FS4-t9KhSpsg&e=1793275471"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F134/index.m3u8?st=XoeA98gxOaJMz6Nv3ENwDg&e=1793273704"
+     "url": "https://gate4.st/live3/F134/index.m3u8?st=ZXU_UCvpeOu0Ib-BduGBFw&e=1793275506"
     }
    ]
   },
@@ -28,15 +28,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.pro/live3/F135/index.m3u8?st=3S6JFjK24ZI8AwFwnj90Wg&e=1793273725"
+     "url": "https://gate4.st/live3/F135/index.m3u8?st=podK5PcflOFgomY7Kh0rhw&e=1793275530"
     },
     {
      "name": "1080p away",
-     "url": "https://instreams.live/live3/F136/index.m3u8?st=6UBJS0klfImH1p3XxpGmlQ&e=1793273767"
-    },
-    {
-     "name": "540p home",
-     "url": "https://instreams.xyz/live3/F69/index.m3u8?st=7P3yBnol0_-rQUg3MaHQ1w&e=1793273727"
+     "url": "https://gate4.st/live3/F136/index.m3u8?st=GAmHxd0j6b8E63cbYMLuKw&e=1793275573"
     }
    ]
   }
