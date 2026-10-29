@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-29T00:46:59.011100+00:00",
+ "generated": "2026-10-29T01:01:57.523429+00:00",
  "games": [
   {
    "title": "Philadelphia - Washington",
    "feeds": [
     {
      "name": "1080p national feed",
-     "url": "https://instreams.xyz/live3/F131/index.m3u8?st=AzRO_E4TrHYzsPSckMZeQw&e=1793243828"
+     "url": "https://instreams.pro/live3/F131/index.m3u8?st=goYf_Q2VV-dAE-NNNV_juA&e=1793245623"
     },
     {
      "name": "1080p national feed",
-     "url": "https://instreams.pro/live3/F119/index.m3u8?st=s2vmbvA8cz5U0Lykov6REg&e=1793243828"
+     "url": "https://instreams.live/live3/F119/index.m3u8?st=UXfl0Qv4w6XdBj9GheMHZw&e=1793245623"
     }
    ]
   },
@@ -19,7 +19,7 @@
    "feeds": [
     {
      "name": "720p english",
-     "url": "https://instreams.live/live3/F132/index.m3u8?st=7mxc9eNcJUIzCbLwV2R69g&e=1793243863"
+     "url": "https://instreams.pro/live3/F132/index.m3u8?st=t43COnKNeWkmvPxf5QYKTw&e=1793245651"
     }
    ]
   },
@@ -28,11 +28,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.xyz/live3/F133/index.m3u8?st=GItwl8OcKF1C8DmDhhLs4Q&e=1793243871"
+     "url": "https://instreams.xyz/live3/F133/index.m3u8?st=a7zEOOy3Js7adNU0mqXxtA&e=1793245673"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F134/index.m3u8?st=3mVP2-yUjempHEUjX9BX8w&e=1793243893"
+     "url": "https://instreams.live/live3/F134/index.m3u8?st=C-etQozLR_tV_EKmd3SAoA&e=1793245697"
     }
    ]
   }
