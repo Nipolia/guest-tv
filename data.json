@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-29T01:46:56.864476+00:00",
+ "generated": "2026-10-29T02:01:59.473115+00:00",
  "games": [
   {
    "title": "Philadelphia - Washington",
    "feeds": [
     {
      "name": "1080p national feed",
-     "url": "https://instreams.xyz/live3/F131/index.m3u8?st=QTKhVzwYeRKu5PV74LSlCw&e=1793247398"
+     "url": "https://instreams.live/live3/F131/index.m3u8?st=Ggsd-YEJH68zHL2dd_tDhA&e=1793249193"
     },
     {
      "name": "1080p national feed",
-     "url": "https://gate4.st/live3/F119/index.m3u8?st=TFcKuaog6HOxumyKALUAWg&e=1793247398"
+     "url": "https://instreams.live/live3/F119/index.m3u8?st=Hxcmhd8mb1VQT7SqhjDYmg&e=1793249193"
     }
    ]
   },
@@ -19,7 +19,7 @@
    "feeds": [
     {
      "name": "720p english",
-     "url": "https://instreams.xyz/live3/F132/index.m3u8?st=5ag1cqh-NONacM8wIkGkXg&e=1793247422"
+     "url": "https://gate4.st/live3/F132/index.m3u8?st=NrBZg_m6l6Srzflku6JPXQ&e=1793249220"
     }
    ]
   },
@@ -28,11 +28,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.live/live3/F133/index.m3u8?st=ziCp4Xe6zKi21v8LT2Focg&e=1793247445"
+     "url": "https://instreams.pro/live3/F133/index.m3u8?st=QY2N_4IgnJK1FaGysj9d3g&e=1793249241"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.pro/live3/F134/index.m3u8?st=v24lL_ZikGxzhPvvgcFXHQ&e=1793247467"
+     "url": "https://instreams.live/live3/F134/index.m3u8?st=0abjOyYreW7yC2AUrBe0tQ&e=1793249262"
     }
    ]
   },
@@ -41,11 +41,15 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.xyz/live3/F135/index.m3u8?st=SDirpMrnM4AkNV20yR61Jg&e=1793247475"
+     "url": "https://instreams.pro/live3/F135/index.m3u8?st=y6A8CM4XaCVtqUuewP7rcg&e=1793249269"
     },
     {
      "name": "1080p away",
-     "url": "https://instreams.live/live3/F136/index.m3u8?st=1Wra9s0uSgGqQsMO-OXhFA&e=1793247496"
+     "url": "https://instreams.live/live3/F136/index.m3u8?st=q2CHKN6GVD8wm6Yy_GQjNw&e=1793249301"
+    },
+    {
+     "name": "540p home",
+     "url": "https://gate4.st/live3/F69/index.m3u8?st=SWlGNu2zf5u_gsNiQETB1g&e=1793249273"
     }
    ]
   }
