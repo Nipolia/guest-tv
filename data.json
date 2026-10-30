@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T07:01:54.023690+00:00",
+ "generated": "2026-10-30T07:16:52.668215+00:00",
  "games": [
   {
    "title": "Buffalo - Anaheim",
@@ -25,10 +25,6 @@
     {
      "name": "720p home",
      "url": "https://instreams.xyz/live3/F178/index.m3u8?st=rpqRFUMyPxbAaNsWLTt1PQ&e=1793353754"
-    },
-    {
-     "name": "720p away",
-     "url": "https://gate4.st/live3/F179/index.m3u8?st=ZUgyl0GmE97r88KoVI_iyw&e=1793353773"
     }
    ]
   }
