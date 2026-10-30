@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T01:32:19.568490+00:00",
+ "generated": "2026-10-30T01:47:10.817041+00:00",
  "games": [
   {
    "title": "Boston - St. Louis",
@@ -116,10 +116,6 @@
     {
      "name": "720p home",
      "url": "https://gate4.st/live3/F178/index.m3u8?st=K4tSjSx2xIY5SVG5C5hpkQ&e=1793334450"
-    },
-    {
-     "name": "away",
-     "url": "https://gate4.st/live3/F179/index.m3u8?st=Mk3EH6w_vq5-dB1WvL0x6g&e=1793334463"
     }
    ]
   }
