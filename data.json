@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-30T05:46:56.888909+00:00",
+ "generated": "2026-10-30T06:02:06.675523+00:00",
  "games": [
   {
    "title": "Buffalo - Anaheim",
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://gate4.st/live3/F174/index.m3u8?st=l3ZZ_YkoXCBUtlgrObORaA&e=1793348483"
+     "url": "https://instreams.pro/live3/F174/index.m3u8?st=8vDP6ndISHQj9MXOFOr2zg&e=1793350193"
     }
    ]
   },
@@ -15,7 +15,7 @@
    "feeds": [
     {
      "name": "540p home",
-     "url": "https://gate4.st/live3/F69/index.m3u8?st=xqOiE4Y1nxIIJ4jSZQoyfg&e=1793348520"
+     "url": "https://gate4.st/live3/F69/index.m3u8?st=U2vEV123lAM_LxYGzpE9uw&e=1793350228"
     }
    ]
   },
@@ -24,11 +24,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F178/index.m3u8?st=K5VVKX7eRs4fsfR1WrBL5Q&e=1793348559"
+     "url": "https://instreams.xyz/live3/F178/index.m3u8?st=cDHT8WA-nRdCvSmZMUbd7Q&e=1793350281"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F179/index.m3u8?st=H0LptgvE4HIgZpKw3qNDdQ&e=1793348578"
+     "url": "https://gate4.st/live3/F179/index.m3u8?st=-ADiRTt6TJzaZvz8RcLV1w&e=1793350294"
     }
    ]
   }
