@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T03:31:59.623330+00:00",
+ "generated": "2026-10-30T03:47:08.397042+00:00",
  "games": [
   {
    "title": "Buffalo - Anaheim",
@@ -33,14 +33,6 @@
     {
      "name": "720p away",
      "url": "https://gate4.st/live3/F179/index.m3u8?st=Tt7946sJpaNV7IqC7cKbpw&e=1793341846"
-    },
-    {
-     "name": "720p away",
-     "url": "https://a121.azplay54.me/hls/streama269855/index.m3u8?cst=af97e6b41f5045c8972e24581eb28cf5"
-    },
-    {
-     "name": "480p bulgarian",
-     "url": "https://a75.azplay54.me/hls/streama268926/index.m3u8?cst=d409b3faea3483cf50917fa8727af736"
     }
    ]
   }
