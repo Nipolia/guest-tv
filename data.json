@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-31T18:01:59.057428+00:00",
+ "generated": "2026-10-31T18:17:05.092898+00:00",
  "games": [
   {
    "title": "Chicago - Boston",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F131/index.m3u8?st=CFPSDhGXAzOqBJM1kP1PAQ&e=1793477590"
+     "url": "https://instreams.pro/live3/F131/index.m3u8?st=T2bdF8BcYa1kJcmcjJo2Zw&e=1793480042"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.pro/live3/F132/index.m3u8?st=GR8oZ5EyPjaS11q70gdnPA&e=1793477616"
+     "url": "https://instreams.pro/live3/F132/index.m3u8?st=IxeWv3pZqD29lKw5icpTmQ&e=1793480059"
     }
    ]
   },
@@ -19,7 +19,29 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F133/index.m3u8?st=82Gw4b1KWoJwu2NeROluJQ&e=1793477631"
+     "url": "https://instreams.xyz/live3/F133/index.m3u8?st=4bqIt253BO3a4f81Mm4aQg&e=1793480087"
+    }
+   ]
+  },
+  {
+   "title": "Tampa Bay - Nashville",
+   "feeds": [
+    {
+     "name": "1080p home",
+     "url": "https://instreams.xyz/live3/F134/index.m3u8?st=zzYK8bNNbszX69FESVwqYw&e=1793480133"
+    }
+   ]
+  },
+  {
+   "title": "Edmonton - NY",
+   "feeds": [
+    {
+     "name": "720p home",
+     "url": "https://gate4.st/live3/F135/index.m3u8?st=emZsgB7IalHGmhltlVwOJg&e=1793480156"
+    },
+    {
+     "name": "720p away",
+     "url": "https://gate4.st/live3/F136/index.m3u8?st=3P4jL4NzEieHaTAT3N0Uxg&e=1793480168"
     }
    ]
   }
