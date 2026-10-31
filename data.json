@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-31T21:47:00.577339+00:00",
+ "generated": "2026-10-31T22:01:58.279994+00:00",
  "games": [
   {
    "title": "Buffalo - Los Angeles",
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://instreams.xyz/live3/F138/index.m3u8?st=MyQZdWNTRkuhzI9lojVz7A&e=1793491741"
+     "url": "https://instreams.pro/live3/F138/index.m3u8?st=QBosQOLY3MJzbzKFSmlg7A&e=1793493747"
     },
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F137/index.m3u8?st=wfAAnxOo4Alu_v0EsqQZhQ&e=1793491736"
+     "url": "https://instreams.live/live3/F137/index.m3u8?st=fRVIhSvPXy5RgtcVRSozvQ&e=1793493744"
     }
    ]
   },
@@ -19,11 +19,29 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://gate4.st/live3/F140/index.m3u8?st=nhoHB_GoqfAiAUoO6StYnA&e=1793491820"
+     "url": "https://gate4.st/live3/F140/index.m3u8?st=6K81A3pbcCH2vB05axP1Og&e=1793493812"
     },
     {
      "name": "720p home",
-     "url": "https://gate4.st/live3/F139/index.m3u8?st=5hF2TPgn0NSluGPbB5mnjA&e=1793491802"
+     "url": "https://instreams.xyz/live3/F139/index.m3u8?st=WuHFEvIBJQyrRoowc5Lh7g&e=1793493796"
+    }
+   ]
+  },
+  {
+   "title": "Pittsburgh - Montr\u00e9al",
+   "feeds": [
+    {
+     "name": "720p french",
+     "url": "https://instreams.pro/live3/F146/index.m3u8?st=qM9FRuJUfI42rxTpxL3Uew&e=1793493834"
+    }
+   ]
+  },
+  {
+   "title": "Toronto - Vancouver",
+   "feeds": [
+    {
+     "name": "540p english",
+     "url": "https://instreams.live/live3/F69/index.m3u8?st=okCJaRfwoBq_mdWwDbZkxA&e=1793493837"
     }
    ]
   }
