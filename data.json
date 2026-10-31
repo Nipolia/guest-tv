@@ -1,25 +1,12 @@
 {
- "generated": "2026-10-31T20:32:14.695770+00:00",
+ "generated": "2026-10-31T20:47:05.383611+00:00",
  "games": [
-  {
-   "title": "Chicago - Boston",
-   "feeds": [
-    {
-     "name": "720p home",
-     "url": "https://instreams.live/live3/F131/index.m3u8?st=p4_O8pR3EXJwEAdDR8h6yQ&e=1793487149"
-    },
-    {
-     "name": "720p away",
-     "url": "https://instreams.xyz/live3/F132/index.m3u8?st=ZlHfMPe6jmenu1FBNWs0hA&e=1793487166"
-    }
-   ]
-  },
   {
    "title": "Tampa Bay - Nashville",
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.xyz/live3/F134/index.m3u8?st=QivQttxPgnDzO7SK_BAgKw&e=1793487196"
+     "url": "https://instreams.xyz/live3/F134/index.m3u8?st=ZY1x6q-9toeG1uT8e_MlQg&e=1793489456"
     }
    ]
   },
@@ -28,11 +15,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://gate4.st/live3/F135/index.m3u8?st=ESFc_Vn1FY6h4dJL_WW0Dg&e=1793487229"
+     "url": "https://instreams.pro/live3/F135/index.m3u8?st=RTYNxw3m6gCI6ex0gFB2fg&e=1793489475"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.live/live3/F136/index.m3u8?st=tG1lHz81JcdOrwIY6pBADA&e=1793487246"
+     "url": "https://instreams.xyz/live3/F136/index.m3u8?st=8mgD_hui4S1SK2vflCyqHA&e=1793489491"
     }
    ]
   },
@@ -41,11 +28,11 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://gate4.st/live3/F138/index.m3u8?st=UVWaH-HKvTob7KOAtUrVxQ&e=1793487322"
+     "url": "https://instreams.pro/live3/F138/index.m3u8?st=1oTjEg4nrVLlL2_HQfDizQ&e=1793489581"
     },
     {
      "name": "720p home",
-     "url": "https://gate4.st/live3/F137/index.m3u8?st=pmtJYWcPUxPYUWWxYPAIMw&e=1793487297"
+     "url": "https://instreams.xyz/live3/F137/index.m3u8?st=MEVcPOTOt9-LZzbZu9a_Qg&e=1793489557"
     }
    ]
   },
@@ -54,11 +41,11 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://gate4.st/live3/F140/index.m3u8?st=AxY5RwI81X0RpaY-1yA1_Q&e=1793487394"
+     "url": "https://instreams.pro/live3/F140/index.m3u8?st=2RzzgqBpXfSUB_6RY5gXDA&e=1793489676"
     },
     {
      "name": "720p home",
-     "url": "https://instreams.live/live3/F139/index.m3u8?st=f7fFQ3Z7aAIOqlHAkN4R5A&e=1793487376"
+     "url": "https://instreams.xyz/live3/F139/index.m3u8?st=UaHwBzerSDpLX3Y40vp-_A&e=1793489650"
     }
    ]
   }
