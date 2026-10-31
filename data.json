@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-31T19:17:06.701248+00:00",
+ "generated": "2026-10-31T19:32:08.057061+00:00",
  "games": [
   {
    "title": "Chicago - Boston",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F131/index.m3u8?st=uCsqULA2ORwXh97VCzjMlg&e=1793482463"
+     "url": "https://instreams.xyz/live3/F131/index.m3u8?st=vpfZxuaHQkUFah1Fe-PFWg&e=1793484805"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F132/index.m3u8?st=UbWBc9GMirU-fYcyYnELRQ&e=1793482479"
+     "url": "https://instreams.live/live3/F132/index.m3u8?st=P2UXyGmmF15gCbTYMBtdrg&e=1793484821"
     }
    ]
   },
@@ -19,7 +19,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.live/live3/F133/index.m3u8?st=S-8WvrV0TkXkAf4Pivw_ZQ&e=1793482499"
+     "url": "https://instreams.xyz/live3/F133/index.m3u8?st=EUo1sUZz_6mQLNNCAHSINg&e=1793484839"
     }
    ]
   },
@@ -28,7 +28,7 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://gate4.st/live3/F134/index.m3u8?st=264vjjB0pSqMSSFwUtGHwA&e=1793482540"
+     "url": "https://instreams.pro/live3/F134/index.m3u8?st=ia8svHPZqCpbcxQwVt0kBA&e=1793484879"
     }
    ]
   },
@@ -37,11 +37,33 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.live/live3/F135/index.m3u8?st=nySct3Np7e1-gEaJJmaVRQ&e=1793482583"
+     "url": "https://instreams.xyz/live3/F135/index.m3u8?st=BJGWXFeRIcNwT6s89506jg&e=1793484906"
     },
     {
      "name": "720p away",
-     "url": "https://gate4.st/live3/F136/index.m3u8?st=BWjohGelY1NftNxAswm5aA&e=1793482600"
+     "url": "https://instreams.pro/live3/F136/index.m3u8?st=b_XfUcPPvRPuJApVgjxISg&e=1793484917"
+    }
+   ]
+  },
+  {
+   "title": "Buffalo - Los Angeles",
+   "feeds": [
+    {
+     "name": "1080p away",
+     "url": "https://instreams.xyz/live3/F138/index.m3u8?st=8urxZWaYS8cU6ArlL30WEA&e=1793484971"
+    }
+   ]
+  },
+  {
+   "title": "Ottawa - San Jose",
+   "feeds": [
+    {
+     "name": "1080p away",
+     "url": "https://instreams.pro/live3/F140/index.m3u8?st=4CVKa18DqJPPvmWtonGYaA&e=1793485021"
+    },
+    {
+     "name": "720p home",
+     "url": "https://instreams.xyz/live3/F139/index.m3u8?st=5uuRh05PEvKpUa3GZzFxFQ&e=1793485011"
     }
    ]
   }
