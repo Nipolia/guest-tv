@@ -1,4 +1,27 @@
 {
- "generated": "2026-10-31T16:31:59.449491+00:00",
- "games": []
+ "generated": "2026-10-31T16:47:02.257885+00:00",
+ "games": [
+  {
+   "title": "Chicago - Boston",
+   "feeds": [
+    {
+     "name": "720p home",
+     "url": "https://gate4.st/live3/F131/index.m3u8?st=-Y4-xxA9Z65wNh2Db97udw&e=1793475220"
+    },
+    {
+     "name": "720p away",
+     "url": "https://gate4.st/live3/F132/index.m3u8?st=-WSQB_UiAaJ-Wg-TzS-qrw&e=1793475235"
+    }
+   ]
+  },
+  {
+   "title": "St. Louis - Detroit",
+   "feeds": [
+    {
+     "name": "720p home",
+     "url": "https://gate4.st/live3/F133/index.m3u8?st=Qd4_9ll-fqNLfXCsTTZApA&e=1793475254"
+    }
+   ]
+  }
+ ]
 }
