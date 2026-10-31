@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-30T23:46:54.794884+00:00",
+ "generated": "2026-10-31T00:02:08.014660+00:00",
  "games": [
   {
    "title": "New Jersey - Vegas",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F132/index.m3u8?st=SDWCCx7G6SETG3bXuj6_RQ&e=1793411610"
+     "url": "https://instreams.live/live3/F132/index.m3u8?st=DS_q2KHtfBozPhMgKN1Rbw&e=1793414099"
     },
     {
      "name": "540p home",
-     "url": "https://gate4.st/live3/F69/index.m3u8?st=Oekcza7PUKoq7s04D6qWFA&e=1793411595"
+     "url": "https://gate4.st/live3/F69/index.m3u8?st=mGM01euRhSs8aKOoS_Fw_w&e=1793414087"
     }
    ]
   },
@@ -19,11 +19,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://gate4.st/live3/F133/index.m3u8?st=qs1YR-fJXUy4NXz5PrfLOQ&e=1793411641"
+     "url": "https://instreams.live/live3/F133/index.m3u8?st=LX-sTu2Mm1vR8f0z0QpUqw&e=1793414128"
     },
     {
      "name": "720p away",
-     "url": "https://gate4.st/live3/F134/index.m3u8?st=72w4WFNJ2mhF-ZtUZvjgzg&e=1793411665"
+     "url": "https://instreams.xyz/live3/F134/index.m3u8?st=gNH5m3cbXjhQoCzQHqCaRw&e=1793414153"
     }
    ]
   },
@@ -32,7 +32,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F135/index.m3u8?st=ZO9bzRx466s6jcWccoKnqQ&e=1793411706"
+     "url": "https://instreams.live/live3/F135/index.m3u8?st=WFwnlpsyTjkUC81W3gU_Lg&e=1793414190"
     }
    ]
   }
