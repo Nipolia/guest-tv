@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-01T22:31:53.395732+00:00",
+ "generated": "2026-11-01T22:46:51.377265+00:00",
  "games": [
   {
    "title": "Minnesota - Washington",
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.pro/live3/F133/index.m3u8?st=615LSwe2ibKxqJkOmLhMhQ&e=1793581168"
+     "url": "https://instreams.pro/live3/F133/index.m3u8?st=odzz6mBZ8Ohbsb-eyyJOww&e=1793583028"
     }
    ]
   },
@@ -15,7 +15,7 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://instreams.xyz/live3/F134/index.m3u8?st=bQ-dXYjS1M3KicQA68fjhQ&e=1793581239"
+     "url": "https://instreams.live/live3/F134/index.m3u8?st=bR-qn-UwUCnca1AKTedT9w&e=1793583114"
     }
    ]
   },
@@ -24,7 +24,7 @@
    "feeds": [
     {
      "name": "540p home",
-     "url": "https://instreams.pro/live3/F69/index.m3u8?st=lCteGkqbpQgTLMqyCp8h-A&e=1793581251"
+     "url": "https://instreams.pro/live3/F69/index.m3u8?st=uTmEaEkyxEMfRuJqNxeHIg&e=1793583125"
     }
    ]
   }
