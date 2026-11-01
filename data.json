@@ -1,38 +1,12 @@
 {
- "generated": "2026-11-01T02:16:56.174586+00:00",
+ "generated": "2026-11-01T02:31:51.887518+00:00",
  "games": [
-  {
-   "title": "Pittsburgh - Montr\u00e9al",
-   "feeds": [
-    {
-     "name": "720p away",
-     "url": "https://instreams.live/live3/F172/index.m3u8?st=5RdNPeKkUkC3RpLrjXtEtw&e=1793508554"
-    },
-    {
-     "name": "720p french",
-     "url": "https://instreams.xyz/live3/F146/index.m3u8?st=LxmTBARY3my5usa-NDVp0Q&e=1793509704"
-    }
-   ]
-  },
-  {
-   "title": "Toronto - Vancouver",
-   "feeds": [
-    {
-     "name": "1080p english",
-     "url": "https://gate4.st/live3/F173/index.m3u8?st=DmmuFBLynFGfpDU0lVIamA&e=1793508579"
-    },
-    {
-     "name": "540p english",
-     "url": "https://instreams.pro/live3/F69/index.m3u8?st=EdM3BzQRgohcXtwndZbQQw&e=1793508582"
-    }
-   ]
-  },
   {
    "title": "Columbus - Dallas",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F174/index.m3u8?st=0s9fWcjfLrwsUvJR1eFSdQ&e=1793508627"
+     "url": "https://instreams.pro/live3/F174/index.m3u8?st=tB71YDgDH_d6917zjgS90Q&e=1793510260"
     }
    ]
   },
@@ -41,11 +15,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.live/live3/F175/index.m3u8?st=K78fQH85bg1f-Z7_bJjPPw&e=1793508639"
+     "url": "https://instreams.pro/live3/F175/index.m3u8?st=wXyxXqhoYhx19Ko_UFGlUA&e=1793510268"
     },
     {
      "name": "1080p away",
-     "url": "https://instreams.xyz/live3/F177/index.m3u8?st=KRECDwHRnW3Vbcsm-1Bexw&e=1793508656"
+     "url": "https://instreams.xyz/live3/F177/index.m3u8?st=BG4lvYD-IlqjaNF6QaNK8Q&e=1793510291"
     }
    ]
   }
