@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-01T18:46:52.307225+00:00",
+ "generated": "2026-11-01T19:01:56.680268+00:00",
  "games": [
   {
    "title": "Winnipeg - Carolina",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.pro/live3/F132/index.m3u8?st=87xymTex_jCCDJoOdSYVzw&e=1793568527"
+     "url": "https://instreams.live/live3/F132/index.m3u8?st=T8fLME_Z4bdIO5Wisk-Emw&e=1793570261"
     },
     {
      "name": "720p NHLN",
-     "url": "https://instreams.pro/live3/F131/index.m3u8?st=3HC06OBTz7MCRT2YTCtm4A&e=1793568530"
+     "url": "https://instreams.live/live3/F131/index.m3u8?st=P0FGCmCp4jpgCNrQAD80Aw&e=1793570263"
     }
    ]
   }
