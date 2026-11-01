@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T01:31:55.650769+00:00",
+ "generated": "2026-11-01T01:46:51.695901+00:00",
  "games": [
   {
    "title": "Pittsburgh - Montr\u00e9al",
@@ -11,10 +11,6 @@
     {
      "name": "720p french",
      "url": "https://instreams.pro/live3/F146/index.m3u8?st=exPsdnp8-BBUb1_GDahGrQ&e=1793506846"
-    },
-    {
-     "name": "home",
-     "url": "https://gate4.st/live3/F171/index.m3u8?st=sV5Y8T9RHlFBb5-xNqdWZQ&e=1793506825"
     }
    ]
   },
