@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T06:31:51.481702+00:00",
+ "generated": "2026-11-01T06:47:01.798486+00:00",
  "games": [
   {
    "title": "Calgary - Colorado",
@@ -7,10 +7,6 @@
     {
      "name": "1080p home",
      "url": "https://gate4.st/live3/F175/index.m3u8?st=EKMdaZffDcennz1Tv9BeEw&e=1793524947"
-    },
-    {
-     "name": "1080p away",
-     "url": "https://instreams.xyz/live3/F177/index.m3u8?st=WXRYBsRX0fsd-v4_MBWMmQ&e=1793524953"
     }
    ]
   }
