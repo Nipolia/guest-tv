@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-01T02:46:51.445256+00:00",
+ "generated": "2026-11-01T03:01:54.311459+00:00",
  "games": [
   {
    "title": "Columbus - Dallas",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.pro/live3/F174/index.m3u8?st=tB71YDgDH_d6917zjgS90Q&e=1793510260"
+     "url": "https://gate4.st/live3/F174/index.m3u8?st=ZpVd8B4PMl53TRTSpW9qdA&e=1793511904"
     }
    ]
   },
@@ -15,11 +15,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.pro/live3/F175/index.m3u8?st=wXyxXqhoYhx19Ko_UFGlUA&e=1793510268"
+     "url": "https://instreams.xyz/live3/F175/index.m3u8?st=cAaG05DYpEIZfIumGe3x_A&e=1793511909"
     },
     {
      "name": "1080p away",
-     "url": "https://instreams.xyz/live3/F177/index.m3u8?st=BG4lvYD-IlqjaNF6QaNK8Q&e=1793510291"
+     "url": "https://instreams.live/live3/F177/index.m3u8?st=-lWXKsISkOTJ2T9nbSKt6w&e=1793511929"
     }
    ]
   }
