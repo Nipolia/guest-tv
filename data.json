@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-01T01:46:51.695901+00:00",
+ "generated": "2026-11-01T02:01:52.998964+00:00",
  "games": [
   {
    "title": "Pittsburgh - Montr\u00e9al",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F172/index.m3u8?st=on2jntlqzk_dWp-4kVwHaw&e=1793506844"
+     "url": "https://instreams.live/live3/F172/index.m3u8?st=5RdNPeKkUkC3RpLrjXtEtw&e=1793508554"
     },
     {
      "name": "720p french",
-     "url": "https://instreams.pro/live3/F146/index.m3u8?st=exPsdnp8-BBUb1_GDahGrQ&e=1793506846"
+     "url": "https://gate4.st/live3/F146/index.m3u8?st=SutdfXW_NsokjclbNxfThQ&e=1793508558"
     }
    ]
   },
@@ -19,11 +19,11 @@
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://gate4.st/live3/F173/index.m3u8?st=WfPfyfOucx_tEWwZ4fsLgA&e=1793506869"
+     "url": "https://gate4.st/live3/F173/index.m3u8?st=DmmuFBLynFGfpDU0lVIamA&e=1793508579"
     },
     {
      "name": "540p english",
-     "url": "https://instreams.pro/live3/F69/index.m3u8?st=XVggHZX4fPlbvBmbJbj-VQ&e=1793506872"
+     "url": "https://instreams.pro/live3/F69/index.m3u8?st=EdM3BzQRgohcXtwndZbQQw&e=1793508582"
     }
    ]
   },
@@ -32,7 +32,7 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.live/live3/F174/index.m3u8?st=y6C6G_kYtinllqtUifAuwg&e=1793506917"
+     "url": "https://instreams.xyz/live3/F174/index.m3u8?st=0s9fWcjfLrwsUvJR1eFSdQ&e=1793508627"
     }
    ]
   },
@@ -41,11 +41,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://gate4.st/live3/F175/index.m3u8?st=Y28e2rIwSXsviy461xv6Cg&e=1793506927"
+     "url": "https://instreams.live/live3/F175/index.m3u8?st=K78fQH85bg1f-Z7_bJjPPw&e=1793508639"
     },
     {
      "name": "1080p away",
-     "url": "https://instreams.xyz/live3/F177/index.m3u8?st=P12pSjO6RvkUM-I_WnVWlQ&e=1793506942"
+     "url": "https://instreams.xyz/live3/F177/index.m3u8?st=KRECDwHRnW3Vbcsm-1Bexw&e=1793508656"
     }
    ]
   }
