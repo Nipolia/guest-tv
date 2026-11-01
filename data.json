@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-01T20:31:49.934767+00:00",
+ "generated": "2026-11-01T20:46:52.166395+00:00",
  "games": [
   {
    "title": "Winnipeg - Carolina",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://gate4.st/live3/F132/index.m3u8?st=UeryyMzAoosyTgpc-MgPJQ&e=1793573835"
+     "url": "https://instreams.xyz/live3/F132/index.m3u8?st=-sOInzt599alOgwIVMwaJA&e=1793575633"
     },
     {
      "name": "720p NHLN",
-     "url": "https://gate4.st/live3/F131/index.m3u8?st=C9V0-FQ86_-DjRCbwMB1ZQ&e=1793573838"
+     "url": "https://instreams.xyz/live3/F131/index.m3u8?st=HqJCA6qPmVVOoyJcG8dV9w&e=1793575644"
     }
    ]
   },
@@ -19,7 +19,7 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.pro/live3/F133/index.m3u8?st=cELeNQEsvPhy3ghtn8lDJg&e=1793573868"
+     "url": "https://instreams.live/live3/F133/index.m3u8?st=6g8Np2XNYxMrNAn8MA_XNw&e=1793575687"
     }
    ]
   },
@@ -28,7 +28,7 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://gate4.st/live3/F134/index.m3u8?st=arvTir7IEg3zJmLmjk4dxA&e=1793573892"
+     "url": "https://gate4.st/live3/F134/index.m3u8?st=5WQOV8oEywUAR0tm5yBp6g&e=1793575745"
     }
    ]
   }
