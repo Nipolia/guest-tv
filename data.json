@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-01T04:01:55.405967+00:00",
+ "generated": "2026-11-01T04:16:51.431219+00:00",
  "games": [
   {
    "title": "Calgary - Colorado",
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.live/live3/F175/index.m3u8?st=Tm-m51K1qwaDpNGt2riDHQ&e=1793515166"
+     "url": "https://instreams.xyz/live3/F175/index.m3u8?st=0tnDn7LdjTlbynk1rmJ1oA&e=1793516786"
     },
     {
      "name": "1080p away",
-     "url": "https://instreams.xyz/live3/F177/index.m3u8?st=cBQEcCut2ZWFWnG6f-agcA&e=1793515170"
+     "url": "https://instreams.pro/live3/F177/index.m3u8?st=M9t-bfJKWS1D4y8PhEqipg&e=1793516791"
     }
    ]
   }
