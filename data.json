@@ -1,16 +1,25 @@
 {
- "generated": "2026-11-02T00:31:51.486373+00:00",
+ "generated": "2026-11-02T00:46:51.586069+00:00",
  "games": [
   {
    "title": "Edmonton - NY",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://gate4.st/live3/F135/index.m3u8?st=Etdb5vqCuluzpjf5mGGRvw&e=1793588518"
+     "url": "https://gate4.st/live3/F135/index.m3u8?st=bSj17yWPT5qINhWEP8M-aA&e=1793590258"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.pro/live3/F136/index.m3u8?st=7lu98RCPLIyrXjDxVyyHYw&e=1793588556"
+     "url": "https://gate4.st/live3/F136/index.m3u8?st=BJNG3QMPmdPzbN3DAOH7vw&e=1793590293"
+    }
+   ]
+  },
+  {
+   "title": "Ottawa - Anaheim",
+   "feeds": [
+    {
+     "name": "1080p away",
+     "url": "https://instreams.pro/live3/F138/index.m3u8?st=0pmK79FdxkffveEbLHATBQ&e=1793591183"
     }
    ]
   }
