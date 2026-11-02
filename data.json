@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-02T02:16:56.538675+00:00",
+ "generated": "2026-11-02T02:31:53.188538+00:00",
  "games": [
   {
    "title": "Ottawa - Anaheim",
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://instreams.live/live3/F138/index.m3u8?st=t_aYmjANPmq6dt6Y3yYOlg&e=1793595542"
+     "url": "https://instreams.pro/live3/F138/index.m3u8?st=QF6XBK_SKbvx6l-28RKtPQ&e=1793597208"
     },
     {
      "name": "720p home",
-     "url": "https://instreams.pro/live3/F137/index.m3u8?st=pI7bx40WGFBBN-TbNgb4Hw&e=1793595510"
+     "url": "https://gate4.st/live3/F137/index.m3u8?st=d1I5qJlE5rcJ4XyWD1iLxQ&e=1793597163"
     }
    ]
   }
