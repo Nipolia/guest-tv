@@ -1,29 +1,16 @@
 {
- "generated": "2026-11-02T00:01:50.189991+00:00",
+ "generated": "2026-11-02T00:16:49.964709+00:00",
  "games": [
-  {
-   "title": "Utah - Philadelphia",
-   "feeds": [
-    {
-     "name": "1080p away",
-     "url": "https://instreams.pro/live3/F134/index.m3u8?st=xAtgN_cpiOEYq0hMUhgJgQ&e=1793586680"
-    }
-   ]
-  },
   {
    "title": "Edmonton - NY",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://gate4.st/live3/F135/index.m3u8?st=7oddtQDPsoTNXfCUXlMuLg&e=1793586715"
+     "url": "https://gate4.st/live3/F135/index.m3u8?st=Etdb5vqCuluzpjf5mGGRvw&e=1793588518"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F136/index.m3u8?st=RUopyleq7o15YVubLYrTtg&e=1793586750"
-    },
-    {
-     "name": "540p home",
-     "url": "https://instreams.pro/live3/F69/index.m3u8?st=SHbImraCwZ1Bc5kqfk5vWQ&e=1793586717"
+     "url": "https://instreams.pro/live3/F136/index.m3u8?st=7lu98RCPLIyrXjDxVyyHYw&e=1793588556"
     }
    ]
   }
