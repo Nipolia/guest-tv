@@ -1,4 +1,27 @@
 {
- "generated": "2026-11-02T23:01:53.124904+00:00",
- "games": []
+ "generated": "2026-11-02T23:17:01.315238+00:00",
+ "games": [
+  {
+   "title": "Vegas - Boston",
+   "feeds": [
+    {
+     "name": "1080p home",
+     "url": "https://gate4.st/live3/F131/index.m3u8?st=-tQ0EbXvuHElnLmMak_sbw&e=1793671639"
+    }
+   ]
+  },
+  {
+   "title": "Detroit - Florida",
+   "feeds": [
+    {
+     "name": "1080p home",
+     "url": "https://gate4.st/live3/F132/index.m3u8?st=tu2RxabMKnqW_gsFA5ofUQ&e=1793671644"
+    },
+    {
+     "name": "720p away",
+     "url": "https://gate4.st/live3/F133/index.m3u8?st=sQ5L2i_RgUlMp606ideLEQ&e=1793671654"
+    }
+   ]
+  }
+ ]
 }
