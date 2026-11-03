@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T05:31:59.063529+00:00",
+ "generated": "2026-11-03T05:46:54.908349+00:00",
  "games": [
   {
    "title": "Vegas - Boston",
@@ -23,7 +23,7 @@
     },
     {
      "name": "720p away",
-     "url": "https://gate4.st/live3/F133/index.m3u8?st=0o1GrJzhcmus4n43Q8KQ2A&e=1793694448"
+     "url": "https://instreams.xyz/live3/F133/index.m3u8?st=IkyQGKflOHNHioh1MFS8xA&e=1793695275"
     }
    ]
   },
@@ -50,10 +50,6 @@
     {
      "name": "540p home",
      "url": "https://gate4.st/live3/F68/index.m3u8?st=X9c4ZGFAv9k9F9D8qPGfqQ&e=1793694534"
-    },
-    {
-     "name": "home",
-     "url": "https://instreams.xyz/live3/F136/index.m3u8?st=-8toHRy2-MLVkLCz-IbPDw&e=1793694525"
     }
    ]
   }
