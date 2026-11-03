@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-03T04:46:54.299431+00:00",
+ "generated": "2026-11-03T05:02:03.568670+00:00",
  "games": [
   {
    "title": "Vegas - Boston",
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.live/live3/F131/index.m3u8?st=_eTLE3UN35_a2CTmMKQJXA&e=1793690601"
+     "url": "https://instreams.pro/live3/F131/index.m3u8?st=Gmr2ttSGUTV28xYBXA0XxQ&e=1793692444"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.pro/live3/F69/index.m3u8?st=j-_8Pez3ttz_jQdReM7v3Q&e=1793690601"
+     "url": "https://instreams.xyz/live3/F69/index.m3u8?st=dGJx513Fb6JWtoLWs6v6Cw&e=1793692444"
     }
    ]
   },
@@ -19,11 +19,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://gate4.st/live3/F132/index.m3u8?st=6TlklU1FsDe1vzccRhoL3A&e=1793690714"
+     "url": "https://instreams.xyz/live3/F132/index.m3u8?st=fFDZIMbJcg6J-kTWzDeMDw&e=1793692563"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.live/live3/F133/index.m3u8?st=fSh-M0NeCdEDAYEL15R-Og&e=1793690765"
+     "url": "https://instreams.pro/live3/F133/index.m3u8?st=1xQeKOV58Jdu7HTIxdj-7w&e=1793692609"
     }
    ]
   },
@@ -32,11 +32,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.xyz/live3/F134/index.m3u8?st=dzPcvsii-IbDCfCHCxDuiA&e=1793690784"
+     "url": "https://instreams.pro/live3/F134/index.m3u8?st=b5GmqX_Bw0gkFjGSK84mAQ&e=1793692630"
     },
     {
      "name": "1080p away",
-     "url": "https://instreams.live/live3/F135/index.m3u8?st=irikD1RYnAbyUrq7nXpe5Q&e=1793690805"
+     "url": "https://instreams.xyz/live3/F135/index.m3u8?st=6SbeFcWIrkDJlPEYDJrKkQ&e=1793692658"
     }
    ]
   },
@@ -45,15 +45,15 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.live/live3/F136/index.m3u8?st=BXVcXGqcVRkR2E2PPzTcgw&e=1793690831"
+     "url": "https://gate4.st/live3/F136/index.m3u8?st=KtLNUJtuSoV8sr_U7qmosA&e=1793692692"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F137/index.m3u8?st=6I5rRZQ8V8p2ctbFTAJ_bg&e=1793690865"
+     "url": "https://gate4.st/live3/F137/index.m3u8?st=9QCVd2Q-z2orUefwUV2Yjg&e=1793692726"
     },
     {
      "name": "540p home",
-     "url": "https://gate4.st/live3/F68/index.m3u8?st=O0UVSC0hAUlmJsvzYfyh_Q&e=1793690837"
+     "url": "https://instreams.live/live3/F68/index.m3u8?st=ehkBLcUbY5jC1j1c_xBX0w&e=1793692696"
     }
    ]
   }
