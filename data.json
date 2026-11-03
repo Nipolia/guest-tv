@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-03T07:01:54.764728+00:00",
+ "generated": "2026-11-03T07:16:52.514723+00:00",
  "games": [
   {
    "title": "Vegas - Boston",
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.live/live3/F131/index.m3u8?st=Qbz-X-3ghGU-K09ExvP39Q&e=1793698010"
+     "url": "https://instreams.pro/live3/F131/index.m3u8?st=yZovsaKzL59x-xTBh4_kcg&e=1793699839"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.live/live3/F69/index.m3u8?st=LZ8V9j_umvPOQ5YLGGNqPg&e=1793698010"
+     "url": "https://instreams.pro/live3/F69/index.m3u8?st=kwXYoGmBdCI4QZ_yExsCrQ&e=1793700801"
     }
    ]
   },
@@ -19,11 +19,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.pro/live3/F132/index.m3u8?st=jk4nrhs9tsJjEXG9Df2Wzw&e=1793698115"
+     "url": "https://gate4.st/live3/F132/index.m3u8?st=4uk-6Cfx363c2YHrIV7VQA&e=1793699947"
     },
     {
      "name": "720p away",
-     "url": "https://gate4.st/live3/F133/index.m3u8?st=0hMy6maa6pufbaEBm89JaQ&e=1793698171"
+     "url": "https://instreams.xyz/live3/F133/index.m3u8?st=iC8MCiNXANJqKxT0froPAA&e=1793700006"
     }
    ]
   },
@@ -32,11 +32,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.live/live3/F134/index.m3u8?st=-bd6GECD63GoGYWj31q9EA&e=1793698193"
+     "url": "https://instreams.xyz/live3/F134/index.m3u8?st=G09ZtTaddYq8LXN_Tyy7Kg&e=1793700027"
     },
     {
      "name": "1080p away",
-     "url": "https://gate4.st/live3/F135/index.m3u8?st=6sRSorJiH4Qzq7tqYhckRA&e=1793698221"
+     "url": "https://instreams.xyz/live3/F135/index.m3u8?st=T4WyTluManjQMcAN7CnYcQ&e=1793700801"
     }
    ]
   },
@@ -45,11 +45,15 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.live/live3/F136/index.m3u8?st=8Em2iudxJanLhlz9tCwEYg&e=1793698243"
+     "url": "https://instreams.pro/live3/F136/index.m3u8?st=9idP7DxUYWOtOqECSquF2g&e=1793700175"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.live/live3/F137/index.m3u8?st=iTJTcxtOd3vpmGr4-RdrCA&e=1793698282"
+     "url": "https://instreams.xyz/live3/F137/index.m3u8?st=o8i143ZCs_AVZIFBq-uK0w&e=1793700122"
+    },
+    {
+     "name": "540p home",
+     "url": "https://instreams.live/live3/F68/index.m3u8?st=lMJLtCBrNL4Y1GDrW8Jm9w&e=1793700801"
     }
    ]
   }
