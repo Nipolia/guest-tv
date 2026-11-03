@@ -1,13 +1,9 @@
 {
- "generated": "2026-11-03T10:16:51.183054+00:00",
+ "generated": "2026-11-03T10:31:50.073826+00:00",
  "games": [
   {
    "title": "Vegas - Boston",
    "feeds": [
-    {
-     "name": "1080p home",
-     "url": "https://instreams.xyz/live3/F131/index.m3u8?st=CgRsTZz6Ug-iYRDAqXmAzA&e=1793710967"
-    },
     {
      "name": "540p home",
      "url": "https://instreams.pro/live3/F69/index.m3u8?st=0jNQI569TQURNBmyLGBwpg&e=1793710967"
@@ -15,33 +11,11 @@
    ]
   },
   {
-   "title": "Detroit - Florida",
-   "feeds": [
-    {
-     "name": "1080p home",
-     "url": "https://instreams.live/live3/F132/index.m3u8?st=FsD1Qegz_hKy0SBTXVd-jg&e=1793711073"
-    }
-   ]
-  },
-  {
-   "title": "Colorado - Chicago",
-   "feeds": [
-    {
-     "name": "1080p away",
-     "url": "https://instreams.xyz/live3/F135/index.m3u8?st=jz2pKfsizbrybr8AbLaA9w&e=1793711177"
-    }
-   ]
-  },
-  {
    "title": "Calgary - San Jose",
    "feeds": [
     {
-     "name": "720p home",
-     "url": "https://instreams.pro/live3/F136/index.m3u8?st=tgSROCYeh5GkbjmoNsSIQg&e=1793711202"
-    },
-    {
-     "name": "720p away",
-     "url": "https://instreams.live/live3/F137/index.m3u8?st=kl6OzmwAmLrYQG74ZDv1tQ&e=1793711242"
+     "name": "540p home",
+     "url": "https://instreams.pro/live3/F68/index.m3u8?st=wftWuZc-zURHELPI6NJ0DQ&e=1793711204"
     }
    ]
   }
