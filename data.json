@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-03T00:47:06.444481+00:00",
+ "generated": "2026-11-03T01:02:26.012071+00:00",
  "games": [
   {
    "title": "Vegas - Boston",
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.pro/live3/F131/index.m3u8?st=Cxv7Er3Hp9H8dh96GcpJSQ&e=1793676559"
+     "url": "https://gate4.st/live3/F131/index.m3u8?st=_qpQCCislYhLwwabs0zvEA&e=1793678237"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.live/live3/F69/index.m3u8?st=ZwV0H5jZIjSa6UVUWKmC4A&e=1793676559"
+     "url": "https://gate4.st/live3/F69/index.m3u8?st=P-_9qzKaLTKrCxdgU-Evfg&e=1793678237"
     }
    ]
   },
@@ -19,11 +19,24 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.xyz/live3/F132/index.m3u8?st=9zDtMMRaotibxtgly1N8Qw&e=1793676621"
+     "url": "https://instreams.xyz/live3/F132/index.m3u8?st=whauLadpcBaSLX-csXixRA&e=1793678299"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.live/live3/F133/index.m3u8?st=gZ9gDxzeo4WfxkN-KzmURw&e=1793676664"
+     "url": "https://instreams.pro/live3/F133/index.m3u8?st=yp9gjjscE_cESSOnGUzDew&e=1793678342"
+    }
+   ]
+  },
+  {
+   "title": "Colorado - Chicago",
+   "feeds": [
+    {
+     "name": "1080p home",
+     "url": "https://instreams.xyz/live3/F134/index.m3u8?st=TWuci3EuQAL_bdUcEYEV4Q&e=1793678345"
+    },
+    {
+     "name": "1080p away",
+     "url": "https://gate4.st/live3/F135/index.m3u8?st=CQ6PvIwip8S_nYyk0SKpzw&e=1793678372"
     }
    ]
   }
