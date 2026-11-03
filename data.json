@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-03T01:46:52.270608+00:00",
+ "generated": "2026-11-03T02:02:00.111341+00:00",
  "games": [
   {
    "title": "Vegas - Boston",
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://gate4.st/live3/F131/index.m3u8?st=0rn-Rutf7eDHzdnhOjlL0g&e=1793679949"
+     "url": "https://instreams.live/live3/F131/index.m3u8?st=Xt8NuzIQipB3RKlhVKOnkg&e=1793681660"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.live/live3/F69/index.m3u8?st=mwr4UbjmRCEpBS3lRmoNKg&e=1793679950"
+     "url": "https://instreams.pro/live3/F69/index.m3u8?st=PhuEZuGeaVAveKobrL7aUQ&e=1793681660"
     }
    ]
   },
@@ -19,11 +19,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.live/live3/F132/index.m3u8?st=kKSr9giKjNlrWtxCkFXqdg&e=1793680026"
+     "url": "https://instreams.pro/live3/F132/index.m3u8?st=EyYMYD2tDhqtXWhlLGSeSA&e=1793681750"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.live/live3/F133/index.m3u8?st=3M3xsbpZuVFIse4RVxffyA&e=1793680058"
+     "url": "https://instreams.pro/live3/F133/index.m3u8?st=qHEYVVSF-BdCPYtmVZYajA&e=1793681796"
     }
    ]
   },
@@ -32,7 +32,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.pro/live3/F134/index.m3u8?st=FdM4tkl29ODMvTJYrYsZGQ&e=1793680065"
+     "url": "https://gate4.st/live3/F134/index.m3u8?st=pvFItHePuN6ZgBSQvoLPAw&e=1793681810"
+    },
+    {
+     "name": "1080p away",
+     "url": "https://instreams.live/live3/F135/index.m3u8?st=f1DsaYFbEIDmGufJ4HR5Zw&e=1793681834"
     }
    ]
   },
@@ -41,7 +45,15 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.pro/live3/F136/index.m3u8?st=j0Fg69aEtWl_dBkBYviBAQ&e=1793680097"
+     "url": "https://instreams.xyz/live3/F136/index.m3u8?st=QvuVvklAONNtoqarDQjBiw&e=1793681861"
+    },
+    {
+     "name": "720p away",
+     "url": "https://gate4.st/live3/F137/index.m3u8?st=UMRufsKabTeL177m4BvhCQ&e=1793681887"
+    },
+    {
+     "name": "540p home",
+     "url": "https://instreams.pro/live3/F68/index.m3u8?st=sXz7n_0Z26NMGrsPfhRmUQ&e=1793681865"
     }
    ]
   }
