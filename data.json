@@ -1,4 +1,23 @@
 {
- "generated": "2026-11-03T22:31:49.500255+00:00",
- "games": []
+ "generated": "2026-11-03T22:46:48.352583+00:00",
+ "games": [
+  {
+   "title": "St. Louis - NY",
+   "feeds": [
+    {
+     "name": "540p home",
+     "url": "https://gate4.st/live3/F69/index.m3u8?st=_d11E37q93LLCNXnQA4VnA&e=1793756065"
+    }
+   ]
+  },
+  {
+   "title": "Anaheim - Vancouver",
+   "feeds": [
+    {
+     "name": "540p home",
+     "url": "https://instreams.pro/live3/F68/index.m3u8?st=yrT9V_BjOfLVgVjvESThjQ&e=1793756161"
+    }
+   ]
+  }
+ ]
 }
