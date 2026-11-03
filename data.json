@@ -1,23 +1,4 @@
 {
- "generated": "2026-11-03T11:31:48.781041+00:00",
- "games": [
-  {
-   "title": "Vegas - Boston",
-   "feeds": [
-    {
-     "name": "540p home",
-     "url": "https://instreams.live/live3/F69/index.m3u8?st=V3NuAzbkLANG2n9z3M6_9Q&e=1793714660"
-    }
-   ]
-  },
-  {
-   "title": "Calgary - San Jose",
-   "feeds": [
-    {
-     "name": "540p home",
-     "url": "https://instreams.xyz/live3/F68/index.m3u8?st=iuN0qlKAGv2WtwFRAULTOA&e=1793714912"
-    }
-   ]
-  }
- ]
+ "generated": "2026-11-03T11:46:45.509681+00:00",
+ "games": []
 }
