@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T01:32:02.782621+00:00",
+ "generated": "2026-11-03T01:46:52.270608+00:00",
  "games": [
   {
    "title": "Vegas - Boston",
@@ -40,7 +40,7 @@
    "title": "Calgary - San Jose",
    "feeds": [
     {
-     "name": "1080p home",
+     "name": "720p home",
      "url": "https://instreams.pro/live3/F136/index.m3u8?st=j0Fg69aEtWl_dBkBYviBAQ&e=1793680097"
     }
    ]
