@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-03T08:31:51.349670+00:00",
+ "generated": "2026-11-03T08:46:50.911688+00:00",
  "games": [
   {
    "title": "Vegas - Boston",
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.xyz/live3/F131/index.m3u8?st=ECqL3ZU0tDUk9pH2ZvDUqA&e=1793703559"
+     "url": "https://instreams.xyz/live3/F131/index.m3u8?st=yd7_k8m-Rf0tctLPjNnWdQ&e=1793705420"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.xyz/live3/F69/index.m3u8?st=3XEIHurtqgHaCpBtoLRoiw&e=1793704798"
+     "url": "https://instreams.pro/live3/F69/index.m3u8?st=7jGK2iTczJb6aVJqe9EydA&e=1793705420"
     }
    ]
   },
@@ -19,11 +19,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.live/live3/F132/index.m3u8?st=G4SLg05i_Wtg4TViOMsdAg&e=1793705102"
+     "url": "https://instreams.live/live3/F132/index.m3u8?st=ko7jmjBwMLrRf5Lk-pl8BA&e=1793705528"
     },
     {
      "name": "720p away",
-     "url": "https://gate4.st/live3/F133/index.m3u8?st=PTkHMF_Or1uZA1u1_jdQzA&e=1793705102"
+     "url": "https://instreams.pro/live3/F133/index.m3u8?st=at16Dm6HxNCA_GW44FeWrg&e=1793705584"
     }
    ]
   },
@@ -32,7 +32,7 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://instreams.live/live3/F135/index.m3u8?st=wy9J82bL5Za1D2d1JT_wOw&e=1793703788"
+     "url": "https://instreams.pro/live3/F135/index.m3u8?st=K5a4MCEd216_mfgWyi3WAA&e=1793705634"
     }
    ]
   },
@@ -41,11 +41,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.pro/live3/F136/index.m3u8?st=cd2htyt2cx6-KzrNwcH3jw&e=1793703818"
+     "url": "https://instreams.live/live3/F136/index.m3u8?st=9g9aLydBfbsz2JECRMeBow&e=1793705668"
     },
     {
      "name": "720p away",
-     "url": "https://gate4.st/live3/F137/index.m3u8?st=iiDEqKidMIP5_VQxodtr4A&e=1793703858"
+     "url": "https://instreams.xyz/live3/F137/index.m3u8?st=I2GPV_nhkCpXNMcQ_zAyoQ&e=1793705705"
     }
    ]
   }
