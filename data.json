@@ -1,12 +1,87 @@
 {
- "generated": "2026-11-03T23:33:08.994159+00:00",
+ "generated": "2026-11-03T23:46:56.208438+00:00",
  "games": [
+  {
+   "title": "Colorado - Columbus",
+   "feeds": [
+    {
+     "name": "1080p away",
+     "url": "https://instreams.live/live3/F171/index.m3u8?st=D-VAeBga3L7wBbb7tS_l4A&e=1793759761"
+    }
+   ]
+  },
+  {
+   "title": "Dallas - Washington",
+   "feeds": [
+    {
+     "name": "1080p home",
+     "url": "https://instreams.live/live3/F139/index.m3u8?st=iruxeoLBXQb4tvAXDhJ1Zg&e=1793759738"
+    }
+   ]
+  },
+  {
+   "title": "Detroit - Tampa Bay",
+   "feeds": [
+    {
+     "name": "720p away",
+     "url": "https://instreams.pro/live3/F135/index.m3u8?st=AwJgRmZ0JxsBpw2vmpZqSg&e=1793759669"
+    }
+   ]
+  },
+  {
+   "title": "Minnesota - Philadelphia",
+   "feeds": [
+    {
+     "name": "720p home",
+     "url": "https://instreams.live/live3/F137/index.m3u8?st=5-yJ3qevkIokKvv7B-nJTA&e=1793759709"
+    }
+   ]
+  },
   {
    "title": "St. Louis - NY",
    "feeds": [
     {
+     "name": "720p home",
+     "url": "https://instreams.live/live3/F136/index.m3u8?st=HnGIg8i-FXuI8ShEmcfvLg&e=1793759672"
+    },
+    {
      "name": "540p home",
-     "url": "https://instreams.live/live3/F69/index.m3u8?st=5MdTSZmO1S1GFmp2vLQL3Q&e=1793757830"
+     "url": "https://instreams.xyz/live3/F69/index.m3u8?st=4lGmhBsxwY2nonToNAa7FA&e=1793759674"
+    }
+   ]
+  },
+  {
+   "title": "Utah - Toronto",
+   "feeds": [
+    {
+     "name": "720p home",
+     "url": "https://gate4.st/live3/F131/index.m3u8?st=3QCZPfCwFguaQeta7xzwyQ&e=1793759611"
+    }
+   ]
+  },
+  {
+   "title": "Vegas - Pittsburgh",
+   "feeds": [
+    {
+     "name": "720p home",
+     "url": "https://instreams.pro/live3/F138/index.m3u8?st=pxmczMd6I__0hIbdeELtsg&e=1793759720"
+    }
+   ]
+  },
+  {
+   "title": "Winnipeg - Montr\u00e9al",
+   "feeds": [
+    {
+     "name": "1080p home",
+     "url": "https://instreams.xyz/live3/F132/index.m3u8?st=eGp1HEfR3RdCLjHuMcOoxw&e=1793759616"
+    },
+    {
+     "name": "720p french",
+     "url": "https://instreams.pro/live3/F146/index.m3u8?st=vCugSbd2qpUwP5urRE0Fbw&e=1793759637"
+    },
+    {
+     "name": "720p away",
+     "url": "https://instreams.live/live3/F133/index.m3u8?st=TCNZVhhiYOVG4Wdh5i74dw&e=1793759627"
     }
    ]
   },
@@ -15,7 +90,7 @@
    "feeds": [
     {
      "name": "540p home",
-     "url": "https://gate4.st/live3/F68/index.m3u8?st=zB0ar1M282qOwhSeK4YWeg&e=1793757945"
+     "url": "https://instreams.live/live3/F68/index.m3u8?st=-hinHE_f6kInKth49Odd6Q&e=1793759816"
     }
    ]
   }
