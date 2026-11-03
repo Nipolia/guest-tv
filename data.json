@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T07:46:52.203023+00:00",
+ "generated": "2026-11-03T08:01:54.034657+00:00",
  "games": [
   {
    "title": "Vegas - Boston",
@@ -31,10 +31,6 @@
    "title": "Colorado - Chicago",
    "feeds": [
     {
-     "name": "1080p home",
-     "url": "https://instreams.xyz/live3/F134/index.m3u8?st=J7Y8KhqmKjXasCjEJBvomQ&e=1793701889"
-    },
-    {
      "name": "1080p away",
      "url": "https://instreams.xyz/live3/F135/index.m3u8?st=mkoRQl4rajQShbs9OHaKdA&e=1793701919"
     }
@@ -45,15 +41,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.live/live3/F136/index.m3u8?st=rXN791T_lgZV0Gz_Y_WYrg&e=1793701957"
+     "url": "https://instreams.pro/live3/F136/index.m3u8?st=Ll25mwnDggFHTbSmRP4vzA&e=1793703243"
     },
     {
      "name": "720p away",
      "url": "https://instreams.live/live3/F137/index.m3u8?st=Z-MqeO3aY5K6ZKEgUOU0Rw&e=1793701993"
-    },
-    {
-     "name": "540p home",
-     "url": "https://instreams.pro/live3/F68/index.m3u8?st=bPTgYv6OfW4Q50Peqq9IlQ&e=1793701960"
     }
    ]
   }
