@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-04T03:46:51.491829+00:00",
+ "generated": "2026-11-04T04:01:52.509663+00:00",
  "games": [
   {
    "title": "Carolina - Nashville",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.live/live3/F174/index.m3u8?st=4PXfX9tfQNlKlier35sFNg&e=1793773547"
+     "url": "https://instreams.pro/live3/F174/index.m3u8?st=BT0Kbko8MWdkGFaPIXEmlw&e=1793775260"
     }
    ]
   },
@@ -15,11 +15,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.pro/live3/F175/index.m3u8?st=OshVglntJj8uvDSyYgpDhQ&e=1793773565"
+     "url": "https://gate4.st/live3/F175/index.m3u8?st=dEzy3qSgmlLWgU2yFNV7Vw&e=1793775280"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.pro/live3/F68/index.m3u8?st=iWz4HTxUv2XXGF--5YnPDQ&e=1793773568"
+     "url": "https://instreams.pro/live3/F68/index.m3u8?st=e5Aly4qlWc24TQQB1S3T3Q&e=1793775283"
     }
    ]
   }
