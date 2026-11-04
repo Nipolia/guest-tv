@@ -1,16 +1,12 @@
 {
- "generated": "2026-11-04T01:16:57.021235+00:00",
+ "generated": "2026-11-04T01:31:58.025873+00:00",
  "games": [
   {
    "title": "Colorado - Columbus",
    "feeds": [
     {
-     "name": "1080p away",
-     "url": "https://instreams.pro/live3/F171/index.m3u8?st=Qc2cHfKynO6hAdaF08lRSg&e=1793763695"
-    },
-    {
      "name": "720p home",
-     "url": "https://gate4.st/live3/F140/index.m3u8?st=RdGfu5e4NG2w6Tu0QVYs1A&e=1793763671"
+     "url": "https://instreams.xyz/live3/F140/index.m3u8?st=HkCvujLfKshKa0S-Sl0w2Q&e=1793765678"
     }
    ]
   },
@@ -19,7 +15,7 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.pro/live3/F139/index.m3u8?st=UL2iPoVaF8kWrSFeHvtAtw&e=1793763639"
+     "url": "https://instreams.live/live3/F139/index.m3u8?st=82jaOFawH0IxfI45EKmJyQ&e=1793765642"
     }
    ]
   },
@@ -28,7 +24,7 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.pro/live3/F135/index.m3u8?st=v0mZvVqKdLL8LPVa4uy6Bw&e=1793763511"
+     "url": "https://instreams.xyz/live3/F135/index.m3u8?st=kci1CpVx8t1Pw67vVV6sAw&e=1793765515"
     }
    ]
   },
@@ -37,7 +33,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F137/index.m3u8?st=aWf_PCEmg047gAqnGrO8zA&e=1793763571"
+     "url": "https://instreams.xyz/live3/F137/index.m3u8?st=0Ij0J6O-fV54VKTq5zGYMw&e=1793765581"
     }
    ]
   },
@@ -46,11 +42,20 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.pro/live3/F136/index.m3u8?st=O17CctLJ6VFS4KAnY7qpeQ&e=1793763526"
+     "url": "https://gate4.st/live3/F136/index.m3u8?st=ej_GMeD4yT6a3QAkMFbzKg&e=1793765529"
     },
     {
      "name": "540p home",
-     "url": "https://gate4.st/live3/F69/index.m3u8?st=vCTGlsMabOQMCX_HtXsUTw&e=1793763528"
+     "url": "https://instreams.xyz/live3/F69/index.m3u8?st=Fxrgv5NTwv-68UbrCe1M0g&e=1793765530"
+    }
+   ]
+  },
+  {
+   "title": "Utah - Toronto",
+   "feeds": [
+    {
+     "name": "720p home",
+     "url": "https://gate4.st/live3/F131/index.m3u8?st=0SqSL_UAMMbXQyYzTSTBwA&e=1793765418"
     }
    ]
   },
@@ -59,7 +64,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://gate4.st/live3/F138/index.m3u8?st=TwSwIXjFhpeO1Hi8B2dKpQ&e=1793763602"
+     "url": "https://gate4.st/live3/F138/index.m3u8?st=iNDFlQg_EmeoP9Z36wu50w&e=1793765610"
     }
    ]
   },
@@ -68,11 +73,15 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://gate4.st/live3/F132/index.m3u8?st=j0M2KkUrzmojxXsAghKe6g&e=1793763439"
+     "url": "https://instreams.pro/live3/F132/index.m3u8?st=ClKeKVbYmXawRGwxbJBj4g&e=1793765447"
     },
     {
      "name": "720p french",
-     "url": "https://instreams.pro/live3/F146/index.m3u8?st=ZQMIuGQ_NYgYDU2_1JFAZQ&e=1793763472"
+     "url": "https://instreams.pro/live3/F146/index.m3u8?st=R5wd-4TdBpBWMnjg5idqIQ&e=1793765476"
+    },
+    {
+     "name": "720p away",
+     "url": "https://gate4.st/live3/F133/index.m3u8?st=iKdntWtJJ7Y_vLA7awvvEQ&e=1793765463"
     }
    ]
   },
@@ -80,17 +89,21 @@
    "title": "Edmonton - New Jersey",
    "feeds": [
     {
+     "name": "720p ESPN",
+     "url": "https://gate4.st/live3/F172/index.m3u8?st=Gph7vHVsBhtgsV31WeUcNQ&e=1793765725"
+    },
+    {
      "name": "720p SN",
-     "url": "https://gate4.st/live3/F173/index.m3u8?st=OTz8bG2qOkCx7GfuckGiDA&e=1793763731"
+     "url": "https://instreams.live/live3/F173/index.m3u8?st=kbt1hYWq6TBR9RWp92hIqw&e=1793765744"
     }
    ]
   },
   {
-   "title": "Anaheim - Vancouver",
+   "title": "Carolina - Nashville",
    "feeds": [
     {
-     "name": "540p home",
-     "url": "https://instreams.live/live3/F68/index.m3u8?st=AH_gxl8M0S7NKcSK-bSsSQ&e=1793763769"
+     "name": "720p home",
+     "url": "https://instreams.pro/live3/F174/index.m3u8?st=ZNYgspKnnTyYmQuqNSpLJQ&e=1793765794"
     }
    ]
   }
