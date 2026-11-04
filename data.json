@@ -1,4 +1,18 @@
 {
- "generated": "2026-11-04T23:16:47.132371+00:00",
- "games": []
+ "generated": "2026-11-04T23:31:49.560333+00:00",
+ "games": [
+  {
+   "title": "Chicago - Florida",
+   "feeds": [
+    {
+     "name": "1080p english",
+     "url": "https://instreams.pro/live3/F119/index.m3u8?st=A5ki97BLS1nTb3r8odeovg&e=1793845732"
+    },
+    {
+     "name": "540p english",
+     "url": "https://instreams.pro/live3/F68/index.m3u8?st=Fg-YPfD-shbADS7CghxwsA&e=1793845732"
+    }
+   ]
+  }
+ ]
 }
