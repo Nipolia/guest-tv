@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-04T01:47:02.123639+00:00",
+ "generated": "2026-11-04T02:02:05.250446+00:00",
  "games": [
   {
    "title": "Colorado - Columbus",
    "feeds": [
     {
-     "name": "720p home",
-     "url": "https://instreams.xyz/live3/F140/index.m3u8?st=HkCvujLfKshKa0S-Sl0w2Q&e=1793765678"
+     "name": "1080p away",
+     "url": "https://gate4.st/live3/F171/index.m3u8?st=datnP_jmIs18uhc5d7XbTw&e=1793767728"
     }
    ]
   },
@@ -15,7 +15,7 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.live/live3/F139/index.m3u8?st=82jaOFawH0IxfI45EKmJyQ&e=1793765642"
+     "url": "https://instreams.pro/live3/F139/index.m3u8?st=7WiZY8doZ6IkeTTi_Ah9Kw&e=1793767673"
     }
    ]
   },
@@ -24,7 +24,7 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F135/index.m3u8?st=kci1CpVx8t1Pw67vVV6sAw&e=1793765515"
+     "url": "https://instreams.xyz/live3/F135/index.m3u8?st=EWr3pWYdC5p7n3l5kr9RqQ&e=1793767554"
     }
    ]
   },
@@ -33,7 +33,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F137/index.m3u8?st=0Ij0J6O-fV54VKTq5zGYMw&e=1793765581"
+     "url": "https://instreams.xyz/live3/F137/index.m3u8?st=lPw2zmw3RyqhwJj_kcYREA&e=1793767617"
     }
    ]
   },
@@ -42,11 +42,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://gate4.st/live3/F136/index.m3u8?st=ej_GMeD4yT6a3QAkMFbzKg&e=1793765529"
+     "url": "https://instreams.xyz/live3/F136/index.m3u8?st=ZjUdhWY-ncG4lZxj9MR2Uw&e=1793767568"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.xyz/live3/F69/index.m3u8?st=Fxrgv5NTwv-68UbrCe1M0g&e=1793765530"
+     "url": "https://instreams.pro/live3/F69/index.m3u8?st=XUIdHUIOUOI87ufhpEmZDw&e=1793767569"
     }
    ]
   },
@@ -55,7 +55,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://gate4.st/live3/F131/index.m3u8?st=0SqSL_UAMMbXQyYzTSTBwA&e=1793765418"
+     "url": "https://gate4.st/live3/F131/index.m3u8?st=fxQY5c5UVP-HNqWQ6fVWcA&e=1793767458"
     }
    ]
   },
@@ -64,7 +64,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://gate4.st/live3/F138/index.m3u8?st=iNDFlQg_EmeoP9Z36wu50w&e=1793765610"
+     "url": "https://instreams.xyz/live3/F138/index.m3u8?st=ygOw4RGFJ2CtZK_danvZTQ&e=1793767639"
     }
    ]
   },
@@ -73,15 +73,15 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.pro/live3/F132/index.m3u8?st=ClKeKVbYmXawRGwxbJBj4g&e=1793765447"
+     "url": "https://gate4.st/live3/F132/index.m3u8?st=ghzdIql9vqd0p8DlRQCjDw&e=1793767483"
     },
     {
      "name": "720p french",
-     "url": "https://instreams.pro/live3/F146/index.m3u8?st=R5wd-4TdBpBWMnjg5idqIQ&e=1793765476"
+     "url": "https://gate4.st/live3/F146/index.m3u8?st=Wi3PKn_v-UE74j0xmifbRg&e=1793767518"
     },
     {
      "name": "720p away",
-     "url": "https://gate4.st/live3/F133/index.m3u8?st=iKdntWtJJ7Y_vLA7awvvEQ&e=1793765463"
+     "url": "https://instreams.pro/live3/F133/index.m3u8?st=QES1l13hEFr0gY11lGcAUA&e=1793767503"
     }
    ]
   },
@@ -90,11 +90,11 @@
    "feeds": [
     {
      "name": "720p ESPN",
-     "url": "https://gate4.st/live3/F172/index.m3u8?st=Gph7vHVsBhtgsV31WeUcNQ&e=1793765725"
+     "url": "https://gate4.st/live3/F172/index.m3u8?st=nNuiXoXIBBjfr5vQH5cfXw&e=1793767753"
     },
     {
      "name": "720p SN",
-     "url": "https://instreams.live/live3/F173/index.m3u8?st=kbt1hYWq6TBR9RWp92hIqw&e=1793765744"
+     "url": "https://instreams.live/live3/F173/index.m3u8?st=jLeQy8GHdxAhr7kczVg5ew&e=1793767784"
     }
    ]
   },
@@ -103,7 +103,20 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.pro/live3/F174/index.m3u8?st=ZNYgspKnnTyYmQuqNSpLJQ&e=1793765794"
+     "url": "https://gate4.st/live3/F174/index.m3u8?st=xlOA_aW0muHUcDw1e6xDUA&e=1793767831"
+    }
+   ]
+  },
+  {
+   "title": "Anaheim - Vancouver",
+   "feeds": [
+    {
+     "name": "720p home",
+     "url": "https://instreams.xyz/live3/F175/index.m3u8?st=_cL6oZbRWinZAfD5tV4D-Q&e=1793767853"
+    },
+    {
+     "name": "540p home",
+     "url": "https://gate4.st/live3/F68/index.m3u8?st=Fh5RnBKzXjWluwmhejNnNg&e=1793767854"
     }
    ]
   }
