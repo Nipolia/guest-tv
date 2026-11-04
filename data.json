@@ -1,18 +1,4 @@
 {
- "generated": "2026-11-04T09:31:54.820258+00:00",
- "games": [
-  {
-   "title": "Anaheim - Vancouver",
-   "feeds": [
-    {
-     "name": "720p home",
-     "url": "https://gate4.st/live3/F175/index.m3u8?st=PZz_LZNBdsyc5fxrFLHQJw&e=1793794176"
-    },
-    {
-     "name": "540p home",
-     "url": "https://instreams.live/live3/F68/index.m3u8?st=ogCpQYCWi36VExu5NeSyGw&e=1793794179"
-    }
-   ]
-  }
- ]
+ "generated": "2026-11-04T09:46:45.837785+00:00",
+ "games": []
 }
