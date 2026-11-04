@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-04T06:46:49.509428+00:00",
+ "generated": "2026-11-04T07:01:49.447901+00:00",
  "games": [
   {
    "title": "Anaheim - Vancouver",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.pro/live3/F175/index.m3u8?st=GCeDzccIMrtmsgaml77c4g&e=1793783850"
+     "url": "https://instreams.live/live3/F175/index.m3u8?st=yE2B1xqa67mwvtkZDFKx9w&e=1793785569"
     },
     {
      "name": "540p home",
-     "url": "https://gate4.st/live3/F68/index.m3u8?st=qZRd1PON5iD3OAjTw25dfQ&e=1793783852"
+     "url": "https://instreams.live/live3/F68/index.m3u8?st=11xduGROqFNoEW5_iyTRbg&e=1793785571"
     }
    ]
   }
