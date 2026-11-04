@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-04T02:47:01.357834+00:00",
+ "generated": "2026-11-04T03:02:09.578649+00:00",
  "games": [
   {
    "title": "Colorado - Columbus",
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://gate4.st/live3/F171/index.m3u8?st=-MpTRroYHmvDOzAmiyUrdQ&e=1793769738"
+     "url": "https://instreams.xyz/live3/F171/index.m3u8?st=1wAM10SSPE5amSghXeZDAA&e=1793771753"
     },
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F140/index.m3u8?st=Z3Ku526hb4FYtgUgWBWuGw&e=1793769717"
+     "url": "https://instreams.xyz/live3/F140/index.m3u8?st=ubfPAiYrAXzQdXtTK_oLKA&e=1793771734"
     }
    ]
   },
@@ -19,7 +19,7 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.pro/live3/F139/index.m3u8?st=iACasNIZE8ftPjanwM6pTg&e=1793769683"
+     "url": "https://instreams.pro/live3/F139/index.m3u8?st=ANwoSZJYyfTbkvqwfrCIuA&e=1793771695"
     }
    ]
   },
@@ -28,7 +28,7 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.live/live3/F135/index.m3u8?st=PQgAZm6fzL0Nxgt-DT7l6g&e=1793769566"
+     "url": "https://gate4.st/live3/F135/index.m3u8?st=AAplpEEvSBVeyjlRNhSU5Q&e=1793771569"
     }
    ]
   },
@@ -37,7 +37,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F137/index.m3u8?st=obE5jx1XgSbxxQtrInnBIA&e=1793769628"
+     "url": "https://instreams.xyz/live3/F137/index.m3u8?st=aeldb1o59ZXLas5HRK25sg&e=1793771632"
     }
    ]
   },
@@ -46,11 +46,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://gate4.st/live3/F136/index.m3u8?st=w-12408z5k4PJfr0Faimsg&e=1793769578"
+     "url": "https://instreams.live/live3/F136/index.m3u8?st=HGVdNovFZp-LFpz6hHMPVg&e=1793771582"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.live/live3/F69/index.m3u8?st=ZaYlCYD-Kg-U-9TasYa_aQ&e=1793769581"
+     "url": "https://instreams.pro/live3/F69/index.m3u8?st=1vnkgFEs-gHww7BdUP84CQ&e=1793771584"
     }
    ]
   },
@@ -59,7 +59,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.live/live3/F131/index.m3u8?st=ncf1PqONLydAeNSL9V4qmA&e=1793769473"
+     "url": "https://instreams.live/live3/F131/index.m3u8?st=HX6E2R31ooHAmVaFnMwq6A&e=1793771479"
     }
    ]
   },
@@ -68,7 +68,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.live/live3/F138/index.m3u8?st=PuwCXBX7RYOW12A-mXEN7g&e=1793769654"
+     "url": "https://instreams.pro/live3/F138/index.m3u8?st=U298BQ89-zH-8AWBBSpWEQ&e=1793771659"
     }
    ]
   },
@@ -77,7 +77,7 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F133/index.m3u8?st=_ZpQX2HlaeP9AdW1AJdOAw&e=1793769516"
+     "url": "https://gate4.st/live3/F133/index.m3u8?st=uNrtk95_lgruBkkvZ3Nhjw&e=1793771518"
     }
    ]
   },
@@ -86,11 +86,11 @@
    "feeds": [
     {
      "name": "720p ESPN",
-     "url": "https://instreams.pro/live3/F172/index.m3u8?st=AcT2c8O58k_H9zEtUxNNjQ&e=1793769760"
+     "url": "https://instreams.xyz/live3/F172/index.m3u8?st=os07EyjwSn9WzsXhkM5Tbg&e=1793771782"
     },
     {
      "name": "720p SN",
-     "url": "https://gate4.st/live3/F173/index.m3u8?st=X0ghx9CIBxXZ68PNY6V7fA&e=1793769784"
+     "url": "https://instreams.xyz/live3/F173/index.m3u8?st=Es8JTfGm87DekesAmTXyLw&e=1793771803"
     }
    ]
   },
@@ -99,7 +99,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.live/live3/F174/index.m3u8?st=RUxp_jsW9youfpFFfXbXiA&e=1793769822"
+     "url": "https://gate4.st/live3/F174/index.m3u8?st=yHdzSbKyp0wA5Z4qjrUGug&e=1793771841"
     }
    ]
   },
@@ -108,11 +108,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.live/live3/F175/index.m3u8?st=pV0Mdd7N8wx_qNAwCqfKAw&e=1793769846"
+     "url": "https://instreams.pro/live3/F175/index.m3u8?st=5B4NwznHqcuI2P1gO6U_6Q&e=1793771873"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.live/live3/F68/index.m3u8?st=7-DZtSJstFyHz4PK7jcsvw&e=1793769849"
+     "url": "https://instreams.pro/live3/F68/index.m3u8?st=6rC7F_Vxebqn71dv9b0gsA&e=1793771874"
     }
    ]
   }
