@@ -1,13 +1,9 @@
 {
- "generated": "2026-11-05T06:16:49.993555+00:00",
+ "generated": "2026-11-05T06:31:48.067170+00:00",
  "games": [
   {
    "title": "Calgary - Seattle",
    "feeds": [
-    {
-     "name": "720p home",
-     "url": "https://gate4.st/live3/F135/index.m3u8?st=Balbzja13RPqrrwQHZFrcQ&e=1793870009"
-    },
     {
      "name": "720p away",
      "url": "https://instreams.pro/live3/F136/index.m3u8?st=_eGpINQkT4gNo2D7eNs07w&e=1793870048"
