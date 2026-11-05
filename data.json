@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-05T08:31:48.503070+00:00",
+ "generated": "2026-11-05T08:46:49.665780+00:00",
  "games": [
   {
    "title": "Calgary - Seattle",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.live/live3/F136/index.m3u8?st=f6A2wmwDluFxtCHGl2mtPg&e=1793876822"
+     "url": "https://gate4.st/live3/F136/index.m3u8?st=t8g1T48XB8lo7tWVxD1giA&e=1793878540"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.xyz/live3/F69/index.m3u8?st=WAoEhMFRag93nfKmbYTfow&e=1793876783"
+     "url": "https://instreams.xyz/live3/F69/index.m3u8?st=lJnKMiOr5Td8ndDOh8cXcQ&e=1793878499"
     }
    ]
   },
@@ -19,11 +19,11 @@
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://instreams.live/live3/F134/index.m3u8?st=R3yk72HsZJVy1hs-xH7pcw&e=1793876753"
+     "url": "https://instreams.xyz/live3/F134/index.m3u8?st=4qpxUJSoL4II8g8siXiOLw&e=1793878462"
     },
     {
      "name": "1080p english",
-     "url": "https://instreams.pro/live3/F119/index.m3u8?st=8mvg-vlJxeHF-h60ZlEAxg&e=1793876753"
+     "url": "https://gate4.st/live3/F119/index.m3u8?st=ORfK8tfzDaErcIvDNiLcjw&e=1793878462"
     }
    ]
   }
