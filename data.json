@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-05T00:16:50.723412+00:00",
+ "generated": "2026-11-05T00:31:55.739764+00:00",
  "games": [
   {
    "title": "Chicago - Florida",
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://instreams.pro/live3/F133/index.m3u8?st=WlLSFGuHt7TGjUPNUvVFkA&e=1793847442"
+     "url": "https://gate4.st/live3/F119/index.m3u8?st=rsztQ0cE9DR1WiqqMLhzyA&e=1793849193"
     },
     {
      "name": "1080p english",
-     "url": "https://instreams.pro/live3/F119/index.m3u8?st=ONkU8nKCGrXyS9J759YTZw&e=1793847445"
+     "url": "https://gate4.st/live3/F133/index.m3u8?st=CzFvmBiETKJNjMgKC13IAA&e=1793849189"
     },
     {
      "name": "540p english",
-     "url": "https://gate4.st/live3/F68/index.m3u8?st=KqP0zTDDnGAp-JiyaVGbkw&e=1793847446"
+     "url": "https://instreams.live/live3/F68/index.m3u8?st=Y5ao_KISYzVE0jM8_sjmNw&e=1793849194"
     }
    ]
   },
@@ -23,7 +23,7 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.xyz/live3/F131/index.m3u8?st=MjIfHaZrEEV6ly3xap1zDQ&e=1793847436"
+     "url": "https://instreams.xyz/live3/F131/index.m3u8?st=vykox6XRCs0D-oJmvwjOcA&e=1793849182"
     }
    ]
   }
