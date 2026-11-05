@@ -1,31 +1,4 @@
 {
- "generated": "2026-11-05T09:46:50.057308+00:00",
- "games": [
-  {
-   "title": "Calgary - Seattle",
-   "feeds": [
-    {
-     "name": "720p away",
-     "url": "https://instreams.pro/live3/F136/index.m3u8?st=tqWxuqRos0-1JGs_stb5Qw&e=1793881952"
-    },
-    {
-     "name": "540p home",
-     "url": "https://instreams.live/live3/F69/index.m3u8?st=SB1fPpENWBX-GDOkz97yMQ&e=1793881910"
-    }
-   ]
-  },
-  {
-   "title": "San Jose - Los Angeles",
-   "feeds": [
-    {
-     "name": "1080p english",
-     "url": "https://instreams.live/live3/F134/index.m3u8?st=scF7gd-0yYsWooLLGIKsEA&e=1793881883"
-    },
-    {
-     "name": "1080p english",
-     "url": "https://instreams.live/live3/F119/index.m3u8?st=fnLsay8HOrDBoAwsF-TNTg&e=1793881883"
-    }
-   ]
-  }
- ]
+ "generated": "2026-11-05T10:01:47.172202+00:00",
+ "games": []
 }
