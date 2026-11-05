@@ -1,16 +1,29 @@
 {
- "generated": "2026-11-05T01:16:57.731747+00:00",
+ "generated": "2026-11-05T01:31:51.748909+00:00",
  "games": [
   {
    "title": "Chicago - Florida",
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://instreams.live/live3/F119/index.m3u8?st=Z_46iJJ_AiENiNmi9uBDqA&e=1793850930"
+     "url": "https://instreams.pro/live3/F133/index.m3u8?st=0iu7w_VhVRj_7akiHZ5iqQ&e=1793852660"
     },
     {
-     "name": "540p english",
-     "url": "https://instreams.live/live3/F68/index.m3u8?st=CPh22lFqTSz_-n7R0f-lsQ&e=1793850931"
+     "name": "1080p english",
+     "url": "https://instreams.pro/live3/F119/index.m3u8?st=qUrytos2PHxwOF7BBdPIIQ&e=1793852662"
+    }
+   ]
+  },
+  {
+   "title": "Ottawa - Buffalo",
+   "feeds": [
+    {
+     "name": "1080p home",
+     "url": "https://instreams.live/live3/F131/index.m3u8?st=zqlpbnoQz-45pSu866m6Qg&e=1793852633"
+    },
+    {
+     "name": "720p away",
+     "url": "https://instreams.pro/live3/F132/index.m3u8?st=DXf08nP7ti6dwFhxEvqdHw&e=1793852656"
     }
    ]
   }
