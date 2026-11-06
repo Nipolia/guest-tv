@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-06T02:17:05.531806+00:00",
+ "generated": "2026-11-06T02:32:15.843776+00:00",
  "games": [
   {
    "title": "Boston - Pittsburgh",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F140/index.m3u8?st=tzY5icBfpecio8qbU0eUPQ&e=1793939924"
+     "url": "https://instreams.live/live3/F140/index.m3u8?st=H2sk5o-TyU99RMG8h1nfWA&e=1793942083"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F171/index.m3u8?st=-tGUdtz5Ng7VlMRmm42i1A&e=1793939948"
+     "url": "https://instreams.live/live3/F171/index.m3u8?st=udULmhcpC__nouJ62wf2PA&e=1793942107"
     }
    ]
   },
@@ -19,7 +19,7 @@
    "feeds": [
     {
      "name": "720p english",
-     "url": "https://instreams.pro/live3/F137/index.m3u8?st=jxuCYMqD6GrSy0De1CiAcw&e=1793939814"
+     "url": "https://gate4.st/live3/F137/index.m3u8?st=rUyAsxyBvCJovILWtfpf4w&e=1793941974"
     }
    ]
   },
@@ -28,11 +28,11 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://instreams.pro/live3/F135/index.m3u8?st=KZ0p5RMUzvxp5wChl1OALA&e=1793939765"
+     "url": "https://instreams.live/live3/F135/index.m3u8?st=ur9reBFZFFV6pYcIo4Cn9w&e=1793941918"
     },
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F134/index.m3u8?st=bMYlcwi9lu8Sl4RLgPpJGw&e=1793939733"
+     "url": "https://instreams.xyz/live3/F134/index.m3u8?st=RBISEc_CemyDqmK9lNPPHg&e=1793941896"
     }
    ]
   },
@@ -41,15 +41,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.pro/live3/F138/index.m3u8?st=ZqowyGG4fcNZYRq-7Vnwug&e=1793939851"
+     "url": "https://gate4.st/live3/F138/index.m3u8?st=iTrjYU4MlARKCIXzQdtCLg&e=1793942014"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.pro/live3/F139/index.m3u8?st=qTtzvHrLpj4XcYj_KokYbw&e=1793939900"
-    },
-    {
-     "name": "540p home",
-     "url": "https://instreams.live/live3/F69/index.m3u8?st=FXFt867GQXglIyrfREm7Ag&e=1793939862"
+     "url": "https://instreams.pro/live3/F139/index.m3u8?st=0uDv4-E8lMJLSHb8YhA9Ag&e=1793942059"
     }
    ]
   },
@@ -58,7 +54,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://gate4.st/live3/F136/index.m3u8?st=NBdlG7PMiFzfh5peUPiCRw&e=1793939780"
+     "url": "https://instreams.pro/live3/F136/index.m3u8?st=1Hg7dPZfr62Pn3zKIlvdOA&e=1793941944"
     }
    ]
   },
@@ -67,7 +63,7 @@
    "feeds": [
     {
      "name": "1080p french",
-     "url": "https://instreams.pro/live3/F146/index.m3u8?st=n1QnD6WGwoEe9KNvWGWqbQ&e=1793939660"
+     "url": "https://gate4.st/live3/F146/index.m3u8?st=fchfRGiKwyXPo9vbk8xQdQ&e=1793941827"
     }
    ]
   },
@@ -76,11 +72,11 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F174/index.m3u8?st=Ip-VDT6JOxnRR69u8LcYhQ&e=1793940056"
+     "url": "https://instreams.pro/live3/F174/index.m3u8?st=gltLFZ2vinJA3CXWuI4eDw&e=1793942218"
     },
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F173/index.m3u8?st=1vKEZZ2d7bAKyxI1J1-CKw&e=1793940022"
+     "url": "https://gate4.st/live3/F173/index.m3u8?st=YO3ymWvg1CTUdqIhWmY3mg&e=1793942180"
     }
    ]
   },
@@ -89,7 +85,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://gate4.st/live3/F133/index.m3u8?st=_4EpKip4l5GCaVBCvPZTYg&e=1793939688"
+     "url": "https://instreams.pro/live3/F133/index.m3u8?st=B7--qRygSQhvT0By9Tmdzg&e=1793941853"
     }
    ]
   },
@@ -98,7 +94,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.pro/live3/F175/index.m3u8?st=sr0ih_fmEWB9YtsxGXqZ-Q&e=1793940074"
+     "url": "https://gate4.st/live3/F175/index.m3u8?st=EbugyLR1Vcnk6VKZlY4mIA&e=1793942242"
     }
    ]
   },
@@ -107,7 +103,7 @@
    "feeds": [
     {
      "name": "540p english",
-     "url": "https://gate4.st/live3/F68/index.m3u8?st=gmdtlg6_WPdy1i91gQ4Z2g&e=1793940108"
+     "url": "https://gate4.st/live3/F68/index.m3u8?st=jWxc3Me6RR1WSQHn80qlPA&e=1793942264"
     }
    ]
   }
