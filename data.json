@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T01:47:13.681408+00:00",
+ "generated": "2026-11-06T02:02:04.681426+00:00",
  "games": [
   {
    "title": "Boston - Pittsburgh",
@@ -33,15 +33,6 @@
     {
      "name": "720p home",
      "url": "https://instreams.xyz/live3/F134/index.m3u8?st=bMYlcwi9lu8Sl4RLgPpJGw&e=1793939733"
-    }
-   ]
-  },
-  {
-   "title": "Dallas - Columbus",
-   "feeds": [
-    {
-     "name": "home",
-     "url": "https://instreams.live/live3/F172/index.m3u8?st=V-kNuH8rmgyMgLyPVqfkJg&e=1793939989"
     }
    ]
   },
