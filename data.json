@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-06T05:16:51.932781+00:00",
+ "generated": "2026-11-06T05:31:50.196124+00:00",
  "games": [
   {
    "title": "Anaheim - Edmonton",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F175/index.m3u8?st=S6lboG36rB4t6VzFesnmHA&e=1793951160"
+     "url": "https://instreams.xyz/live3/F175/index.m3u8?st=L6u3a4sbGVSX78746L1w9A&e=1793952869"
     }
    ]
   },
@@ -14,12 +14,8 @@
    "title": "Nashville - Colorado",
    "feeds": [
     {
-     "name": "720p english",
-     "url": "https://instreams.pro/live3/F178/index.m3u8?st=U_YA8UwT8MwE6JabZ5ffXQ&e=1793951203"
-    },
-    {
      "name": "540p english",
-     "url": "https://instreams.xyz/live3/F68/index.m3u8?st=Padln82s62u8B-8sYxg4DQ&e=1793951206"
+     "url": "https://instreams.live/live3/F68/index.m3u8?st=HbZJZOTWMzVhJOp7emzG-g&e=1793952916"
     }
    ]
   }
