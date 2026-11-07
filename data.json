@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-07T20:01:51.473216+00:00",
+ "generated": "2026-11-07T20:16:52.876850+00:00",
  "games": [
   {
    "title": "Florida - Washington",
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.xyz/live3/F131/index.m3u8?st=HWwEa6JtqMq0Vpe4OrudfQ&e=1794091169"
+     "url": "https://instreams.live/live3/F131/index.m3u8?st=U4uVDX8MpQ54yZFD11pysg&e=1794093002"
     }
    ]
   },
@@ -15,7 +15,7 @@
    "feeds": [
     {
      "name": "1080p NHLN",
-     "url": "https://instreams.pro/live3/F132/index.m3u8?st=Gf0bDOAfFK5_oxRvM_UUDQ&e=1794091253"
+     "url": "https://instreams.pro/live3/F132/index.m3u8?st=u64_RhgG29vydR99Mb6ryQ&e=1794093085"
     }
    ]
   }
