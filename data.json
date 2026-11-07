@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-07T06:02:04.479838+00:00",
+ "generated": "2026-11-07T06:16:57.233318+00:00",
  "games": [
   {
    "title": "Columbus - Buffalo",
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.pro/live3/F131/index.m3u8?st=tjujAe05VR0GGvDhf01yOA&e=1794038882"
+     "url": "https://instreams.xyz/live3/F131/index.m3u8?st=peqh7eAPe2zq9t7mYH8qJA&e=1794041635"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.xyz/live3/F69/index.m3u8?st=VwG57tWWn53xBJV_OQJ1QA&e=1794038882"
+     "url": "https://instreams.pro/live3/F69/index.m3u8?st=YuGhyRXduIjMwJqmIviWGQ&e=1794041634"
     }
    ]
   },
@@ -19,7 +19,11 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://instreams.xyz/live3/F133/index.m3u8?st=R5dHCqOv6_61cM6acwTtuQ&e=1794039016"
+     "url": "https://instreams.xyz/live3/F133/index.m3u8?st=RtL9e_smdqz5HXEXlzHYIA&e=1794041780"
+    },
+    {
+     "name": "1080p home",
+     "url": "https://gate4.st/live3/F132/index.m3u8?st=byys3cMSKWf1QnAePWCjqA&e=1794041720"
     }
    ]
   }
