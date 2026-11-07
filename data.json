@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T05:31:59.711056+00:00",
+ "generated": "2026-11-07T05:47:04.161755+00:00",
  "games": [
   {
    "title": "Columbus - Buffalo",
@@ -7,6 +7,10 @@
     {
      "name": "1080p home",
      "url": "https://instreams.pro/live3/F131/index.m3u8?st=tjujAe05VR0GGvDhf01yOA&e=1794038882"
+    },
+    {
+     "name": "540p home",
+     "url": "https://instreams.xyz/live3/F69/index.m3u8?st=VwG57tWWn53xBJV_OQJ1QA&e=1794038882"
     }
    ]
   },
