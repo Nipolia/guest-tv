@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T05:02:04.608354+00:00",
+ "generated": "2026-11-07T05:17:08.943265+00:00",
  "games": [
   {
    "title": "Columbus - Buffalo",
@@ -11,15 +11,6 @@
     {
      "name": "540p home",
      "url": "https://instreams.pro/live3/F69/index.m3u8?st=xwbkEJzcrNHfSAoMrMlveg&e=1794036312"
-    }
-   ]
-  },
-  {
-   "title": "Anaheim - Calgary",
-   "feeds": [
-    {
-     "name": "720p home",
-     "url": "https://gate4.st/live3/F134/index.m3u8?st=VePvczXIhwwhyxzjBLaqvQ&e=1794036496"
     }
    ]
   },
