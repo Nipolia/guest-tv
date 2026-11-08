@@ -1,25 +1,16 @@
 {
- "generated": "2026-11-08T01:01:59.464164+00:00",
+ "generated": "2026-11-08T01:16:54.520895+00:00",
  "games": [
-  {
-   "title": "New York - Seattle",
-   "feeds": [
-    {
-     "name": "720p away",
-     "url": "https://gate4.st/live3/F133/index.m3u8?st=D2A8_AGEzUskOc1HZQI3_Q&e=1794108472"
-    }
-   ]
-  },
   {
    "title": "Montr\u00e9al - Toronto",
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://instreams.live/live3/F135/index.m3u8?st=aTDtUYKk4qxDHovx6hzdbA&e=1794108520"
+     "url": "https://gate4.st/live3/F135/index.m3u8?st=2hF5_7vmMtdsB75YZahfWA&e=1794110493"
     },
     {
      "name": "720p french",
-     "url": "https://instreams.xyz/live3/F146/index.m3u8?st=q6V4SmRppR6NDamvPrDJNQ&e=1794108567"
+     "url": "https://gate4.st/live3/F146/index.m3u8?st=t-jabvAZNvHNyzqGbfT6mQ&e=1794110563"
     }
    ]
   },
@@ -28,11 +19,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.live/live3/F137/index.m3u8?st=6z8mHIsL6yzqfdT9NrFxPw&e=1794108643"
+     "url": "https://gate4.st/live3/F137/index.m3u8?st=7oWZV8BUJJYq3Kwiv0UrPQ&e=1794110648"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.live/live3/F138/index.m3u8?st=B4-AiKD_TyHK8Stj6Xe-zA&e=1794108676"
+     "url": "https://instreams.xyz/live3/F138/index.m3u8?st=bqKFiFScVK-d9udJBIZCCA&e=1794110681"
     }
    ]
   },
@@ -41,7 +32,7 @@
    "feeds": [
     {
      "name": "432p home",
-     "url": "https://instreams.live/live3/F136/index.m3u8?st=1Zn3w8JuWiTRvJHC8r6dXg&e=1794108613"
+     "url": "https://instreams.xyz/live3/F136/index.m3u8?st=g7tVQmh6Uz65I_QuQlYbMQ&e=1794110608"
     }
    ]
   },
@@ -50,7 +41,7 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://instreams.pro/live3/F140/index.m3u8?st=8fgKqN1OYC0d1nNbucTxvg&e=1794108694"
+     "url": "https://instreams.pro/live3/F140/index.m3u8?st=M7dEOJ-o7hvONMt0EqS6gg&e=1794110707"
     }
    ]
   },
@@ -58,8 +49,12 @@
    "title": "San Jose - Dallas",
    "feeds": [
     {
+     "name": "720p home",
+     "url": "https://gate4.st/live3/F171/index.m3u8?st=R2H_PvnTYNHHyrOtqumyAg&e=1794110713"
+    },
+    {
      "name": "720p away",
-     "url": "https://gate4.st/live3/F172/index.m3u8?st=l9PkqJqxfKulLW7kyVQZTw&e=1794108697"
+     "url": "https://gate4.st/live3/F172/index.m3u8?st=ldPlc2VNuIGt060foyr17g&e=1794110726"
     }
    ]
   },
@@ -68,7 +63,11 @@
    "feeds": [
     {
      "name": "540p home",
-     "url": "https://gate4.st/live3/F68/index.m3u8?st=QL0Hx_0iTJyS3efA7LX3jw&e=1794108700"
+     "url": "https://instreams.pro/live3/F173/index.m3u8?st=CzPWjQu5tOWqZXdOkRloWg&e=1794110745"
+    },
+    {
+     "name": "540p home",
+     "url": "https://instreams.pro/live3/F68/index.m3u8?st=rOL4cWKUhN_1LgW178VRrQ&e=1794110748"
     }
    ]
   }
