@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T01:47:00.019561+00:00",
+ "generated": "2026-11-08T02:01:55.176566+00:00",
  "games": [
   {
    "title": "Montr\u00e9al - Toronto",
@@ -40,7 +40,7 @@
    "title": "Chicago - Carolina",
    "feeds": [
     {
-     "name": "away",
+     "name": "1080p away",
      "url": "https://instreams.live/live3/F140/index.m3u8?st=MTFbAW0cI0j3UDbF3aD0Yg&e=1794112759"
     }
    ]
@@ -51,10 +51,6 @@
     {
      "name": "720p home",
      "url": "https://gate4.st/live3/F171/index.m3u8?st=QO3BbJ_dZXep5_VuWKgtkQ&e=1794112777"
-    },
-    {
-     "name": "away",
-     "url": "https://instreams.xyz/live3/F172/index.m3u8?st=yHbMBHNvei2-HH1S5U6WOQ&e=1794112807"
     }
    ]
   },
