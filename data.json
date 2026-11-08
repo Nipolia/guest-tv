@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T03:32:03.213133+00:00",
+ "generated": "2026-11-08T03:46:58.812540+00:00",
  "games": [
   {
    "title": "Chicago - Carolina",
@@ -18,8 +18,8 @@
      "url": "https://instreams.live/live3/F171/index.m3u8?st=f4SOQUBUsASJF_DxRiodXw&e=1794119070"
     },
     {
-     "name": "away",
-     "url": "https://gate4.st/live3/F172/index.m3u8?st=vjFWp-3slPA2R6SVxCLQgA&e=1794119095"
+     "name": "720p away",
+     "url": "https://instreams.pro/live3/F172/index.m3u8?st=VqJ86qGtffHB2dzOklC-nQ&e=1794119845"
     }
    ]
   },
