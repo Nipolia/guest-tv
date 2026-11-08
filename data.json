@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-08T20:32:09.426124+00:00",
+ "generated": "2026-11-08T20:47:10.377755+00:00",
  "games": [
   {
    "title": "Florida - Boston",
    "feeds": [
     {
      "name": "540p home",
-     "url": "https://instreams.pro/live3/F131/index.m3u8?st=avLJvEW-06eJkebSiaDHZA&e=1794179684"
+     "url": "https://instreams.xyz/live3/F131/index.m3u8?st=M1W-S2MNxKVJlWSOcRzL8Q&e=1794180833"
     }
    ]
   },
@@ -15,7 +15,7 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.pro/live3/F132/index.m3u8?st=aKg-gXkuRBvUNcKiZdkFiQ&e=1794179315"
+     "url": "https://instreams.live/live3/F132/index.m3u8?st=dgTnSulWgmHmkIeadwV0TQ&e=1794180932"
     }
    ]
   }
