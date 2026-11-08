@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-08T08:01:54.384280+00:00",
+ "generated": "2026-11-08T08:16:55.339007+00:00",
  "games": [
   {
    "title": "Detroit - Colorado",
    "feeds": [
     {
-     "name": "720p away",
-     "url": "https://instreams.xyz/live3/F175/index.m3u8?st=4UkcI-ZWwJU_c99KBqhryQ&e=1794135495"
+     "name": "1080p home",
+     "url": "https://instreams.xyz/live3/F174/index.m3u8?st=y62lDilS-2dCx8V2DTtzxA&e=1794135460"
     },
     {
-     "name": "home",
-     "url": "https://instreams.xyz/live3/F174/index.m3u8?st=y62lDilS-2dCx8V2DTtzxA&e=1794135460"
+     "name": "720p away",
+     "url": "https://instreams.xyz/live3/F175/index.m3u8?st=4UkcI-ZWwJU_c99KBqhryQ&e=1794135495"
     }
    ]
   },
@@ -26,10 +26,6 @@
   {
    "title": "Vancouver - Edmonton",
    "feeds": [
-    {
-     "name": "1080p english",
-     "url": "https://gate4.st/live3/F135/index.m3u8?st=s-Jhqw3bMS1gy20zPgAdqQ&e=1794135572"
-    },
     {
      "name": "720p french",
      "url": "https://instreams.xyz/live3/F146/index.m3u8?st=RRWKQnCLNOVbBjx7lKFUuQ&e=1794135623"
