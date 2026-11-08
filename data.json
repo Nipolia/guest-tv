@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-08T00:02:06.279157+00:00",
+ "generated": "2026-11-08T00:16:57.441716+00:00",
  "games": [
   {
    "title": "New York - Seattle",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://gate4.st/live3/F133/index.m3u8?st=WdqaTBValYqMcNVx04zEOA&e=1794105203"
+     "url": "https://instreams.xyz/live3/F133/index.m3u8?st=L0zODOsZa8Lao4af7JZhMw&e=1794107268"
     }
    ]
   },
@@ -15,11 +15,33 @@
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://instreams.pro/live3/F135/index.m3u8?st=MDiSJYM0DFuRMnOVpCoIkA&e=1794105242"
+     "url": "https://instreams.pro/live3/F135/index.m3u8?st=oHT7hUfTqr5-EzQROTIw7w&e=1794107313"
     },
     {
      "name": "720p french",
-     "url": "https://instreams.xyz/live3/F146/index.m3u8?st=19ZWLlr3lcEEHHkL430OQg&e=1794105279"
+     "url": "https://instreams.xyz/live3/F146/index.m3u8?st=_bh3YJr9_IvYOvd9B_iO_w&e=1794107357"
+    }
+   ]
+  },
+  {
+   "title": "New Jersey - NY",
+   "feeds": [
+    {
+     "name": "720p home",
+     "url": "https://gate4.st/live3/F137/index.m3u8?st=zHno7rqUzCEgU8TFLgGJPg&e=1794107416"
+    },
+    {
+     "name": "720p away",
+     "url": "https://gate4.st/live3/F138/index.m3u8?st=8XZ_paJq8DCAa6F9cQKeyQ&e=1794107440"
+    }
+   ]
+  },
+  {
+   "title": "Utah - Ottawa",
+   "feeds": [
+    {
+     "name": "1080p home",
+     "url": "https://instreams.xyz/live3/F136/index.m3u8?st=z2nCv06Hl1BM-eaTVPLsrg&e=1794107395"
     }
    ]
   },
@@ -28,7 +50,7 @@
    "feeds": [
     {
      "name": "540p home",
-     "url": "https://instreams.pro/live3/F68/index.m3u8?st=Vqg4YWhpm08c70cs6RRmcw&e=1794105338"
+     "url": "https://instreams.pro/live3/F68/index.m3u8?st=OP3-5XGAdjM25OSxeiCBEg&e=1794107459"
     }
    ]
   }
