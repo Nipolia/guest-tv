@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-08T02:47:01.882270+00:00",
+ "generated": "2026-11-08T03:02:09.913345+00:00",
  "games": [
   {
    "title": "Montr\u00e9al - Toronto",
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://instreams.xyz/live3/F135/index.m3u8?st=tcc-PwZSvT-xm-Q9-X08AA&e=1794114697"
+     "url": "https://instreams.pro/live3/F135/index.m3u8?st=hHy2kh1PkyUlwvuSoZhoXw&e=1794116891"
     },
     {
      "name": "720p french",
-     "url": "https://instreams.pro/live3/F146/index.m3u8?st=ukFTnkb6G76bugSbi4gu-w&e=1794114737"
+     "url": "https://instreams.pro/live3/F146/index.m3u8?st=PSrCSXvHkxSO92Qbr59Qfw&e=1794116931"
     }
    ]
   },
@@ -19,11 +19,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F137/index.m3u8?st=37zgvZKcBsGAehJCro5TRQ&e=1794114821"
+     "url": "https://instreams.pro/live3/F137/index.m3u8?st=d3WFhZsDEUGr1RMbAAo_6A&e=1794117014"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F138/index.m3u8?st=zHZOXiZHsbecSHJmP5Uo-g&e=1794114859"
+     "url": "https://instreams.live/live3/F138/index.m3u8?st=mTGVsxf-FPXuf2i_EwKkkw&e=1794117046"
     }
    ]
   },
@@ -32,7 +32,7 @@
    "feeds": [
     {
      "name": "432p home",
-     "url": "https://instreams.pro/live3/F136/index.m3u8?st=uGO5DhMj8vVaEjbC3M6Lsw&e=1794114780"
+     "url": "https://instreams.live/live3/F136/index.m3u8?st=SdBqxhsNfXUXKvN66J5a3A&e=1794116977"
     }
    ]
   },
@@ -41,7 +41,7 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://gate4.st/live3/F140/index.m3u8?st=61XpAB2CSbhb5tndRv3f2g&e=1794114909"
+     "url": "https://instreams.live/live3/F140/index.m3u8?st=r-cDNuIPjcrcyTsehFcVAg&e=1794117079"
     }
    ]
   },
@@ -50,11 +50,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.pro/live3/F171/index.m3u8?st=An2jLcvNq7uV891x5YZjEg&e=1794114924"
+     "url": "https://gate4.st/live3/F171/index.m3u8?st=VKrdEOMj2Bl_XVwG9pBkmA&e=1794117084"
     },
     {
      "name": "720p away",
-     "url": "https://gate4.st/live3/F172/index.m3u8?st=artdx7XufUP0mQF3zkDMug&e=1794114958"
+     "url": "https://instreams.live/live3/F172/index.m3u8?st=X53WJSmuFk6G_ImujOMjyg&e=1794117112"
     }
    ]
   },
@@ -63,11 +63,11 @@
    "feeds": [
     {
      "name": "540p home",
-     "url": "https://gate4.st/live3/F173/index.m3u8?st=TMdTZrRJM4DEIMg-qdJ_Cw&e=1794114968"
+     "url": "https://instreams.live/live3/F173/index.m3u8?st=X-9aWAT799d2hTxQHq3shw&e=1794117122"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.xyz/live3/F68/index.m3u8?st=sWqSoFh4lxthKVCqdOwOag&e=1794114977"
+     "url": "https://instreams.pro/live3/F68/index.m3u8?st=wuxGxBRzgpsSdnavwUystw&e=1794117128"
     }
    ]
   },
@@ -76,11 +76,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.xyz/live3/F174/index.m3u8?st=mkPxngLKq1tmwGkFxZ0hkQ&e=1794115023"
+     "url": "https://gate4.st/live3/F174/index.m3u8?st=oXdl9lsvPNkokgBPbqH_qA&e=1794117165"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.live/live3/F175/index.m3u8?st=D1d3QxB8abC_qeSpvBsplA&e=1794115072"
+     "url": "https://instreams.xyz/live3/F175/index.m3u8?st=FVQV_28TYQDLhUWQFQZ3VA&e=1794117209"
     }
    ]
   },
@@ -89,11 +89,11 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.pro/live3/F178/index.m3u8?st=Hs7BEXBxMsWVPmWuuKrTAg&e=1794115107"
+     "url": "https://instreams.live/live3/F178/index.m3u8?st=SFFVR0XkECR_C1p8i7Bvxw&e=1794117250"
     },
     {
      "name": "720p home",
-     "url": "https://instreams.live/live3/F177/index.m3u8?st=ipQD0HR7jpxph1ULJHZ9sg&e=1794115100"
+     "url": "https://instreams.pro/live3/F177/index.m3u8?st=Vz4lR10U2Nwn-wbwg6ls7A&e=1794117222"
     }
    ]
   },
@@ -102,7 +102,11 @@
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://instreams.live/live3/F135/index.m3u8?st=0q1M8_fxKQU-uwm2-mWJ7w&e=1794115119"
+     "url": "https://gate4.st/live3/F135/index.m3u8?st=0ICE-uEz_6fnhx9O6-5Zpw&e=1794117259"
+    },
+    {
+     "name": "720p french",
+     "url": "https://instreams.xyz/live3/F146/index.m3u8?st=L0g0zciTee8xfaeEolXSWA&e=1794117294"
     }
    ]
   }
