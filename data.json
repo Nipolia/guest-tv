@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-08T07:31:50.085560+00:00",
+ "generated": "2026-11-08T07:46:52.227103+00:00",
  "games": [
   {
    "title": "Detroit - Colorado",
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.live/live3/F174/index.m3u8?st=0HbaR4YFoSdsFWNiUmCTbw&e=1794131896"
+     "url": "https://instreams.xyz/live3/F174/index.m3u8?st=RLdJ-03ysKCytKTpSeSPQg&e=1794133688"
     },
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F175/index.m3u8?st=ZpGOGFAZCUCuC8Lbrumm3g&e=1794131929"
+     "url": "https://instreams.xyz/live3/F175/index.m3u8?st=KntxTGbBqg0HNhfGDLsdnw&e=1794133723"
     }
    ]
   },
@@ -19,7 +19,7 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://gate4.st/live3/F178/index.m3u8?st=R3dquscSULq0WaJEg9J7kg&e=1794131981"
+     "url": "https://instreams.pro/live3/F178/index.m3u8?st=OA0dSRC2X5dm-A_UptCi7Q&e=1794133782"
     }
    ]
   },
@@ -28,11 +28,11 @@
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://instreams.pro/live3/F135/index.m3u8?st=Ifza77OqlQMYFLBAbOmZVw&e=1794132004"
+     "url": "https://instreams.xyz/live3/F135/index.m3u8?st=hNHP-LPnSg7Rx3VlQ4t-KA&e=1794133800"
     },
     {
      "name": "720p french",
-     "url": "https://instreams.xyz/live3/F146/index.m3u8?st=yTOOWcvVidrOga2wbP-_bQ&e=1794132057"
+     "url": "https://gate4.st/live3/F146/index.m3u8?st=nw_qgn0bZn91_fZFgoaMuQ&e=1794133846"
     }
    ]
   }
