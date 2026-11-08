@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T05:16:52.241650+00:00",
+ "generated": "2026-11-08T05:31:53.671109+00:00",
  "games": [
   {
    "title": "Detroit - Colorado",
@@ -20,10 +20,6 @@
     {
      "name": "720p away",
      "url": "https://instreams.pro/live3/F178/index.m3u8?st=b0gZ3Cdq8V2NDosi0hf0vw&e=1794124459"
-    },
-    {
-     "name": "720p home",
-     "url": "https://gate4.st/live3/F177/index.m3u8?st=SP_p060Ea0F8RWKDZqUr8g&e=1794124438"
     }
    ]
   },
