@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-08T22:46:53.976215+00:00",
+ "generated": "2026-11-08T23:01:53.498149+00:00",
  "games": [
   {
    "title": "Vegas - Buffalo",
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://instreams.pro/live3/F132/index.m3u8?st=1-y035L7CHkgHZA7tA-tbg&e=1794186806"
+     "url": "https://instreams.xyz/live3/F132/index.m3u8?st=n42Zjz_TAaVAadNGARWofQ&e=1794188664"
     }
    ]
   },
@@ -15,7 +15,16 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F133/index.m3u8?st=vP_GmepUbNKGWVLjeqNxeg&e=1794187674"
+     "url": "https://instreams.xyz/live3/F133/index.m3u8?st=fW-bX7l1EN22KWpNLLYb-w&e=1794188705"
+    }
+   ]
+  },
+  {
+   "title": "New Jersey - Toronto",
+   "feeds": [
+    {
+     "name": "540p home",
+     "url": "https://instreams.live/live3/F68/index.m3u8?st=O_iH7EDbuVaNldcPMWA_9g&e=1794188736"
     }
    ]
   }
