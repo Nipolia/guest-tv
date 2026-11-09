@@ -1,4 +1,14 @@
 {
- "generated": "2026-11-09T23:16:48.652072+00:00",
- "games": []
+ "generated": "2026-11-09T23:31:50.749423+00:00",
+ "games": [
+  {
+   "title": "NY - Edmonton",
+   "feeds": [
+    {
+     "name": "540p home",
+     "url": "https://edge1.candyshop.st/live3/F69/index.m3u8?st=elw3zEwsBJAypqIwNQ67zg&e=1794277585"
+    }
+   ]
+  }
+ ]
 }
