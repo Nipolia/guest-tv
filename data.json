@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-09T00:47:05.404596+00:00",
+ "generated": "2026-11-09T01:02:15.696904+00:00",
  "games": [
   {
    "title": "New Jersey - Toronto",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F135/index.m3u8?st=iZbV9OeQtVgH2DLLiDFDPQ&e=1794194130"
+     "url": "https://instreams.xyz/live3/F135/index.m3u8?st=JI-sc7HPNAqNtnpsCgiQKQ&e=1794195918"
     },
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F134/index.m3u8?st=ORi3VKVdOKtQ2r9UHT0EyQ&e=1794194097"
+     "url": "https://instreams.live/live3/F134/index.m3u8?st=E3fJqbKoOpYZpmWmqY2RvA&e=1794196226"
     }
    ]
   },
@@ -19,11 +19,20 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.live/live3/F137/index.m3u8?st=KcbJJQuwP7x7Q0BYIFQsEg&e=1794194191"
+     "url": "https://instreams.xyz/live3/F137/index.m3u8?st=3cOjNdWZSI_MNPzKvV6vqQ&e=1794195973"
     },
     {
      "name": "720p home",
-     "url": "https://instreams.xyz/live3/F136/index.m3u8?st=amreO83HcZpfXlc7-yVUug&e=1794194160"
+     "url": "https://instreams.live/live3/F136/index.m3u8?st=Bu4zQwVABhMdN_dYU2R23A&e=1794195943"
+    }
+   ]
+  },
+  {
+   "title": "Pittsburgh - Anaheim",
+   "feeds": [
+    {
+     "name": "540p home",
+     "url": "https://instreams.pro/live3/F69/index.m3u8?st=ISsAgz4eIJTnCsJNqnlHlg&e=1794195986"
     }
    ]
   }
