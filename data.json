@@ -1,20 +1,16 @@
 {
- "generated": "2026-11-09T03:17:02.269590+00:00",
+ "generated": "2026-11-09T03:31:56.420863+00:00",
  "games": [
   {
    "title": "New Jersey - Toronto",
    "feeds": [
     {
-     "name": "720p home",
-     "url": "https://instreams.xyz/live3/F134/index.m3u8?st=k9JHW2DryEq9qXK5DhujdQ&e=1794203259"
-    },
-    {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F135/index.m3u8?st=iYR1DdWOp01yTkdIz81Fog&e=1794203969"
+     "url": "https://instreams.live/live3/F135/index.m3u8?st=sJ-LTLy2yDbSKJlBKsdihQ&e=1794205169"
     },
     {
-     "name": "540p home",
-     "url": "https://instreams.pro/live3/F68/index.m3u8?st=C9g3A0GguzTo415PDwk3iQ&e=1794203269"
+     "name": "720p home",
+     "url": "https://instreams.pro/live3/F134/index.m3u8?st=yFYO5YhG_bum_LC7yDhvlg&e=1794205122"
     }
    ]
   },
@@ -22,12 +18,12 @@
    "title": "Philadelphia - Calgary",
    "feeds": [
     {
-     "name": "720p away",
-     "url": "https://instreams.pro/live3/F137/index.m3u8?st=QLdZOADdkJpwzs9h1F_J0Q&e=1794203356"
+     "name": "720p home",
+     "url": "https://instreams.pro/live3/F136/index.m3u8?st=jK-FNi0L0IJ4xfboxs0ttw&e=1794205194"
     },
     {
-     "name": "720p home",
-     "url": "https://instreams.xyz/live3/F136/index.m3u8?st=xiYQ6EEePe3CbEKkimX4LA&e=1794203332"
+     "name": "720p away",
+     "url": "https://instreams.xyz/live3/F137/index.m3u8?st=C-n2XJ7xQwGTsAECfzulRg&e=1794205516"
     }
    ]
   },
@@ -36,15 +32,11 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.pro/live3/F139/index.m3u8?st=biBkCDFffZGCdOZl_1rm_Q&e=1794203400"
+     "url": "https://instreams.xyz/live3/F139/index.m3u8?st=InbY5_Luy2BlzZ3W6Jtczg&e=1794205279"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.pro/live3/F138/index.m3u8?st=cWrxlJHylhunc6SQ8-HIUQ&e=1794203371"
-    },
-    {
-     "name": "540p home",
-     "url": "https://instreams.live/live3/F69/index.m3u8?st=EuAeTUl8LkclWSadqVYLxg&e=1794203655"
+     "url": "https://instreams.xyz/live3/F69/index.m3u8?st=2MjnlinsOirSiFYsD9bmQQ&e=1794205521"
     }
    ]
   }
