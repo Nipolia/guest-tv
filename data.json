@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T05:01:58.251730+00:00",
+ "generated": "2026-11-09T05:16:53.845533+00:00",
  "games": [
   {
    "title": "New Jersey - Toronto",
@@ -11,6 +11,10 @@
     {
      "name": "720p home",
      "url": "https://instreams.pro/live3/F134/index.m3u8?st=U-UIjIkxBaVdmVbwy5xOmA&e=1794210791"
+    },
+    {
+     "name": "540p home",
+     "url": "https://instreams.live/live3/F68/index.m3u8?st=zRaOFXwYNxyNOEAWiPrMnA&e=1794211710"
     }
    ]
   },
@@ -22,7 +26,7 @@
      "url": "https://instreams.live/live3/F136/index.m3u8?st=ejt6H3UIdPt7LcguUX8iJQ&e=1794210869"
     },
     {
-     "name": "away",
+     "name": "720p away",
      "url": "https://instreams.pro/live3/F137/index.m3u8?st=9dqk6eO1Xovf0K6g1wjWRw&e=1794210906"
     }
    ]
