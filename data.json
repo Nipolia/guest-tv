@@ -1,20 +1,16 @@
 {
- "generated": "2026-11-09T04:46:51.723509+00:00",
+ "generated": "2026-11-09T05:01:58.251730+00:00",
  "games": [
   {
    "title": "New Jersey - Toronto",
    "feeds": [
     {
-     "name": "720p home",
-     "url": "https://instreams.pro/live3/F134/index.m3u8?st=hDNlhABe6QsM29OBclVRPQ&e=1794209226"
-    },
-    {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F135/index.m3u8?st=T_Zjf6AMvcIV1BQzA4BWHw&e=1794209230"
+     "url": "https://instreams.pro/live3/F135/index.m3u8?st=jCbkVvWG9oRHBcWu7sgmBQ&e=1794210842"
     },
     {
-     "name": "540p home",
-     "url": "https://instreams.live/live3/F68/index.m3u8?st=pAE4xFLpyP6F6s4t9kAjmg&e=1794208882"
+     "name": "720p home",
+     "url": "https://instreams.pro/live3/F134/index.m3u8?st=U-UIjIkxBaVdmVbwy5xOmA&e=1794210791"
     }
    ]
   },
@@ -22,12 +18,12 @@
    "title": "Philadelphia - Calgary",
    "feeds": [
     {
-     "name": "720p away",
-     "url": "https://instreams.pro/live3/F137/index.m3u8?st=bZBCx2Eca9ntYMi0kscfxA&e=1794208991"
+     "name": "720p home",
+     "url": "https://instreams.live/live3/F136/index.m3u8?st=ejt6H3UIdPt7LcguUX8iJQ&e=1794210869"
     },
     {
-     "name": "720p home",
-     "url": "https://instreams.xyz/live3/F136/index.m3u8?st=Djf3XqopHYIz12V_7YWYAQ&e=1794208953"
+     "name": "away",
+     "url": "https://instreams.pro/live3/F137/index.m3u8?st=9dqk6eO1Xovf0K6g1wjWRw&e=1794210906"
     }
    ]
   },
@@ -36,11 +32,11 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.xyz/live3/F139/index.m3u8?st=3eJXVRxzO1Chxq_lalC8wA&e=1794209056"
+     "url": "https://instreams.live/live3/F139/index.m3u8?st=d8Uh29ue0Dh7SSzvyal0kw&e=1794210974"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.live/live3/F69/index.m3u8?st=dWa1DDf2YPlzCCYosWVl3g&e=1794209017"
+     "url": "https://instreams.live/live3/F69/index.m3u8?st=sb-RLCoTMOhzTaF4y4y09A&e=1794210933"
     }
    ]
   }
