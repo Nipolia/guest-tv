@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T08:17:06.050299+00:00",
+ "generated": "2026-11-09T08:31:56.970666+00:00",
  "games": [
   {
    "title": "New Jersey - Toronto",
@@ -11,6 +11,10 @@
     {
      "name": "720p home",
      "url": "https://instreams.pro/live3/F134/index.m3u8?st=ermsqSHxOflnHghn91aOhg&e=1794222312"
+    },
+    {
+     "name": "540p home",
+     "url": "https://instreams.xyz/live3/F68/index.m3u8?st=dl_g4nLD4P8UByQ1L6I3Hw&e=1794223160"
     }
    ]
   },
