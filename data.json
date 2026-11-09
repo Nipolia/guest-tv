@@ -1,16 +1,20 @@
 {
- "generated": "2026-11-09T04:17:07.535875+00:00",
+ "generated": "2026-11-09T04:32:00.131049+00:00",
  "games": [
   {
    "title": "New Jersey - Toronto",
    "feeds": [
     {
-     "name": "720p away",
-     "url": "https://instreams.pro/live3/F135/index.m3u8?st=m7pZWVJWdJ6ywLBZvXoBgA&e=1794207027"
+     "name": "720p home",
+     "url": "https://instreams.pro/live3/F134/index.m3u8?st=hDNlhABe6QsM29OBclVRPQ&e=1794209226"
     },
     {
-     "name": "720p home",
-     "url": "https://instreams.pro/live3/F134/index.m3u8?st=gHDS7ZrPR-1SvAeqGpNFkA&e=1794207370"
+     "name": "720p away",
+     "url": "https://instreams.xyz/live3/F135/index.m3u8?st=T_Zjf6AMvcIV1BQzA4BWHw&e=1794209230"
+    },
+    {
+     "name": "540p home",
+     "url": "https://instreams.live/live3/F68/index.m3u8?st=pAE4xFLpyP6F6s4t9kAjmg&e=1794208882"
     }
    ]
   },
@@ -18,12 +22,12 @@
    "title": "Philadelphia - Calgary",
    "feeds": [
     {
-     "name": "720p home",
-     "url": "https://instreams.xyz/live3/F136/index.m3u8?st=xvTAgkgnHWlZopVMXzbyrA&e=1794207052"
+     "name": "720p away",
+     "url": "https://instreams.pro/live3/F137/index.m3u8?st=bZBCx2Eca9ntYMi0kscfxA&e=1794208991"
     },
     {
-     "name": "720p away",
-     "url": "https://instreams.pro/live3/F137/index.m3u8?st=LgqGIsctxLzFiCLJrYRfcw&e=1794207089"
+     "name": "720p home",
+     "url": "https://instreams.xyz/live3/F136/index.m3u8?st=Djf3XqopHYIz12V_7YWYAQ&e=1794208953"
     }
    ]
   },
@@ -32,15 +36,11 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://instreams.pro/live3/F139/index.m3u8?st=_cIhCgY4rE-c4w1PR90_Hw&e=1794207380"
+     "url": "https://instreams.xyz/live3/F139/index.m3u8?st=3eJXVRxzO1Chxq_lalC8wA&e=1794209056"
     },
     {
      "name": "540p home",
-     "url": "https://instreams.pro/live3/F138/index.m3u8?st=S3wWwKVB2wI2uXr5tvJ85Q&e=1794207112"
-    },
-    {
-     "name": "540p home",
-     "url": "https://instreams.live/live3/F69/index.m3u8?st=B6Go4QXHzv0tQgT42eoxGA&e=1794207379"
+     "url": "https://instreams.live/live3/F69/index.m3u8?st=dWa1DDf2YPlzCCYosWVl3g&e=1794209017"
     }
    ]
   }
