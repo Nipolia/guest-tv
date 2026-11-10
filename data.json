@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T01:46:54.174224+00:00",
+ "generated": "2026-11-10T02:01:50.821064+00:00",
  "games": [
   {
    "title": "NY - Edmonton",
@@ -22,8 +22,8 @@
    "title": "Philadelphia - Vancouver",
    "feeds": [
     {
-     "name": "away",
-     "url": "https://candyshop.st/live3/F134/index.m3u8?st=KeRBq-VNgXKit-LBWs2kjg&e=1794285804"
+     "name": "720p away",
+     "url": "https://edge.candyshop.st/live3/F134/index.m3u8?st=ZZDfwyTxBf2KRYIAEKhUzw&e=1794286378"
     }
    ]
   },
