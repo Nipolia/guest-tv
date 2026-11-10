@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T03:16:55.767941+00:00",
+ "generated": "2026-11-10T03:32:01.693623+00:00",
  "games": [
   {
    "title": "NY - Edmonton",
@@ -39,7 +39,7 @@
      "url": "https://edge2.candyshop.st/live3/F136/index.m3u8?st=lqYWpSQI3N5jyXknDVLAnA&e=1794291259"
     },
     {
-     "name": "home",
+     "name": "720p home",
      "url": "https://edge.candyshop.st/live3/F135/index.m3u8?st=oJ8D774492HkcVRT7SrrLA&e=1794291223"
     }
    ]
