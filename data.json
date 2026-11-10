@@ -1,20 +1,16 @@
 {
- "generated": "2026-11-10T09:31:49.377169+00:00",
+ "generated": "2026-11-10T09:46:55.533101+00:00",
  "games": [
   {
    "title": "NY - Edmonton",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://candyshop.st/live3/F132/index.m3u8?st=MFYVDiKcsRRGPMcxIITx0w&e=1794312603"
+     "url": "https://candyshop.st/live3/F132/index.m3u8?st=Ac8VP8McIGHPB68q4cHhew&e=1794314431"
     },
     {
      "name": "540p home",
-     "url": "https://edge.candyshop.st/live3/F69/index.m3u8?st=s1alc2YI3XzBsj1Db2py0g&e=1794312570"
-    },
-    {
-     "name": "540p home",
-     "url": "https://edge2.candyshop.st/live3/F131/index.m3u8?st=ZMSDj_kOAvFHS-QwlJNkbQ&e=1794312570"
+     "url": "https://edge2.candyshop.st/live3/F69/index.m3u8?st=fHnNFwozWU2e9PhqyMGW6A&e=1794314397"
     }
    ]
   },
@@ -23,7 +19,7 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://candyshop.st/live3/F134/index.m3u8?st=m7PW3kC9WqGuJEiRumsrdA&e=1794312683"
+     "url": "https://edge2.candyshop.st/live3/F134/index.m3u8?st=H_A_ZccU_SVWxVQhKA90hg&e=1794314511"
     }
    ]
   },
@@ -32,11 +28,11 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://edge1.candyshop.st/live3/F136/index.m3u8?st=hWXBK76bAKSdLdLsGmxVmA&e=1794312758"
+     "url": "https://candyshop.st/live3/F136/index.m3u8?st=vUMNin5-K4Rf5v0VPe_vGw&e=1794314585"
     },
     {
      "name": "720p home",
-     "url": "https://edge2.candyshop.st/live3/F135/index.m3u8?st=lMFjJkILyVWO_iSBi-_n_Q&e=1794312715"
+     "url": "https://edge2.candyshop.st/live3/F135/index.m3u8?st=A2HScpyi5UtQ_poenDbENQ&e=1794314545"
     }
    ]
   }
