@@ -1,4 +1,22 @@
 {
- "generated": "2026-11-10T23:16:58.254506+00:00",
- "games": []
+ "generated": "2026-11-10T23:31:51.994979+00:00",
+ "games": [
+  {
+   "title": "Minnesota - Montr\u00e9al",
+   "feeds": [
+    {
+     "name": "1080p home",
+     "url": "https://edge2.candyshop.st/live3/F133/index.m3u8?st=1kxQLTy5EOtc1N-I1BWSHA&e=1794363933"
+    },
+    {
+     "name": "1080p french",
+     "url": "https://candyshop.st/live3/F146/index.m3u8?st=4vj_J2fztb0XM4hmUPzUSg&e=1794363958"
+    },
+    {
+     "name": "540p home",
+     "url": "https://edge.candyshop.st/live3/F69/index.m3u8?st=aSq0T-OhHcYuICr0TDkHrQ&e=1794363935"
+    }
+   ]
+  }
+ ]
 }
