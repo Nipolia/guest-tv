@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-11T01:02:02.951021+00:00",
+ "generated": "2026-11-11T01:16:58.388613+00:00",
  "games": [
   {
    "title": "Colorado - Toronto",
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://edge1.candyshop.st/live3/F132/index.m3u8?st=mxiqV8T3CyBMGdD1-QM1iw&e=1794367603"
+     "url": "https://edge1.candyshop.st/live3/F132/index.m3u8?st=pLBf9fUe9-XVggsCxx8PCg&e=1794369508"
     },
     {
      "name": "540p home",
-     "url": "https://edge.candyshop.st/live3/F131/index.m3u8?st=-qttChvX_eY-b6vKtzgQhw&e=1794367584"
+     "url": "https://edge.candyshop.st/live3/F131/index.m3u8?st=nyHlF5EYJBOOfNXS9uTpuQ&e=1794369474"
     }
    ]
   },
@@ -19,15 +19,15 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://edge.candyshop.st/live3/F133/index.m3u8?st=uhWShkN0ARoTTYVrjd-qTA&e=1794367620"
+     "url": "https://edge2.candyshop.st/live3/F133/index.m3u8?st=_SiZxKfDcbwcFy66t5QRCw&e=1794369527"
     },
     {
      "name": "1080p french",
-     "url": "https://edge.candyshop.st/live3/F146/index.m3u8?st=grV7xXWiHOoo6IHVDSAeiQ&e=1794367661"
+     "url": "https://edge1.candyshop.st/live3/F146/index.m3u8?st=-ZUGW4MgwfCq7o34QRlS8Q&e=1794369573"
     },
     {
      "name": "540p away",
-     "url": "https://edge2.candyshop.st/live3/F69/index.m3u8?st=Eu6DBXqHNwLIPH9C8ifw8g&e=1794367638"
+     "url": "https://candyshop.st/live3/F69/index.m3u8?st=-Li88_V6zbuVPZVViUTf9g&e=1794369549"
     }
    ]
   },
@@ -36,11 +36,11 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://edge.candyshop.st/live3/F137/index.m3u8?st=Pz1xlKBlbmEzuH1zQmJ4rQ&e=1794367756"
+     "url": "https://edge1.candyshop.st/live3/F137/index.m3u8?st=5MIkusTSlryq_RLZsunxnQ&e=1794369680"
     },
     {
      "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F136/index.m3u8?st=ECKRhV6B1GUBXlYVAQz1-Q&e=1794367723"
+     "url": "https://edge.candyshop.st/live3/F136/index.m3u8?st=JzoCLTXm2TsEr8j-SNJ9OA&e=1794369649"
     }
    ]
   },
@@ -48,12 +48,12 @@
    "title": "Washington - Ottawa",
    "feeds": [
     {
-     "name": "1080p away",
-     "url": "https://edge1.candyshop.st/live3/F135/index.m3u8?st=Gy1UcIk1688ugkwHqI32SA&e=1794367716"
+     "name": "1080p home",
+     "url": "https://candyshop.st/live3/F134/index.m3u8?st=Zw8DSDk7sWABYbTnZOsVkg&e=1794369614"
     },
     {
-     "name": "1080p home",
-     "url": "https://edge1.candyshop.st/live3/F134/index.m3u8?st=3kfo6FWgo2QSJoFYOKxKOw&e=1794367703"
+     "name": "1080p away",
+     "url": "https://edge1.candyshop.st/live3/F135/index.m3u8?st=-NuL8xaNv10fx0eBabujXg&e=1794369630"
     }
    ]
   },
@@ -62,7 +62,7 @@
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://edge.candyshop.st/live3/F138/index.m3u8?st=gb2wbeRWtxfertADxvZ7Zg&e=1794367766"
+     "url": "https://edge1.candyshop.st/live3/F138/index.m3u8?st=DjT-TpjNGuesmtyT9O_UFw&e=1794369697"
     }
    ]
   },
@@ -71,7 +71,7 @@
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://edge1.candyshop.st/live3/F139/index.m3u8?st=THBB-YxEGZ1JVM-RWsmC6g&e=1794367788"
+     "url": "https://edge2.candyshop.st/live3/F139/index.m3u8?st=PQIBXagmKhOE_wEL-D8e0g&e=1794369732"
     }
    ]
   }
