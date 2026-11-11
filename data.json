@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-11T02:31:56.110629+00:00",
+ "generated": "2026-11-11T02:47:02.806954+00:00",
  "games": [
   {
    "title": "Colorado - Toronto",
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://candyshop.st/live3/F132/index.m3u8?st=HcfkAPTVrcyDem6fUPhHsQ&e=1794373404"
+     "url": "https://edge1.candyshop.st/live3/F132/index.m3u8?st=V-B7BbpqXdqE20kFs1SpIw&e=1794375349"
     },
     {
      "name": "540p home",
-     "url": "https://edge.candyshop.st/live3/F131/index.m3u8?st=ngUrSdpQH13SK3a2PLP3hw&e=1794373377"
+     "url": "https://edge1.candyshop.st/live3/F131/index.m3u8?st=cRq436gPq_3tG7arHKxbrA&e=1794375324"
     }
    ]
   },
@@ -19,15 +19,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://edge2.candyshop.st/live3/F133/index.m3u8?st=98Ixhxg5DC2ZNbxpPNwwzA&e=1794373424"
+     "url": "https://edge2.candyshop.st/live3/F133/index.m3u8?st=xlwe_2y-dW-Q0PyaPV7ixQ&e=1794375369"
     },
     {
      "name": "1080p french",
-     "url": "https://candyshop.st/live3/F146/index.m3u8?st=dgQo62B_JkU7KktRhCi0VQ&e=1794373472"
-    },
-    {
-     "name": "540p away",
-     "url": "https://edge.candyshop.st/live3/F69/index.m3u8?st=WmVftxhDKTTXkIS1z_U-Pw&e=1794373449"
+     "url": "https://candyshop.st/live3/F146/index.m3u8?st=3XcvL1ThHT-apfp9Rjde2g&e=1794375416"
     }
    ]
   },
@@ -36,11 +32,11 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://edge.candyshop.st/live3/F137/index.m3u8?st=-rEZGw8_4OplCQLaplCu2w&e=1794373593"
+     "url": "https://edge1.candyshop.st/live3/F137/index.m3u8?st=_ZiYrYVmDvLlbDKhzt_DMA&e=1794375519"
     },
     {
      "name": "720p home",
-     "url": "https://edge.candyshop.st/live3/F136/index.m3u8?st=EN0JjJatcSCoRDnU23-dww&e=1794373555"
+     "url": "https://candyshop.st/live3/F136/index.m3u8?st=vrpS4siwcTAFgbcHpWMjAA&e=1794375491"
     }
    ]
   },
@@ -49,11 +45,11 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://edge2.candyshop.st/live3/F135/index.m3u8?st=oIbF0PYNR376cy8FgiRreA&e=1794373543"
+     "url": "https://edge2.candyshop.st/live3/F135/index.m3u8?st=1j7sYCxMlwmmRA5vTY4Egg&e=1794375472"
     },
     {
      "name": "1080p home",
-     "url": "https://edge1.candyshop.st/live3/F134/index.m3u8?st=C4QGb2tOLhUzBQTcHe3GoQ&e=1794373518"
+     "url": "https://edge.candyshop.st/live3/F134/index.m3u8?st=lb-vT_jPW61Dy1CYGkVung&e=1794375457"
     }
    ]
   },
@@ -62,7 +58,7 @@
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://edge.candyshop.st/live3/F138/index.m3u8?st=Q6f5C5E0M30ysul5hbCPVA&e=1794373611"
+     "url": "https://edge2.candyshop.st/live3/F138/index.m3u8?st=ZZ3r5R5nxZ1unINpTuMIbg&e=1794375538"
     }
    ]
   },
@@ -71,7 +67,20 @@
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://edge2.candyshop.st/live3/F139/index.m3u8?st=JUHhg7dW-C9oKfbb7US5zw&e=1794373652"
+     "url": "https://edge.candyshop.st/live3/F139/index.m3u8?st=2KJyXFdYfDVjYcrjQ6kh2A&e=1794375576"
+    }
+   ]
+  },
+  {
+   "title": "Nashville - Los Angeles",
+   "feeds": [
+    {
+     "name": "1080p english",
+     "url": "https://edge2.candyshop.st/live3/F171/index.m3u8?st=5WpuAlieUlwYCXzg73i6Vw&e=1794375615"
+    },
+    {
+     "name": "540p english",
+     "url": "https://edge2.candyshop.st/live3/F68/index.m3u8?st=GNWt3CX0qxPJyKkQi-FWEw&e=1794375615"
     }
    ]
   }
