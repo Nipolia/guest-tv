@@ -1,21 +1,12 @@
 {
- "generated": "2026-11-11T03:31:51.620436+00:00",
+ "generated": "2026-11-11T03:46:51.476137+00:00",
  "games": [
-  {
-   "title": "Florida - Columbus",
-   "feeds": [
-    {
-     "name": "1080p english",
-     "url": "https://candyshop.st/live3/F138/index.m3u8?st=XWAC-ui0lwDS3S8s6X8X0Q&e=1794377244"
-    }
-   ]
-  },
   {
    "title": "Detroit - St. Louis",
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://edge.candyshop.st/live3/F139/index.m3u8?st=1K8FTHv2s8X0Zgs56OBm8w&e=1794377280"
+     "url": "https://edge1.candyshop.st/live3/F139/index.m3u8?st=UqGysjIuDvrq1nRF93E1bw&e=1794378925"
     }
    ]
   },
@@ -24,11 +15,11 @@
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://edge1.candyshop.st/live3/F171/index.m3u8?st=u_8KbkwGZ0ud_VWCvJ8-8Q&e=1794377318"
+     "url": "https://edge1.candyshop.st/live3/F171/index.m3u8?st=a63XY_EwsXcfd6p1KiHMpw&e=1794378945"
     },
     {
      "name": "540p english",
-     "url": "https://edge1.candyshop.st/live3/F68/index.m3u8?st=VpM_vmsGfUwMGSoPKBhBvg&e=1794377319"
+     "url": "https://edge1.candyshop.st/live3/F68/index.m3u8?st=V0HN-XrFDIq1Tj_A1z5Efw&e=1794378948"
     }
    ]
   }
