@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-11T09:01:50.247642+00:00",
+ "generated": "2026-11-11T09:16:53.968943+00:00",
  "games": [
   {
    "title": "Nashville - Los Angeles",
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://edge2.candyshop.st/live3/F171/index.m3u8?st=RDf-4lkKmRtO-Xhdi_nByw&e=1794397074"
+     "url": "https://candyshop.st/live3/F171/index.m3u8?st=p0tdlgyRmA9VvjHH1VfrLw&e=1794398753"
     },
     {
      "name": "540p english",
-     "url": "https://edge1.candyshop.st/live3/F68/index.m3u8?st=nDme2YcDVklpyJb-lYFalw&e=1794397074"
+     "url": "https://edge2.candyshop.st/live3/F68/index.m3u8?st=q8-9_Wy5Oc2Cjkn32wqaIg&e=1794398753"
     }
    ]
   }
