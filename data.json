@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T02:32:00.953533+00:00",
+ "generated": "2026-11-12T02:46:56.543376+00:00",
  "games": [
   {
    "title": "Tampa Bay - Buffalo",
@@ -32,7 +32,7 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://edge2.candyshop.st/live3/F135/index.m3u8?st=YCfxKHfB2xx6BbrQuy-FVQ&e=1794461298"
+     "url": "https://candyshop.st/live3/F135/index.m3u8?st=bEy3SlkHaJdI5hDeXn3MsA&e=1794462064"
     },
     {
      "name": "720p home",
@@ -57,7 +57,7 @@
      "url": "https://candyshop.st/live3/F139/index.m3u8?st=NTQDOCHD6Q6e6nyeT0uvMw&e=1794461387"
     },
     {
-     "name": "home",
+     "name": "720p home",
      "url": "https://edge.candyshop.st/live3/F138/index.m3u8?st=bwhUOYNWuPfQFGUNCeCYqQ&e=1794461379"
     }
    ]
