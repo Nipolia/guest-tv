@@ -1,4 +1,14 @@
 {
- "generated": "2026-11-12T15:01:52.136767+00:00",
- "games": []
+ "generated": "2026-11-12T15:16:55.567292+00:00",
+ "games": [
+  {
+   "title": "Carolina - Seattle",
+   "feeds": [
+    {
+     "name": "540p NHLN",
+     "url": "https://edge2.candyshop.st/live3/F69/index.m3u8?st=SwQJi5pxMf7IRHV_8vN1pg&e=1794507038"
+    }
+   ]
+  }
+ ]
 }
