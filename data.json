@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-12T01:16:54.970966+00:00",
+ "generated": "2026-11-12T01:31:55.802756+00:00",
  "games": [
   {
    "title": "Tampa Bay - Buffalo",
    "feeds": [
     {
      "name": "540p english",
-     "url": "https://edge.candyshop.st/live3/F131/index.m3u8?st=NmvffMxT0QHy2PeZQ-DxNA&e=1794455873"
+     "url": "https://edge2.candyshop.st/live3/F131/index.m3u8?st=mrR29VEs9WPO1pgfvPqhkQ&e=1794457612"
     },
     {
      "name": "540p english",
-     "url": "https://edge2.candyshop.st/live3/F69/index.m3u8?st=Xw_BLFaBIjlnn-Y50R5fvg&e=1794455873"
+     "url": "https://candyshop.st/live3/F69/index.m3u8?st=zGrL9vElAPY55c8oyfwfxg&e=1794457612"
     }
    ]
   },
@@ -19,11 +19,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://edge1.candyshop.st/live3/F132/index.m3u8?st=PQVM8O_6xCseldAGnlOh3w&e=1794455938"
+     "url": "https://candyshop.st/live3/F132/index.m3u8?st=xjaTJYWmzRv63KT5Rdv2yA&e=1794457683"
     },
     {
      "name": "720p away",
-     "url": "https://edge.candyshop.st/live3/F133/index.m3u8?st=pl-YfyL0a0fHPYYx3I_zjA&e=1794455958"
+     "url": "https://candyshop.st/live3/F133/index.m3u8?st=GPF1tSWETkAZDAuabAiLdQ&e=1794457702"
     }
    ]
   },
@@ -32,11 +32,11 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://edge.candyshop.st/live3/F135/index.m3u8?st=TZoLILqVbM1S5nazGAlRBg&e=1794455992"
+     "url": "https://candyshop.st/live3/F135/index.m3u8?st=4CAZPmozdRNbYxGT9vWdMA&e=1794457735"
     },
     {
      "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F134/index.m3u8?st=o-J07AVElJjB1xOFPeoTWQ&e=1794455968"
+     "url": "https://edge2.candyshop.st/live3/F134/index.m3u8?st=2_EFiAnFquoe3pWxEMujhA&e=1794457708"
     }
    ]
   }
