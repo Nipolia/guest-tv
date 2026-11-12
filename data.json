@@ -1,12 +1,16 @@
 {
- "generated": "2026-11-12T00:01:55.639493+00:00",
+ "generated": "2026-11-12T00:17:03.929170+00:00",
  "games": [
   {
    "title": "Tampa Bay - Buffalo",
    "feeds": [
     {
      "name": "540p english",
-     "url": "https://edge1.candyshop.st/live3/F69/index.m3u8?st=WazNmljVe-PQ63cosm5XoQ&e=1794450505"
+     "url": "https://edge.candyshop.st/live3/F131/index.m3u8?st=VLL068BSenLO_bsU5VPU0A&e=1794452860"
+    },
+    {
+     "name": "540p english",
+     "url": "https://edge1.candyshop.st/live3/F69/index.m3u8?st=rqODvF9Ehb9NR9mx_JAzlA&e=1794452860"
     }
    ]
   }
