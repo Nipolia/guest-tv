@@ -1,14 +1,4 @@
 {
- "generated": "2026-11-12T20:16:51.005497+00:00",
- "games": [
-  {
-   "title": "Carolina - Seattle",
-   "feeds": [
-    {
-     "name": "540p Hurricanes feed",
-     "url": "https://edge2.candyshop.st/live3/F69/index.m3u8?st=bQ2LdvfDCRq2U-dUcn2BPw&e=1794524219"
-    }
-   ]
-  }
- ]
+ "generated": "2026-11-12T20:31:48.017291+00:00",
+ "games": []
 }
