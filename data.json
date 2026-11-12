@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T03:32:03.288244+00:00",
+ "generated": "2026-11-12T03:46:56.076053+00:00",
  "games": [
   {
    "title": "NY - Calgary",
@@ -44,7 +44,7 @@
      "url": "https://edge2.candyshop.st/live3/F139/index.m3u8?st=rFtbbm8S_dZ-gwleL8QxoQ&e=1794464995"
     },
     {
-     "name": "home",
+     "name": "720p home",
      "url": "https://edge2.candyshop.st/live3/F138/index.m3u8?st=uwO9wmqHHJobc9G6eRP5dg&e=1794464966"
     }
    ]
