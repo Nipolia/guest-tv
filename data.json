@@ -1,12 +1,25 @@
 {
- "generated": "2026-11-12T23:31:56.909408+00:00",
+ "generated": "2026-11-12T23:47:00.037118+00:00",
  "games": [
+  {
+   "title": "Montr\u00e9al - Boston",
+   "feeds": [
+    {
+     "name": "1080p away",
+     "url": "https://candyshop.st/live3/F133/index.m3u8?st=OkYi-EX994328usYS8Qm4A&e=1794537454"
+    },
+    {
+     "name": "1080p french",
+     "url": "https://edge1.candyshop.st/live3/F146/index.m3u8?st=Poa_otPwBC4yTKPpUHZlRw&e=1794537456"
+    }
+   ]
+  },
   {
    "title": "Washington - New Jersey",
    "feeds": [
     {
      "name": "540p home",
-     "url": "https://edge.candyshop.st/live3/F69/index.m3u8?st=rfsgtFF5CcPAIOxdylfM-Q&e=1794535624"
+     "url": "https://candyshop.st/live3/F69/index.m3u8?st=z4QYSrU6BFyhqI2_1htgRQ&e=1794537538"
     }
    ]
   }
