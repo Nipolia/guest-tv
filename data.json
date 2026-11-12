@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-12T02:16:56.272376+00:00",
+ "generated": "2026-11-12T02:32:00.953533+00:00",
  "games": [
   {
    "title": "Tampa Bay - Buffalo",
    "feeds": [
     {
      "name": "540p english",
-     "url": "https://edge2.candyshop.st/live3/F131/index.m3u8?st=cHfd2HlTFL82ao33pk3L1w&e=1794459351"
+     "url": "https://edge1.candyshop.st/live3/F131/index.m3u8?st=_CdtYZdMGzpJ7AkuhHvQGg&e=1794461156"
     },
     {
      "name": "540p english",
-     "url": "https://edge1.candyshop.st/live3/F69/index.m3u8?st=Vfz5UwMSGuXQEaEYnCjs5Q&e=1794459351"
+     "url": "https://edge2.candyshop.st/live3/F69/index.m3u8?st=_XG2CwYJaZAWAe_cgf1vfw&e=1794461156"
     }
    ]
   },
@@ -19,11 +19,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://edge.candyshop.st/live3/F132/index.m3u8?st=0ZCedo-qhslt03hHqh1d3g&e=1794459419"
+     "url": "https://edge.candyshop.st/live3/F132/index.m3u8?st=1CV_nvjUSJdUDXXaBKH57g&e=1794461226"
     },
     {
      "name": "720p away",
-     "url": "https://edge1.candyshop.st/live3/F133/index.m3u8?st=5dyi7E_kNfB0RzEOwolg4Q&e=1794459439"
+     "url": "https://edge.candyshop.st/live3/F133/index.m3u8?st=8XFMfxqmTqLXH5S1yrQG1g&e=1794461248"
     }
    ]
   },
@@ -32,11 +32,11 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://edge.candyshop.st/live3/F135/index.m3u8?st=_x5_8LHdijjyALAYa1C22w&e=1794459476"
+     "url": "https://edge2.candyshop.st/live3/F135/index.m3u8?st=YCfxKHfB2xx6BbrQuy-FVQ&e=1794461298"
     },
     {
      "name": "720p home",
-     "url": "https://candyshop.st/live3/F134/index.m3u8?st=QXoghwH8q_KeQ1HnZU0FpA&e=1794459453"
+     "url": "https://edge.candyshop.st/live3/F134/index.m3u8?st=Rzxo9RHZ3fBl7U3AJipESQ&e=1794461262"
     }
    ]
   },
@@ -45,7 +45,7 @@
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://edge.candyshop.st/live3/F136/index.m3u8?st=UYIz-hlBWAi0y2eXO6354A&e=1794459482"
+     "url": "https://candyshop.st/live3/F136/index.m3u8?st=wQlkhTM4urxq8ONR0UFaRQ&e=1794461311"
     }
    ]
   },
@@ -54,11 +54,11 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://edge2.candyshop.st/live3/F139/index.m3u8?st=mCYXMLAS5dFVIcv7ygMMfg&e=1794459538"
+     "url": "https://candyshop.st/live3/F139/index.m3u8?st=NTQDOCHD6Q6e6nyeT0uvMw&e=1794461387"
     },
     {
-     "name": "720p home",
-     "url": "https://candyshop.st/live3/F138/index.m3u8?st=oXBpEA9ccnWfTDIdOE8IBQ&e=1794459526"
+     "name": "home",
+     "url": "https://edge.candyshop.st/live3/F138/index.m3u8?st=bwhUOYNWuPfQFGUNCeCYqQ&e=1794461379"
     }
    ]
   }
