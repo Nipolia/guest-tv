@@ -1,16 +1,29 @@
 {
- "generated": "2026-11-12T00:31:53.713630+00:00",
+ "generated": "2026-11-12T00:46:51.838586+00:00",
  "games": [
   {
    "title": "Tampa Bay - Buffalo",
    "feeds": [
     {
      "name": "540p english",
-     "url": "https://edge.candyshop.st/live3/F131/index.m3u8?st=VLL068BSenLO_bsU5VPU0A&e=1794452860"
+     "url": "https://edge1.candyshop.st/live3/F131/index.m3u8?st=g-A7CvFo5uld9F46v75vyA&e=1794454074"
     },
     {
      "name": "540p english",
-     "url": "https://edge1.candyshop.st/live3/F69/index.m3u8?st=rqODvF9Ehb9NR9mx_JAzlA&e=1794452860"
+     "url": "https://edge2.candyshop.st/live3/F69/index.m3u8?st=d_Mhqv6sKcHQQi7KWDSLXg&e=1794454074"
+    }
+   ]
+  },
+  {
+   "title": "NY - Calgary",
+   "feeds": [
+    {
+     "name": "1080p home",
+     "url": "https://edge1.candyshop.st/live3/F132/index.m3u8?st=VbEo2V8URz99Fee5Hn9Fmw&e=1794454134"
+    },
+    {
+     "name": "720p away",
+     "url": "https://edge1.candyshop.st/live3/F133/index.m3u8?st=okYzxoGoi5uy288ruuA68Q&e=1794454141"
     }
    ]
   }
