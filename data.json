@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-12T07:16:52.060724+00:00",
+ "generated": "2026-11-12T07:31:56.290746+00:00",
  "games": [
   {
    "title": "Philadelphia - Edmonton",
    "feeds": [
     {
-     "name": "720p away",
-     "url": "https://edge1.candyshop.st/live3/F135/index.m3u8?st=PpeP_TEsWc7ePTw377HgBg&e=1794477110"
+     "name": "720p home",
+     "url": "https://edge1.candyshop.st/live3/F134/index.m3u8?st=6Hw8__3jBWB7V_GiX4LmCA&e=1794478855"
     },
     {
-     "name": "720p home",
-     "url": "https://edge2.candyshop.st/live3/F134/index.m3u8?st=6ULqX_Vb0fMsYkeqgeZaAw&e=1794477085"
+     "name": "720p away",
+     "url": "https://candyshop.st/live3/F135/index.m3u8?st=Bn3wxFm6xNRizUJN1bxsSA&e=1794478878"
     }
    ]
   },
@@ -19,7 +19,7 @@
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://candyshop.st/live3/F136/index.m3u8?st=jMdMrN3kNRvukcpJu9x9VA&e=1794477122"
+     "url": "https://candyshop.st/live3/F136/index.m3u8?st=SjdRKrdZCPmnTVQpBucpww&e=1794478893"
     }
    ]
   },
@@ -28,11 +28,11 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://edge2.candyshop.st/live3/F139/index.m3u8?st=lUB5MmahB9Mx_uxU12eUew&e=1794477255"
+     "url": "https://edge.candyshop.st/live3/F139/index.m3u8?st=Txs50V75j5nz0CIf78bRfQ&e=1794479026"
     },
     {
      "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F138/index.m3u8?st=6vScTGr90M42vyknY_LD3A&e=1794477520"
+     "url": "https://edge1.candyshop.st/live3/F138/index.m3u8?st=D6uKW7PBMvIS5y0tMfus0w&e=1794478996"
     }
    ]
   }
