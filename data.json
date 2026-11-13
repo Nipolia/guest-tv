@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T02:01:59.452849+00:00",
+ "generated": "2026-11-13T02:17:07.979058+00:00",
  "games": [
   {
    "title": "Montr\u00e9al - Boston",
@@ -21,10 +21,6 @@
   {
    "title": "Colorado - Ottawa",
    "feeds": [
-    {
-     "name": "1080p home",
-     "url": "https://edge.candyshop.st/live3/F135/index.m3u8?st=63mJkOGsG7kUDCUvzaNJZg&e=1794544944"
-    },
     {
      "name": "1080p away",
      "url": "https://candyshop.st/live3/F136/index.m3u8?st=crLqAaPVxn2zryc5_34flA&e=1794544978"
