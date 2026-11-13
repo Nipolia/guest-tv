@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-13T04:16:55.448783+00:00",
+ "generated": "2026-11-13T04:31:58.038076+00:00",
  "games": [
   {
    "title": "Buffalo - Chicago",
    "feeds": [
     {
-     "name": "1080p home",
-     "url": "https://candyshop.st/live3/F171/index.m3u8?st=gmEibp4VcTwU8jtzJJM6ow&e=1794552514"
+     "name": "1080p away",
+     "url": "https://edge.candyshop.st/live3/F172/index.m3u8?st=1fji2RbpOycCMqcULi8PFQ&e=1794554265"
     },
     {
-     "name": "1080p away",
-     "url": "https://edge1.candyshop.st/live3/F172/index.m3u8?st=MTs8xbGPUjDdmBLcy3GfzA&e=1794552532"
+     "name": "1080p home",
+     "url": "https://candyshop.st/live3/F171/index.m3u8?st=Ylgs8MVv8JKzdB8RSsHiEg&e=1794554247"
     }
    ]
   },
@@ -18,16 +18,16 @@
    "title": "Winnipeg - Dallas",
    "feeds": [
     {
-     "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F173/index.m3u8?st=ucPbLB_Au2zRsvoYvrClJQ&e=1794552535"
+     "name": "720p away",
+     "url": "https://edge2.candyshop.st/live3/F174/index.m3u8?st=JhIsAfRZZheF7-9bCfdqRw&e=1794554309"
     },
     {
-     "name": "720p away",
-     "url": "https://edge1.candyshop.st/live3/F174/index.m3u8?st=5qlISO8StdSTNr5lX2jpuA&e=1794552570"
+     "name": "720p home",
+     "url": "https://edge1.candyshop.st/live3/F173/index.m3u8?st=ZeWhRcu4xNlE--u8tG2Znw&e=1794554268"
     },
     {
      "name": "540p home",
-     "url": "https://candyshop.st/live3/F68/index.m3u8?st=hK54-LmckMiS1ll709HdZQ&e=1794552537"
+     "url": "https://candyshop.st/live3/F68/index.m3u8?st=9fz0ykPpFoUcWOOhJhjgkg&e=1794554277"
     }
    ]
   },
@@ -36,7 +36,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://candyshop.st/live3/F175/index.m3u8?st=4OOEhXV4HYUFpgnvsyRsGA&e=1794552586"
+     "url": "https://edge1.candyshop.st/live3/F175/index.m3u8?st=jyJCQguqtMzAjFIQ-lVTtA&e=1794554334"
     }
    ]
   },
@@ -45,7 +45,7 @@
    "feeds": [
     {
      "name": "720p english",
-     "url": "https://edge.candyshop.st/live3/F177/index.m3u8?st=dz1T8xoogPueGmToPQmFeg&e=1794552611"
+     "url": "https://edge1.candyshop.st/live3/F177/index.m3u8?st=8gyi9oqGKOZdkzCjkyBdbw&e=1794554361"
     }
    ]
   }
