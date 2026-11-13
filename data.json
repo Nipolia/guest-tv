@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-13T09:46:50.228538+00:00",
+ "generated": "2026-11-13T10:01:50.921563+00:00",
  "games": [
   {
    "title": "Buffalo - Chicago",
    "feeds": [
     {
-     "name": "1080p away",
-     "url": "https://candyshop.st/live3/F172/index.m3u8?st=6lv4ZmQgMO24xCtP5yjRXQ&e=1794572002"
+     "name": "1080p home",
+     "url": "https://edge2.candyshop.st/live3/F171/index.m3u8?st=xvyS1ZbJgDbcw5kEFlkD7Q&e=1794573784"
     },
     {
-     "name": "1080p home",
-     "url": "https://edge1.candyshop.st/live3/F171/index.m3u8?st=8Mv_8uDsLbh3A-hmaFbSWw&e=1794571983"
+     "name": "1080p away",
+     "url": "https://edge1.candyshop.st/live3/F172/index.m3u8?st=bv9vp6ujdL4zrhxz1LoFxA&e=1794573803"
     }
    ]
   },
@@ -19,15 +19,15 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://edge1.candyshop.st/live3/F174/index.m3u8?st=M29tJW-1MuNYJJ1IY86o0A&e=1794572056"
+     "url": "https://candyshop.st/live3/F174/index.m3u8?st=smZObyTIsDyLYVfjO0Mb8w&e=1794573849"
     },
     {
      "name": "720p home",
-     "url": "https://edge.candyshop.st/live3/F173/index.m3u8?st=cFsGrakyyGpOq0GwAiAb-w&e=1794572014"
+     "url": "https://edge.candyshop.st/live3/F173/index.m3u8?st=qfcomQqNvZGpJEiVeiStJg&e=1794573814"
     },
     {
      "name": "540p home",
-     "url": "https://edge2.candyshop.st/live3/F68/index.m3u8?st=twA-InV3z523wF3xCu0m-Q&e=1794572016"
+     "url": "https://edge2.candyshop.st/live3/F68/index.m3u8?st=NswzPrewZOlZkcUaurkeDA&e=1794573816"
     }
    ]
   },
@@ -36,7 +36,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge2.candyshop.st/live3/F175/index.m3u8?st=zX-kV6qhfihc2k68zjX1UA&e=1794572080"
+     "url": "https://candyshop.st/live3/F175/index.m3u8?st=-FlkXk49D5ll-CVnrY3oMg&e=1794573874"
     }
    ]
   }
