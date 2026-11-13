@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T10:16:55.231241+00:00",
+ "generated": "2026-11-13T10:31:50.493104+00:00",
  "games": [
   {
    "title": "Buffalo - Chicago",
@@ -28,24 +28,6 @@
     {
      "name": "540p home",
      "url": "https://candyshop.st/live3/F68/index.m3u8?st=I0a_ZP_KXXKyUnDbY1QmRg&e=1794575586"
-    }
-   ]
-  },
-  {
-   "title": "St. Louis - Utah",
-   "feeds": [
-    {
-     "name": "720p home",
-     "url": "https://edge2.candyshop.st/live3/F175/index.m3u8?st=H-c7S5cmZLyvsLML7AzbBw&e=1794575645"
-    }
-   ]
-  },
-  {
-   "title": "NY - Los Angeles",
-   "feeds": [
-    {
-     "name": "720p czech",
-     "url": "https://a52.azplay55.me/hls/streama271162/index.m3u8?cst=6f8bfddb875a97a1ce343dc1788df46f"
     }
    ]
   }
