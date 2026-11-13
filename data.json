@@ -1,16 +1,20 @@
 {
- "generated": "2026-11-13T01:02:03.375114+00:00",
+ "generated": "2026-11-13T01:17:10.674648+00:00",
  "games": [
   {
    "title": "Montr\u00e9al - Boston",
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://edge.candyshop.st/live3/F132/index.m3u8?st=kWIvHb0RUYnr6xtRSx9WtQ&e=1794540994"
+     "url": "https://candyshop.st/live3/F132/index.m3u8?st=SDBenZF29B7M016E_ntBiA&e=1794542911"
     },
     {
      "name": "1080p away",
-     "url": "https://edge2.candyshop.st/live3/F133/index.m3u8?st=4BGHvBxlyKIG-o_6CzI6eA&e=1794541008"
+     "url": "https://edge.candyshop.st/live3/F133/index.m3u8?st=ynW1Kpm7ESaapCTv6jscuQ&e=1794542926"
+    },
+    {
+     "name": "1080p french",
+     "url": "https://edge1.candyshop.st/live3/F146/index.m3u8?st=sF9Hsq5RooWazI03VsNreg&e=1794542943"
     }
    ]
   },
@@ -19,11 +23,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://edge2.candyshop.st/live3/F135/index.m3u8?st=DdsC8UnSh-XcinnFvRCmJg&e=1794541095"
+     "url": "https://edge.candyshop.st/live3/F135/index.m3u8?st=-nAJYKhBMaMMr7YFQQz7Rw&e=1794542999"
     },
     {
      "name": "1080p away",
-     "url": "https://edge2.candyshop.st/live3/F136/index.m3u8?st=tFSx6lRPQe6SUKDANqR-Xg&e=1794541130"
+     "url": "https://edge2.candyshop.st/live3/F136/index.m3u8?st=sZNxdHypwbv-BBmhFH9Mxg&e=1794543044"
     }
    ]
   },
@@ -32,7 +36,7 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://edge.candyshop.st/live3/F134/index.m3u8?st=1TQFvqu2I4k_HV8ip9OG2A&e=1794541034"
+     "url": "https://edge.candyshop.st/live3/F134/index.m3u8?st=LKPXDtLJO_iXBTsfjNSeGQ&e=1794542947"
     }
    ]
   },
@@ -41,7 +45,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://candyshop.st/live3/F139/index.m3u8?st=uCiP16wwvWAlLD2zOkUHrg&e=1794541208"
+     "url": "https://edge2.candyshop.st/live3/F139/index.m3u8?st=BeP3UjESk36aZC_kv3S_Zg&e=1794543123"
     }
    ]
   },
@@ -50,15 +54,15 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://candyshop.st/live3/F138/index.m3u8?st=FtzKL5yFy7Zhxl__B3kPRg&e=1794541187"
+     "url": "https://edge1.candyshop.st/live3/F138/index.m3u8?st=jkXfgo43RXx8MexWzuKLDg&e=1794543104"
     },
     {
      "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F137/index.m3u8?st=QiqXH5ji87jBzItNo8PZ4w&e=1794541157"
+     "url": "https://candyshop.st/live3/F137/index.m3u8?st=noGTgoHyBOxpKoffG0WGWQ&e=1794543076"
     },
     {
      "name": "540p home",
-     "url": "https://edge2.candyshop.st/live3/F69/index.m3u8?st=T5Li6P3iilSDF2vAQL5KNw&e=1794541165"
+     "url": "https://edge.candyshop.st/live3/F69/index.m3u8?st=cb7eY3BSR-CH7RznR6Gljg&e=1794543078"
     }
    ]
   },
@@ -67,7 +71,37 @@
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://edge1.candyshop.st/live3/F140/index.m3u8?st=8TIhtbRLgU6GQbcRzeAICg&e=1794541259"
+     "url": "https://edge.candyshop.st/live3/F140/index.m3u8?st=oWh6UrhLzm5sMiHnRsoMdQ&e=1794543153"
+    }
+   ]
+  },
+  {
+   "title": "Buffalo - Chicago",
+   "feeds": [
+    {
+     "name": "1080p away",
+     "url": "https://edge1.candyshop.st/live3/F172/index.m3u8?st=9dAQtc1ct4MzCs3vKF5-OA&e=1794543205"
+    },
+    {
+     "name": "1080p home",
+     "url": "https://edge1.candyshop.st/live3/F171/index.m3u8?st=k-I1inviqUoeTxkF59sTkg&e=1794543184"
+    }
+   ]
+  },
+  {
+   "title": "Winnipeg - Dallas",
+   "feeds": [
+    {
+     "name": "720p home",
+     "url": "https://edge1.candyshop.st/live3/F173/index.m3u8?st=CnO2daSxR7oMVyIjX1MxMw&e=1794543217"
+    },
+    {
+     "name": "720p away",
+     "url": "https://edge1.candyshop.st/live3/F174/index.m3u8?st=JuhfO4L2Vsv2-PdRttTNqA&e=1794543251"
+    },
+    {
+     "name": "540p home",
+     "url": "https://edge2.candyshop.st/live3/F68/index.m3u8?st=1mmWsjrnaEJ2EKIQB1NKVA&e=1794543220"
     }
    ]
   }
