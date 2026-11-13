@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T06:01:52.401002+00:00",
+ "generated": "2026-11-13T06:16:55.111311+00:00",
  "games": [
   {
    "title": "Buffalo - Chicago",
@@ -22,26 +22,8 @@
      "url": "https://edge.candyshop.st/live3/F174/index.m3u8?st=Qd-NnhpCKZK27t7qH35bGg&e=1794559600"
     },
     {
-     "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F173/index.m3u8?st=PsWwYtvAbLMnQnfs6-i9aA&e=1794559564"
-    }
-   ]
-  },
-  {
-   "title": "St. Louis - Utah",
-   "feeds": [
-    {
-     "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F175/index.m3u8?st=hCSyCDwZa9oFnZj9cl4eGg&e=1794559625"
-    }
-   ]
-  },
-  {
-   "title": "NY - Los Angeles",
-   "feeds": [
-    {
-     "name": "720p english",
-     "url": "https://edge2.candyshop.st/live3/F177/index.m3u8?st=BjtqQT9MTYMGkkwkW-_-QQ&e=1794559663"
+     "name": "540p home",
+     "url": "https://edge1.candyshop.st/live3/F68/index.m3u8?st=Tfi81C3MNUPKFrZBUR4hiA&e=1794559566"
     }
    ]
   }
