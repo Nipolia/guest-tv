@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-13T07:16:58.450400+00:00",
+ "generated": "2026-11-13T07:31:51.835003+00:00",
  "games": [
   {
    "title": "Buffalo - Chicago",
    "feeds": [
     {
-     "name": "1080p away",
-     "url": "https://edge2.candyshop.st/live3/F172/index.m3u8?st=RGKxzR3jv8cluGgPubc-dQ&e=1794563093"
+     "name": "1080p home",
+     "url": "https://edge1.candyshop.st/live3/F171/index.m3u8?st=QRTs78vtVN9txCJVD6Gjbw&e=1794564844"
     },
     {
-     "name": "1080p home",
-     "url": "https://candyshop.st/live3/F171/index.m3u8?st=ms2cTWpMO94w-80op_xd0A&e=1794563074"
+     "name": "1080p away",
+     "url": "https://candyshop.st/live3/F172/index.m3u8?st=UqwlF6oZwOmHJR8xGoDGUw&e=1794564863"
     }
    ]
   },
@@ -19,11 +19,24 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://edge1.candyshop.st/live3/F174/index.m3u8?st=VJ8ZjpdVidVrKgd9LCDLyA&e=1794563140"
+     "url": "https://edge.candyshop.st/live3/F174/index.m3u8?st=dV4xqefJtX5hZIXQ4rSXeA&e=1794564909"
+    },
+    {
+     "name": "720p home",
+     "url": "https://candyshop.st/live3/F173/index.m3u8?st=DDYHEB_LbMocB7UjqX0JPA&e=1794564875"
     },
     {
      "name": "540p home",
-     "url": "https://edge2.candyshop.st/live3/F68/index.m3u8?st=NknTosZHHeaCHEN6NOlg6A&e=1794563106"
+     "url": "https://edge1.candyshop.st/live3/F68/index.m3u8?st=rx9ikb32U03ec78U4t5O3g&e=1794564876"
+    }
+   ]
+  },
+  {
+   "title": "St. Louis - Utah",
+   "feeds": [
+    {
+     "name": "720p home",
+     "url": "https://edge.candyshop.st/live3/F175/index.m3u8?st=ws6YpE5_3xrVBLB3zmbYrA&e=1794564940"
     }
    ]
   }
