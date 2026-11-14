@@ -1,16 +1,20 @@
 {
- "generated": "2026-11-14T07:01:52.369960+00:00",
+ "generated": "2026-11-14T07:16:58.722094+00:00",
  "games": [
   {
    "title": "NY - Vancouver",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://edge.candyshop.st/live3/F132/index.m3u8?st=qDlSgZq83Da0SVOt5yLbzQ&e=1794649295"
+     "url": "https://edge1.candyshop.st/live3/F132/index.m3u8?st=dLxqAjVzP28yQbqZ502gRQ&e=1794650999"
     },
     {
      "name": "540p home",
-     "url": "https://candyshop.st/live3/F131/index.m3u8?st=oUIPbY50lWr8h8xPv28O4w&e=1794649243"
+     "url": "https://candyshop.st/live3/F131/index.m3u8?st=CWAfI9tvgALDi18FQdVuoA&e=1794650952"
+    },
+    {
+     "name": "540p home",
+     "url": "https://edge.candyshop.st/live3/F69/index.m3u8?st=5GL66Jgt36_rGcsJzAI17w&e=1794650952"
     }
    ]
   },
@@ -19,11 +23,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge.candyshop.st/live3/F133/index.m3u8?st=7Ovf99Dm41bCFb9xjCsO_g&e=1794649339"
+     "url": "https://edge.candyshop.st/live3/F133/index.m3u8?st=fJzc4CH9Dzxt6IGNxcebZQ&e=1794651045"
     },
     {
      "name": "540p home",
-     "url": "https://edge1.candyshop.st/live3/F68/index.m3u8?st=TWggDp9j5zURhTtlF43qbQ&e=1794649339"
+     "url": "https://edge1.candyshop.st/live3/F68/index.m3u8?st=PUESOcAB_XTWLnZYvgud2A&e=1794651045"
     }
    ]
   }
