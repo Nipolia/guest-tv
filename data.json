@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T23:32:01.955925+00:00",
+ "generated": "2026-11-14T23:46:55.153357+00:00",
  "games": [
   {
    "title": "Minnesota - Boston",
@@ -16,6 +16,10 @@
     {
      "name": "1080p away",
      "url": "https://edge.candyshop.st/live3/F133/index.m3u8?st=HH6H2ET4ORrWOVzJtgpXvg&e=1794709169"
+    },
+    {
+     "name": "720p home",
+     "url": "https://a85.azplay55.me/hls/streama271249/index.m3u8?cst=96ca736c9136861dd5935af360500748"
     }
    ]
   },
