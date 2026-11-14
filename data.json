@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T06:16:53.757984+00:00",
+ "generated": "2026-11-14T06:31:52.307004+00:00",
  "games": [
   {
    "title": "NY - Vancouver",
@@ -22,12 +22,12 @@
    "title": "Nashville - Vegas",
    "feeds": [
     {
-     "name": "540p home",
-     "url": "https://edge.candyshop.st/live3/F68/index.m3u8?st=_4VMnAX7mmnxr061oo6-rg&e=1794647657"
+     "name": "720p home",
+     "url": "https://edge.candyshop.st/live3/F133/index.m3u8?st=J7ZnJCgmLlx7VWUYrfX5fw&e=1794647655"
     },
     {
-     "name": "home",
-     "url": "https://edge.candyshop.st/live3/F133/index.m3u8?st=J7ZnJCgmLlx7VWUYrfX5fw&e=1794647655"
+     "name": "540p home",
+     "url": "https://edge.candyshop.st/live3/F68/index.m3u8?st=_4VMnAX7mmnxr061oo6-rg&e=1794647657"
     }
    ]
   }
