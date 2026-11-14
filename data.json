@@ -1,12 +1,21 @@
 {
- "generated": "2026-11-14T19:46:52.284168+00:00",
+ "generated": "2026-11-14T20:01:50.650416+00:00",
  "games": [
   {
    "title": "Seattle - Carolina",
    "feeds": [
     {
      "name": "540p Canes feed",
-     "url": "https://edge2.candyshop.st/live3/F131/index.m3u8?st=27_YP-VpEL-ZA85X6NZNvA&e=1794694465"
+     "url": "https://edge1.candyshop.st/live3/F131/index.m3u8?st=LHMRtJCjSlSJR0r2c91XtA&e=1794696309"
+    }
+   ]
+  },
+  {
+   "title": "Winnipeg - Chicago",
+   "feeds": [
+    {
+     "name": "1080p away",
+     "url": "https://candyshop.st/live3/F133/index.m3u8?st=VSX2uZn52WhkZBYTAHVKOw&e=1794696409"
     }
    ]
   }
