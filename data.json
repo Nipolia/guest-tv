@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-14T19:16:51.903424+00:00",
+ "generated": "2026-11-14T19:31:50.945661+00:00",
  "games": [
   {
    "title": "Seattle - Carolina",
    "feeds": [
     {
      "name": "540p Canes feed",
-     "url": "https://edge1.candyshop.st/live3/F131/index.m3u8?st=8Z-BNT_MPGJhY-XEOkKWZg&e=1794692607"
+     "url": "https://edge2.candyshop.st/live3/F131/index.m3u8?st=27_YP-VpEL-ZA85X6NZNvA&e=1794694465"
     }
    ]
   }
