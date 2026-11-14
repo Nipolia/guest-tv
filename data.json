@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-14T02:31:54.728139+00:00",
+ "generated": "2026-11-14T02:47:00.180467+00:00",
  "games": [
   {
    "title": "NY - Vancouver",
    "feeds": [
     {
-     "name": "720p away",
-     "url": "https://candyshop.st/live3/F132/index.m3u8?st=0PHVfSU3_4vkzvS2Jh4-rQ&e=1794633692"
+     "name": "540p home",
+     "url": "https://edge.candyshop.st/live3/F131/index.m3u8?st=8w0Cke9ygVcYf7WgxKKnEA&e=1794633654"
     },
     {
      "name": "540p home",
-     "url": "https://edge.candyshop.st/live3/F131/index.m3u8?st=8w0Cke9ygVcYf7WgxKKnEA&e=1794633654"
+     "url": "https://edge.candyshop.st/live3/F69/index.m3u8?st=WtH7WIBNUyia0Y4Z4BRVwQ&e=1794633654"
     }
    ]
   },
