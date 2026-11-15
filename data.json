@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-15T03:31:53.349918+00:00",
+ "generated": "2026-11-15T03:46:56.084625+00:00",
  "games": [
   {
    "title": "Buffalo - Dallas",
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://candyshop.st/live3/F179/index.m3u8?st=QoOXN075rBbtfm1Ep6BMOg&e=1794723023"
+     "url": "https://edge1.candyshop.st/live3/F179/index.m3u8?st=RWUBLA38Egshbxc_mY_j9g&e=1794724732"
     }
    ]
   },
@@ -15,7 +15,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge2.candyshop.st/live3/F184/index.m3u8?st=hz7r8Evgh879DmAjqv-05A&e=1794723027"
+     "url": "https://edge2.candyshop.st/live3/F184/index.m3u8?st=Cot19b7t7i9iiIZ_hw_U7g&e=1794724735"
     }
    ]
   },
@@ -24,7 +24,7 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://edge1.candyshop.st/live3/F135/index.m3u8?st=DfTpFWdv3p4bEuz_ciSTBA&e=1794723119"
+     "url": "https://edge1.candyshop.st/live3/F135/index.m3u8?st=-AGBb9mST_7lWbGZz-8ZNw&e=1794724837"
     }
    ]
   },
@@ -33,7 +33,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://candyshop.st/live3/F180/index.m3u8?st=raH0XWWv0S-cHSADwohzzg&e=1794723065"
+     "url": "https://edge1.candyshop.st/live3/F180/index.m3u8?st=XVaA2o7Kky908ZApSdpIRg&e=1794724768"
     }
    ]
   }
