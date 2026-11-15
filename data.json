@@ -1,21 +1,12 @@
 {
- "generated": "2026-11-15T04:01:54.457279+00:00",
+ "generated": "2026-11-15T04:16:51.806031+00:00",
  "games": [
-  {
-   "title": "Buffalo - Dallas",
-   "feeds": [
-    {
-     "name": "1080p away",
-     "url": "https://edge1.candyshop.st/live3/F179/index.m3u8?st=RWUBLA38Egshbxc_mY_j9g&e=1794724732"
-    }
-   ]
-  },
   {
    "title": "San Jose - Utah",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge2.candyshop.st/live3/F184/index.m3u8?st=Cot19b7t7i9iiIZ_hw_U7g&e=1794724735"
+     "url": "https://edge.candyshop.st/live3/F184/index.m3u8?st=80_6KtDobTQ0g9O4kEg_uw&e=1794726464"
     }
    ]
   },
@@ -24,7 +15,7 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://edge1.candyshop.st/live3/F135/index.m3u8?st=-AGBb9mST_7lWbGZz-8ZNw&e=1794724837"
+     "url": "https://candyshop.st/live3/F135/index.m3u8?st=JhpTCg3k_-kQPTS0FwhbOQ&e=1794726545"
     }
    ]
   },
@@ -33,7 +24,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F180/index.m3u8?st=XVaA2o7Kky908ZApSdpIRg&e=1794724768"
+     "url": "https://edge2.candyshop.st/live3/F180/index.m3u8?st=EcL-gNqri7QF4CZ6IFQ8Hg&e=1794726476"
     }
    ]
   }
