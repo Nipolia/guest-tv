@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-15T04:31:55.370348+00:00",
+ "generated": "2026-11-15T04:46:58.158957+00:00",
  "games": [
   {
    "title": "San Jose - Utah",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge.candyshop.st/live3/F184/index.m3u8?st=80_6KtDobTQ0g9O4kEg_uw&e=1794726464"
+     "url": "https://candyshop.st/live3/F184/index.m3u8?st=u-Y5RQsTvifPUbPQokrZrA&e=1794728176"
     }
    ]
   },
@@ -15,7 +15,7 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://candyshop.st/live3/F135/index.m3u8?st=JhpTCg3k_-kQPTS0FwhbOQ&e=1794726545"
+     "url": "https://edge.candyshop.st/live3/F135/index.m3u8?st=TMLrDc-HhhOVUZ6zkfuKOw&e=1794728250"
     }
    ]
   },
@@ -24,7 +24,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge2.candyshop.st/live3/F180/index.m3u8?st=EcL-gNqri7QF4CZ6IFQ8Hg&e=1794726476"
+     "url": "https://candyshop.st/live3/F180/index.m3u8?st=FrIiIbyVkgd3zeWBu77aEQ&e=1794728190"
     }
    ]
   }
