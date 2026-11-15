@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-15T00:16:53.981545+00:00",
+ "generated": "2026-11-15T00:32:03.910019+00:00",
  "games": [
   {
    "title": "Minnesota - Boston",
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://edge1.candyshop.st/live3/F134/index.m3u8?st=Q8RdML8t8ht8BfSiqVp7Ng&e=1794711068"
+     "url": "https://edge.candyshop.st/live3/F134/index.m3u8?st=zoyWujNI7wcYVePiLK7SbQ&e=1794712899"
     }
    ]
   },
@@ -15,11 +15,15 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://candyshop.st/live3/F137/index.m3u8?st=9MoVYKdu8Tis5Xt6Pu0-iw&e=1794711168"
+     "url": "https://edge.candyshop.st/live3/F137/index.m3u8?st=-1dcAmUjby6_9CdiQJ4OzA&e=1794713057"
     },
     {
      "name": "720p french",
-     "url": "https://edge1.candyshop.st/live3/F146/index.m3u8?st=SrxIRkmSdzNHQA83wn2b4Q&e=1794711172"
+     "url": "https://candyshop.st/live3/F146/index.m3u8?st=8TrW9AW94s-bmyyMFx44Zw&e=1794713061"
+    },
+    {
+     "name": "home",
+     "url": "https://edge1.candyshop.st/live3/F136/index.m3u8?st=lyK0MXEAE2-xPNBem-2QqQ&e=1794713013"
     }
    ]
   },
@@ -28,11 +32,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://edge.candyshop.st/live3/F138/index.m3u8?st=7q0yDAGxPctKDq037jadug&e=1794711185"
+     "url": "https://edge.candyshop.st/live3/F138/index.m3u8?st=brU1ZTONqNUXXPhr0o_iCw&e=1794713088"
     },
     {
      "name": "720p away",
-     "url": "https://edge.candyshop.st/live3/F139/index.m3u8?st=zuXnJROQn_yP6opZpyahFg&e=1794711201"
+     "url": "https://candyshop.st/live3/F139/index.m3u8?st=5Eiy-w49gEKLxJ2h82q7_Q&e=1794713123"
     }
    ]
   },
@@ -41,11 +45,11 @@
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://edge2.candyshop.st/live3/F135/index.m3u8?st=H_l4bCpyi965efhrTqGjFg&e=1794711082"
+     "url": "https://edge1.candyshop.st/live3/F135/index.m3u8?st=iBETF1y5-jqSMWOwrRkDGA&e=1794712932"
     },
     {
      "name": "540p english",
-     "url": "https://edge.candyshop.st/live3/F69/index.m3u8?st=_ddnc5SrsYUw1kwCXocEVA&e=1794711085"
+     "url": "https://edge2.candyshop.st/live3/F69/index.m3u8?st=vl0uuxnAsSaI_vbcFk63lQ&e=1794712936"
     }
    ]
   },
@@ -54,7 +58,7 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://edge2.candyshop.st/live3/F177/index.m3u8?st=6B3VZNavpQa5r1GH7-rzcA&e=1794711271"
+     "url": "https://candyshop.st/live3/F177/index.m3u8?st=Ttb1fNhWPtgvA9URNxFaSA&e=1794713258"
     }
    ]
   },
@@ -63,11 +67,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://candyshop.st/live3/F172/index.m3u8?st=sXyt-Wa6vT-PiNZIfTsnFQ&e=1794711230"
+     "url": "https://edge1.candyshop.st/live3/F172/index.m3u8?st=UPXw826ngh7CN6ZgBhpb3w&e=1794713188"
     },
     {
      "name": "720p away",
-     "url": "https://edge.candyshop.st/live3/F173/index.m3u8?st=N6pwm-5g24xyabFsoyst0w&e=1794711242"
+     "url": "https://candyshop.st/live3/F173/index.m3u8?st=sd7t2RYZTiDKcW_Ydpgd6w&e=1794713204"
     }
    ]
   },
@@ -76,11 +80,11 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://edge.candyshop.st/live3/F171/index.m3u8?st=dKYcn0x0Sln8dGEZiezyiw&e=1794711212"
+     "url": "https://edge1.candyshop.st/live3/F171/index.m3u8?st=QwysIUHD1uBf8K1eP-Mxxg&e=1794713156"
     },
     {
      "name": "720p home",
-     "url": "https://edge2.candyshop.st/live3/F140/index.m3u8?st=F41W1iP79ACkwC29hJDpkA&e=1794711204"
+     "url": "https://edge1.candyshop.st/live3/F140/index.m3u8?st=k_Lkoim8CSXrw3e_xHZ68Q&e=1794713130"
     }
    ]
   },
@@ -89,11 +93,11 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://edge1.candyshop.st/live3/F175/index.m3u8?st=Z-yWJoDTZZsaLOTSaaKFDQ&e=1794711265"
+     "url": "https://edge2.candyshop.st/live3/F175/index.m3u8?st=C2tU6TA7ZDV8GS8Gz7KGag&e=1794713240"
     },
     {
      "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F174/index.m3u8?st=4InZGlrAzYnpAt4cb27n4w&e=1794711255"
+     "url": "https://candyshop.st/live3/F174/index.m3u8?st=NFfROmXfwkd4VupB5euWOg&e=1794713219"
     }
    ]
   }
