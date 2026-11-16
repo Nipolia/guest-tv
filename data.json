@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T11:17:03.860818+00:00",
+ "generated": "2026-11-16T11:31:52.629074+00:00",
  "games": [
   {
    "title": "Edmonton - Philadelphia",
@@ -55,10 +55,6 @@
     {
      "name": "720p home",
      "url": "https://edge.candyshop.st/live3/F136/index.m3u8?st=lWNGeiYfLcNHztA17xD6WA&e=1794838309"
-    },
-    {
-     "name": "away",
-     "url": "https://edge2.candyshop.st/live3/F137/index.m3u8?st=2lv3WSugZtoZiev0WKN_dA&e=1794838336"
     }
    ]
   }
