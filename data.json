@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-16T06:31:52.266466+00:00",
+ "generated": "2026-11-16T06:47:02.209486+00:00",
  "games": [
   {
    "title": "Edmonton - Philadelphia",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://candyshop.st/live3/F132/index.m3u8?st=aPMLVuMqVDbtbsrUUazTfw&e=1794819534"
+     "url": "https://edge2.candyshop.st/live3/F132/index.m3u8?st=wDMH20USABNfDbMMBAIn0A&e=1794821394"
     },
     {
      "name": "540p away",
-     "url": "https://edge.candyshop.st/live3/F69/index.m3u8?st=OZb-K_Jc8afz9TVQUWwgtA&e=1794819538"
+     "url": "https://candyshop.st/live3/F69/index.m3u8?st=YxS0cEJdaXU9aatrLMlzQg&e=1794821397"
     },
     {
      "name": "540p home",
-     "url": "https://edge1.candyshop.st/live3/F131/index.m3u8?st=sltWlhvfsXcWFIs5A9OXGw&e=1794819515"
+     "url": "https://edge.candyshop.st/live3/F131/index.m3u8?st=XGnMUzG16ATZI4ZHjByU4w&e=1794821376"
     }
    ]
   },
@@ -23,11 +23,15 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://edge2.candyshop.st/live3/F135/index.m3u8?st=-znv7vOGsOcO_CGOo33LmA&e=1794819679"
+     "url": "https://candyshop.st/live3/F135/index.m3u8?st=4o-4CJ6HYZnNV9fsaPMK2g&e=1794821544"
     },
     {
      "name": "720p home",
-     "url": "https://edge2.candyshop.st/live3/F134/index.m3u8?st=6AfoL6Io1WTZeC6gyIl01Q&e=1794819645"
+     "url": "https://edge.candyshop.st/live3/F134/index.m3u8?st=jY5nmRDue2FE3muROysrQw&e=1794821511"
+    },
+    {
+     "name": "540p home",
+     "url": "https://edge1.candyshop.st/live3/F68/index.m3u8?st=7aixMIzFDr1AIaRrXFzI7g&e=1794821516"
     }
    ]
   },
@@ -36,7 +40,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://candyshop.st/live3/F133/index.m3u8?st=8ylgG_ScSfENTLukXRK4eg&e=1794819603"
+     "url": "https://edge1.candyshop.st/live3/F133/index.m3u8?st=UAfaReoA9O3e7TrEW8ntOA&e=1794821468"
     }
    ]
   },
@@ -45,7 +49,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F138/index.m3u8?st=6NKJG09O-hCv-bvwoYxsEg&e=1794820344"
+     "url": "https://edge2.candyshop.st/live3/F138/index.m3u8?st=h-HA0J26-NH8FW2vTDb72Q&e=1794821615"
     }
    ]
   },
@@ -54,7 +58,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F136/index.m3u8?st=zr3A-XtDhUyTQhZvZAlb7A&e=1794819700"
+     "url": "https://edge1.candyshop.st/live3/F136/index.m3u8?st=hAE3SB5V-vHisyQlB9KWnA&e=1794821566"
     }
    ]
   }
