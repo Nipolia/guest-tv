@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-16T10:31:57.064292+00:00",
+ "generated": "2026-11-16T10:47:01.836550+00:00",
  "games": [
   {
    "title": "Edmonton - Philadelphia",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://candyshop.st/live3/F132/index.m3u8?st=H811oWjqt6Qxx_1qcS-nvA&e=1794834413"
+     "url": "https://edge1.candyshop.st/live3/F132/index.m3u8?st=EWhVf6-jt76LjKLh6GT2FQ&e=1794836274"
     },
     {
      "name": "540p away",
-     "url": "https://edge1.candyshop.st/live3/F69/index.m3u8?st=-qXRy_zvq0hkgIRnw8K8UA&e=1794834416"
+     "url": "https://edge1.candyshop.st/live3/F69/index.m3u8?st=z8rkDXL2wG2hkUL_rxP62Q&e=1794836277"
     },
     {
      "name": "540p home",
-     "url": "https://edge2.candyshop.st/live3/F131/index.m3u8?st=_7KyjGYKgv5V4n6GICwlNQ&e=1794834395"
+     "url": "https://edge2.candyshop.st/live3/F131/index.m3u8?st=poj6xo1cBvlvbnjniIYFGQ&e=1794836256"
     }
    ]
   },
@@ -22,16 +22,16 @@
    "title": "Calgary - Anaheim",
    "feeds": [
     {
-     "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F134/index.m3u8?st=wiYkSMBUYXTWtgzZzv6amQ&e=1794834539"
+     "name": "720p away",
+     "url": "https://candyshop.st/live3/F135/index.m3u8?st=H4E9O4YGFzWICFDJLIhc5g&e=1794836422"
     },
     {
-     "name": "720p away",
-     "url": "https://edge1.candyshop.st/live3/F135/index.m3u8?st=3BVERg1XKxADxGIjjgnY3w&e=1794834566"
+     "name": "720p home",
+     "url": "https://candyshop.st/live3/F134/index.m3u8?st=4TMIriXufgnwbVxT5HvwOQ&e=1794836392"
     },
     {
      "name": "540p home",
-     "url": "https://edge.candyshop.st/live3/F68/index.m3u8?st=7CmZAHhKURlyVx-DUNFOSg&e=1794834541"
+     "url": "https://edge2.candyshop.st/live3/F68/index.m3u8?st=vaH-IBKfKj1siV9gJKG_bA&e=1794836395"
     }
    ]
   },
@@ -40,7 +40,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F133/index.m3u8?st=D4vTGqGzCUJmOPO6SawPyg&e=1794834489"
+     "url": "https://edge.candyshop.st/live3/F133/index.m3u8?st=WIHchALdlYlviQBvQziypA&e=1794836350"
     }
    ]
   },
@@ -48,8 +48,8 @@
    "title": "Nashville - San Jose",
    "feeds": [
     {
-     "name": "720p home",
-     "url": "https://candyshop.st/live3/F138/index.m3u8?st=1JITD5jZvEscGtzggwROVw&e=1794834641"
+     "name": "home",
+     "url": "https://candyshop.st/live3/F138/index.m3u8?st=V65XLiuO58WbFAv4cV6PIw&e=1794836496"
     }
    ]
   },
@@ -58,7 +58,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F136/index.m3u8?st=5tlPIuEKQyuJtBLX-bUnUA&e=1794834591"
+     "url": "https://edge1.candyshop.st/live3/F136/index.m3u8?st=zxdSWSt-KxVOIuO1wDm_mA&e=1794836444"
+    },
+    {
+     "name": "away",
+     "url": "https://edge.candyshop.st/live3/F137/index.m3u8?st=Tax_HHuTQa2L3nu4tGqSpA&e=1794836474"
     }
    ]
   }
