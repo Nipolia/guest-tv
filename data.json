@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-16T03:16:57.178151+00:00",
+ "generated": "2026-11-16T03:32:00.087808+00:00",
  "games": [
   {
    "title": "Edmonton - Philadelphia",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://candyshop.st/live3/F132/index.m3u8?st=2rrzq8ZBMHoPipAMNlyJFg&e=1794808404"
+     "url": "https://edge2.candyshop.st/live3/F132/index.m3u8?st=P0nZpdGRqRXN-Ev0vPjH9Q&e=1794810293"
     },
     {
      "name": "540p away",
-     "url": "https://edge1.candyshop.st/live3/F69/index.m3u8?st=j1AI8OXliSlu1ZLcJU028w&e=1794808407"
+     "url": "https://edge.candyshop.st/live3/F69/index.m3u8?st=t48FS-81nK-pNpZ_mTZGYQ&e=1794810297"
     }
    ]
   },
@@ -19,11 +19,11 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://edge.candyshop.st/live3/F135/index.m3u8?st=Tr82eBVe629H1tsJXKdmfg&e=1794808535"
+     "url": "https://edge.candyshop.st/live3/F135/index.m3u8?st=kXFH1bdJsfep8VVxGp1zHg&e=1794810421"
     },
     {
      "name": "720p home",
-     "url": "https://candyshop.st/live3/F134/index.m3u8?st=91UGnC99TQtdZnTBTjz1sA&e=1794808509"
+     "url": "https://candyshop.st/live3/F134/index.m3u8?st=pGcaOUqN2zR1Hgqkwnd66w&e=1794810394"
     }
    ]
   },
@@ -32,7 +32,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge2.candyshop.st/live3/F133/index.m3u8?st=zpGPBjmrfbj0UnU1RFAoLQ&e=1794808471"
+     "url": "https://candyshop.st/live3/F133/index.m3u8?st=kV7RjFKXc9DbGjx3XOkadg&e=1794810355"
     }
    ]
   },
@@ -41,7 +41,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F138/index.m3u8?st=kl8qsh4Y_Xl67prEBDh_3A&e=1794808754"
+     "url": "https://edge1.candyshop.st/live3/F138/index.m3u8?st=QPJbN8ygsepEHUlehJWWNQ&e=1794810496"
     }
    ]
   },
@@ -50,7 +50,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge.candyshop.st/live3/F136/index.m3u8?st=lvwmAuvN15AzlGH51fFTJw&e=1794808556"
+     "url": "https://candyshop.st/live3/F136/index.m3u8?st=mdPIoYqlGSHD5FKdvFIfmg&e=1794810443"
+    },
+    {
+     "name": "away",
+     "url": "https://edge.candyshop.st/live3/F137/index.m3u8?st=kaS4C6C3uGv2kVLnHG6New&e=1794810475"
     }
    ]
   }
