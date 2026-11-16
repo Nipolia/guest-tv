@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-16T00:47:06.161320+00:00",
+ "generated": "2026-11-16T01:02:00.767697+00:00",
  "games": [
   {
    "title": "Edmonton - Philadelphia",
    "feeds": [
     {
-     "name": "540p home",
-     "url": "https://edge1.candyshop.st/live3/F69/index.m3u8?st=D9q0oQNnTZ7D9TWS8QYPxQ&e=1794799265"
+     "name": "540p away",
+     "url": "https://candyshop.st/live3/F69/index.m3u8?st=0ScPSzSOcZNzL51SUZaZDA&e=1794801048"
     }
    ]
   },
@@ -15,7 +15,7 @@
    "feeds": [
     {
      "name": "540p home",
-     "url": "https://edge1.candyshop.st/live3/F68/index.m3u8?st=u3qU_7cLorM1KsjWHe8wfg&e=1794799338"
+     "url": "https://edge1.candyshop.st/live3/F68/index.m3u8?st=QbakVPdlq_bwc_akP6kixA&e=1794801121"
     }
    ]
   }
