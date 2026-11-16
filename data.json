@@ -1,13 +1,9 @@
 {
- "generated": "2026-11-16T04:31:59.843775+00:00",
+ "generated": "2026-11-16T04:47:01.660887+00:00",
  "games": [
   {
    "title": "Edmonton - Philadelphia",
    "feeds": [
-    {
-     "name": "720p away",
-     "url": "https://candyshop.st/live3/F132/index.m3u8?st=viHVA54TUt9PSkL_vz7wYQ&e=1794813960"
-    },
     {
      "name": "540p away",
      "url": "https://edge2.candyshop.st/live3/F69/index.m3u8?st=DKGG0TRnL4MILWIUUDzY3A&e=1794813963"
@@ -55,10 +51,6 @@
     {
      "name": "720p home",
      "url": "https://candyshop.st/live3/F136/index.m3u8?st=eSth4PhI2q041iBH04tqhg&e=1794814121"
-    },
-    {
-     "name": "away",
-     "url": "https://candyshop.st/live3/F137/index.m3u8?st=co11WeyBsvMxuMbqHyZ2qQ&e=1794814155"
     }
    ]
   }
