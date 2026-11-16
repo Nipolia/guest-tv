@@ -1,20 +1,16 @@
 {
- "generated": "2026-11-16T09:31:54.207606+00:00",
+ "generated": "2026-11-16T09:46:57.674902+00:00",
  "games": [
   {
    "title": "Edmonton - Philadelphia",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://candyshop.st/live3/F132/index.m3u8?st=fVjl4EyQC74C156z0BMSlQ&e=1794830692"
+     "url": "https://edge2.candyshop.st/live3/F132/index.m3u8?st=86dvX2CclksM3FJFv3q59Q&e=1794832554"
     },
     {
      "name": "540p away",
-     "url": "https://candyshop.st/live3/F69/index.m3u8?st=cDw6tew5Lp72yuNQZOVWVg&e=1794830695"
-    },
-    {
-     "name": "540p home",
-     "url": "https://edge.candyshop.st/live3/F131/index.m3u8?st=ZrYdVzvngd1UlNvMzeo6_g&e=1794830675"
+     "url": "https://edge.candyshop.st/live3/F69/index.m3u8?st=5cZJjoLc7j8FxUbuG2u1yg&e=1794832557"
     }
    ]
   },
@@ -23,11 +19,15 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge.candyshop.st/live3/F134/index.m3u8?st=gXTYXIn6EizDt_R7j2-GqQ&e=1794830814"
+     "url": "https://edge.candyshop.st/live3/F134/index.m3u8?st=IURvc0C8cSUghbiDXbOE1Q&e=1794832669"
     },
     {
      "name": "540p home",
-     "url": "https://candyshop.st/live3/F68/index.m3u8?st=PR1MM3Zs3JUeaeFIDIu-cw&e=1794830817"
+     "url": "https://edge2.candyshop.st/live3/F68/index.m3u8?st=aVx8tJuslMKmx0Q5pvRcvw&e=1794832677"
+    },
+    {
+     "name": "away",
+     "url": "https://candyshop.st/live3/F135/index.m3u8?st=RMzChr3I89o38gYtSxzlqQ&e=1794832705"
     }
    ]
   },
@@ -36,7 +36,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge.candyshop.st/live3/F133/index.m3u8?st=XY3eT_Aa8BChIEys_i_E5g&e=1794830766"
+     "url": "https://edge.candyshop.st/live3/F133/index.m3u8?st=pP6jb-oTToIBxL0IRavklg&e=1794832628"
     }
    ]
   },
@@ -45,7 +45,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F138/index.m3u8?st=WFZhRfsTB0_wUxPB7AX6UA&e=1794831266"
+     "url": "https://edge2.candyshop.st/live3/F138/index.m3u8?st=RNi-ntTQgWhUO_msEe5k4w&e=1794832779"
     }
    ]
   },
@@ -54,7 +54,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://candyshop.st/live3/F136/index.m3u8?st=RqcB3pRPLB7pD54fuNQ15w&e=1794830866"
+     "url": "https://edge.candyshop.st/live3/F136/index.m3u8?st=qtCES2JQdqafTSpzuUjP1Q&e=1794832730"
+    },
+    {
+     "name": "away",
+     "url": "https://edge.candyshop.st/live3/F137/index.m3u8?st=9sGxlS_z-fwBKVd3it9SAg&e=1794832752"
     }
    ]
   }
