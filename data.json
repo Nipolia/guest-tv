@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T04:32:02.735216+00:00",
+ "generated": "2026-11-17T04:47:02.421268+00:00",
  "games": [
   {
    "title": "Montr\u00e9al - NY",
@@ -7,6 +7,10 @@
     {
      "name": "1080p english",
      "url": "https://edge.candyshop.st/live3/F119/index.m3u8?st=E4Lxm99q8LA4hj9H3Xc9bA&e=1794900306"
+    },
+    {
+     "name": "720p french",
+     "url": "https://edge2.candyshop.st/live3/F146/index.m3u8?st=Ze-UdQMEhFiuobp261LgSQ&e=1794900341"
     },
     {
      "name": "540p english",
