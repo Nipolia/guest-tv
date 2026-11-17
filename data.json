@@ -1,20 +1,16 @@
 {
- "generated": "2026-11-17T04:16:53.305366+00:00",
+ "generated": "2026-11-17T04:32:02.735216+00:00",
  "games": [
   {
    "title": "Montr\u00e9al - NY",
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://edge2.candyshop.st/live3/F119/index.m3u8?st=-xEwpN0qWuodUVMDUzFbiQ&e=1794898628"
-    },
-    {
-     "name": "720p french",
-     "url": "https://candyshop.st/live3/F146/index.m3u8?st=O89W9_Q3qYkj-0rZ-dOb6A&e=1794898665"
+     "url": "https://edge.candyshop.st/live3/F119/index.m3u8?st=E4Lxm99q8LA4hj9H3Xc9bA&e=1794900306"
     },
     {
      "name": "540p english",
-     "url": "https://edge.candyshop.st/live3/F131/index.m3u8?st=KNswlKEPXsR8MqLY1WZSEg&e=1794899630"
+     "url": "https://candyshop.st/live3/F131/index.m3u8?st=LH3Jly8uQrR-pRxVuOwE2A&e=1794900306"
     }
    ]
   },
@@ -23,11 +19,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge2.candyshop.st/live3/F133/index.m3u8?st=VADsUPXVP4nIaMEBCSEaYg&e=1794898695"
+     "url": "https://edge2.candyshop.st/live3/F133/index.m3u8?st=xCb2Vwbo3-VOgji0yQoYHw&e=1794900374"
     },
     {
      "name": "540p home",
-     "url": "https://edge1.candyshop.st/live3/F68/index.m3u8?st=UyMQuOn40Nh450hiJjlSAA&e=1794898697"
+     "url": "https://edge1.candyshop.st/live3/F68/index.m3u8?st=J3i6-Q4CzxWGn-XPapGDPA&e=1794900375"
     }
    ]
   }
