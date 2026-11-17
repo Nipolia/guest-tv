@@ -1,4 +1,14 @@
 {
- "generated": "2026-11-17T22:16:47.140907+00:00",
- "games": []
+ "generated": "2026-11-17T22:31:53.344438+00:00",
+ "games": [
+  {
+   "title": "Edmonton - Florida",
+   "feeds": [
+    {
+     "name": "540p home",
+     "url": "https://edge1.candyshop.st/live3/F69/index.m3u8?st=9DgCxeLR1gMj9dAZ5NMjqQ&e=1794964482"
+    }
+   ]
+  }
+ ]
 }
