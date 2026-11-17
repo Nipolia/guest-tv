@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-17T09:31:53.866446+00:00",
+ "generated": "2026-11-17T09:46:59.068988+00:00",
  "games": [
   {
    "title": "Montr\u00e9al - NY",
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://edge2.candyshop.st/live3/F119/index.m3u8?st=eMybzgoDE5euaQj-8mAqMA&e=1794917107"
+     "url": "https://candyshop.st/live3/F119/index.m3u8?st=lA39V3YsRso4WDh4xY3WMw&e=1794918787"
     },
     {
      "name": "540p english",
-     "url": "https://edge.candyshop.st/live3/F69/index.m3u8?st=SZyCZPlMbGWPWnfDF8amHA&e=1794917107"
+     "url": "https://candyshop.st/live3/F69/index.m3u8?st=kWodGTcTVbRdKzHBpcdksw&e=1794918787"
     }
    ]
   },
@@ -19,7 +19,7 @@
    "feeds": [
     {
      "name": "540p home",
-     "url": "https://candyshop.st/live3/F68/index.m3u8?st=ZN9f0y_PNuQRSIDWZL2W0Q&e=1794917174"
+     "url": "https://edge1.candyshop.st/live3/F68/index.m3u8?st=mspbsNAqkDvlSYsp-WOh-w&e=1794918857"
     }
    ]
   }
