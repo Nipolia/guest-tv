@@ -1,4 +1,27 @@
 {
- "generated": "2026-11-17T08:47:01.760292+00:00",
- "games": []
+ "generated": "2026-11-17T09:01:51.652432+00:00",
+ "games": [
+  {
+   "title": "Montr\u00e9al - NY",
+   "feeds": [
+    {
+     "name": "1080p english",
+     "url": "https://candyshop.st/live3/F119/index.m3u8?st=aVoouzR780FyrQUCXMJC_g&e=1794915427"
+    },
+    {
+     "name": "540p english",
+     "url": "https://edge1.candyshop.st/live3/F69/index.m3u8?st=tgRhYwHg_QeJq2oTOGh9Mg&e=1794915427"
+    }
+   ]
+  },
+  {
+   "title": "Vancouver - Utah",
+   "feeds": [
+    {
+     "name": "540p home",
+     "url": "https://edge1.candyshop.st/live3/F68/index.m3u8?st=_W6slvRcgcGLWEs8tlaRXA&e=1794915492"
+    }
+   ]
+  }
+ ]
 }
