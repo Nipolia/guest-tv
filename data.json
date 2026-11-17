@@ -1,12 +1,21 @@
 {
- "generated": "2026-11-17T22:46:52.874257+00:00",
+ "generated": "2026-11-17T23:01:51.426198+00:00",
  "games": [
   {
    "title": "Edmonton - Florida",
    "feeds": [
     {
      "name": "540p home",
-     "url": "https://edge1.candyshop.st/live3/F69/index.m3u8?st=9DgCxeLR1gMj9dAZ5NMjqQ&e=1794964482"
+     "url": "https://candyshop.st/live3/F69/index.m3u8?st=qDGbjBK__R_Dg6f6ERonyA&e=1794966192"
+    }
+   ]
+  },
+  {
+   "title": "Toronto - Chicago",
+   "feeds": [
+    {
+     "name": "1080p TNT",
+     "url": "https://edge2.candyshop.st/live3/F119/index.m3u8?st=1Rp52i1XAlX87aL0mNBFMw&e=1794966319"
     }
    ]
   }
