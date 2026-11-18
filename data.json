@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T08:16:57.016178+00:00",
+ "generated": "2026-11-18T08:31:53.858544+00:00",
  "games": [
   {
    "title": "Nashville - Minnesota",
@@ -33,10 +33,6 @@
     {
      "name": "1080p english",
      "url": "https://edge1.candyshop.st/live3/F174/index.m3u8?st=kKzhayiJKCQ0j8qfCTgjUA&e=1795000115"
-    },
-    {
-     "name": "540p english",
-     "url": "https://edge2.candyshop.st/live3/F69/index.m3u8?st=Co9Bm5GVJ4Yn_NAhgkZHtg&e=1795000119"
     }
    ]
   }
