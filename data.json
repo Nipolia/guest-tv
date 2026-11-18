@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T00:31:58.359306+00:00",
+ "generated": "2026-11-18T00:47:02.374445+00:00",
  "games": [
   {
    "title": "Los Angeles - Boston",
@@ -16,10 +16,6 @@
     {
      "name": "1080p away",
      "url": "https://candyshop.st/live3/F136/index.m3u8?st=moTaD0Ve9CYiAGHrG1_wzQ&e=1794971860"
-    },
-    {
-     "name": "1080p home",
-     "url": "https://edge2.candyshop.st/live3/F135/index.m3u8?st=VzAssRHp49oQWBYCO2iavQ&e=1794971847"
     }
    ]
   },
