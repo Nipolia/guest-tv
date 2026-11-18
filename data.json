@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T02:47:08.885124+00:00",
+ "generated": "2026-11-18T03:02:01.692045+00:00",
  "games": [
   {
    "title": "Los Angeles - Boston",
@@ -16,10 +16,6 @@
     {
      "name": "1080p away",
      "url": "https://edge.candyshop.st/live3/F136/index.m3u8?st=1RvjQKC15y8HMoFzVLynnA&e=1794979981"
-    },
-    {
-     "name": "1080p home",
-     "url": "https://edge2.candyshop.st/live3/F135/index.m3u8?st=Q-ap_kNfG7NPBP43bGLegA&e=1794979959"
     }
    ]
   },
@@ -109,10 +105,6 @@
   {
    "title": "Calgary - San Jose",
    "feeds": [
-    {
-     "name": "720p home",
-     "url": "https://candyshop.st/live3/F175/index.m3u8?st=2H_kEONDDRsYhB0rNTF9YA&e=1794980229"
-    },
     {
      "name": "720p away",
      "url": "https://edge.candyshop.st/live3/F177/index.m3u8?st=Q7Y0sdKzMycmlpbEosFsYA&e=1794980256"
