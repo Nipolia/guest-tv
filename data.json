@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-18T02:02:00.401208+00:00",
+ "generated": "2026-11-18T02:17:01.874190+00:00",
  "games": [
   {
    "title": "Los Angeles - Boston",
    "feeds": [
     {
      "name": "540p home",
-     "url": "https://edge2.candyshop.st/live3/F131/index.m3u8?st=bT2cj8uQhSN--OkYSieoUQ&e=1794975627"
+     "url": "https://candyshop.st/live3/F131/index.m3u8?st=-7JXISlVDGk66_uIMCDOng&e=1794977696"
     }
    ]
   },
@@ -14,8 +14,12 @@
    "title": "Buffalo - Philadelphia",
    "feeds": [
     {
+     "name": "1080p away",
+     "url": "https://edge.candyshop.st/live3/F136/index.m3u8?st=QQE4Y6LqXRh_8TJCZurA8Q&e=1794977910"
+    },
+    {
      "name": "1080p home",
-     "url": "https://candyshop.st/live3/F135/index.m3u8?st=PtXqY0p6_fu5n0eNAvLLjA&e=1794975825"
+     "url": "https://edge.candyshop.st/live3/F135/index.m3u8?st=c_MgOsEoz1Gr-7bZ_pAyFA&e=1794977890"
     }
    ]
   },
@@ -24,7 +28,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://candyshop.st/live3/F134/index.m3u8?st=r-8mwCyj9Um9y8KecLyZIw&e=1794975789"
+     "url": "https://edge2.candyshop.st/live3/F134/index.m3u8?st=at1X41ZSs0Lr3As9Kd-wlg&e=1794977855"
     }
    ]
   },
@@ -33,15 +37,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://candyshop.st/live3/F132/index.m3u8?st=ywMGo9F2zFrIjxtdImdwgg&e=1794975658"
+     "url": "https://edge1.candyshop.st/live3/F132/index.m3u8?st=9vq-xR0l12M0oultowpiSA&e=1794977728"
     },
     {
      "name": "720p away",
-     "url": "https://candyshop.st/live3/F133/index.m3u8?st=930G3Dgw2skpfmrWRBIITQ&e=1794975701"
-    },
-    {
-     "name": "540p home",
-     "url": "https://edge2.candyshop.st/live3/F69/index.m3u8?st=ziqg6tR3t_LUoz9w1Qzdiw&e=1794975660"
+     "url": "https://edge1.candyshop.st/live3/F133/index.m3u8?st=oRP_8H4a_LpYdZgEV0c6UQ&e=1794977764"
     }
    ]
   },
@@ -50,7 +50,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://candyshop.st/live3/F137/index.m3u8?st=6bKmwcFPBYeI670ZERM1Gg&e=1794975864"
+     "url": "https://edge2.candyshop.st/live3/F137/index.m3u8?st=_LVldCmdsQ8JkU44zJd3Yw&e=1794977926"
     }
    ]
   },
@@ -59,15 +59,11 @@
    "feeds": [
     {
      "name": "1080p TNT",
-     "url": "https://edge.candyshop.st/live3/F140/index.m3u8?st=y00uQWfyMi3HlmSsKqjvDg&e=1794975936"
+     "url": "https://edge2.candyshop.st/live3/F140/index.m3u8?st=sN4aQY1LchBp3lnkk_QMjQ&e=1794978000"
     },
     {
      "name": "1080p TNT",
-     "url": "https://candyshop.st/live3/F119/index.m3u8?st=MFdY7Il2asw6_N47M_dIdA&e=1794975936"
-    },
-    {
-     "name": "720p away",
-     "url": "https://edge1.candyshop.st/live3/F171/index.m3u8?st=5T2OPOJfByfSXqg1IYXcHA&e=1794975971"
+     "url": "https://edge.candyshop.st/live3/F119/index.m3u8?st=1uxr-cbi8WvATILWF5ZRpg&e=1794978003"
     }
    ]
   },
@@ -76,11 +72,11 @@
    "feeds": [
     {
      "name": "720p english",
-     "url": "https://edge2.candyshop.st/live3/F139/index.m3u8?st=8Zfxt1Ors4fDxYKGA7cVjw&e=1794975903"
+     "url": "https://edge2.candyshop.st/live3/F139/index.m3u8?st=Vjfb9Ah0swur-qIfpCdYeQ&e=1794977963"
     },
     {
      "name": "540p english",
-     "url": "https://edge.candyshop.st/live3/F68/index.m3u8?st=w40zsqv26hL7EQPjACTXuQ&e=1794975904"
+     "url": "https://edge1.candyshop.st/live3/F68/index.m3u8?st=YN_KXfofIn67mh8GcwpDIA&e=1794977965"
     }
    ]
   },
@@ -89,7 +85,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge2.candyshop.st/live3/F172/index.m3u8?st=xjkV7MPhJZSpp_esSu6Rlg&e=1794975981"
+     "url": "https://candyshop.st/live3/F172/index.m3u8?st=uVPT2EWM8EcImwivkrY6Kw&e=1794978045"
     }
    ]
   },
@@ -98,7 +94,16 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://candyshop.st/live3/F173/index.m3u8?st=IBhZ14-5xUydds8utwNkTA&e=1794976023"
+     "url": "https://candyshop.st/live3/F173/index.m3u8?st=3XKpViUpjQj-1un2b9YoLQ&e=1794978086"
+    }
+   ]
+  },
+  {
+   "title": "Dallas - Vegas",
+   "feeds": [
+    {
+     "name": "1080p TNT",
+     "url": "https://candyshop.st/live3/F119/index.m3u8?st=p9EC1DU4KSFeQhP0MWjELQ&e=1794978121"
     }
    ]
   }
