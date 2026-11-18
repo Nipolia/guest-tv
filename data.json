@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-18T06:31:50.322970+00:00",
+ "generated": "2026-11-18T06:46:53.668916+00:00",
  "games": [
   {
    "title": "Nashville - Minnesota",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge2.candyshop.st/live3/F173/index.m3u8?st=7ZBiJNbb2Eds_9TA9prsSg&e=1794992796"
+     "url": "https://edge2.candyshop.st/live3/F173/index.m3u8?st=WX3pLmhvjC7eUshPsB7tHQ&e=1794994597"
     }
    ]
   },
@@ -15,11 +15,11 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://edge2.candyshop.st/live3/F177/index.m3u8?st=l9kGNc9smJNJdZFrOy0eDg&e=1794992946"
+     "url": "https://edge.candyshop.st/live3/F177/index.m3u8?st=2r_7YW9a52jTaWPaknpCtw&e=1794994748"
     },
     {
      "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F175/index.m3u8?st=IXRe6boHrXhJM87TrBAQ8g&e=1794994303"
+     "url": "https://edge.candyshop.st/live3/F175/index.m3u8?st=Sn2c4k0Tr8fvNakZszEsjA&e=1794994709"
     }
    ]
   },
@@ -28,11 +28,11 @@
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://edge1.candyshop.st/live3/F174/index.m3u8?st=n9Lr04o0-YrMLqViHnQ1jQ&e=1794992853"
+     "url": "https://edge.candyshop.st/live3/F119/index.m3u8?st=bqjinOyW9_M91FVEjbq7yQ&e=1794994656"
     },
     {
      "name": "1080p english",
-     "url": "https://candyshop.st/live3/F119/index.m3u8?st=OEDR9uu5ARd0Quat4kmn9A&e=1794992856"
+     "url": "https://edge1.candyshop.st/live3/F174/index.m3u8?st=DnnILKRXncqVKDmLUSMHAQ&e=1794994650"
     }
    ]
   }
