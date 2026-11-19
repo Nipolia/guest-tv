@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-19T00:16:54.801204+00:00",
+ "generated": "2026-11-19T00:31:55.324478+00:00",
  "games": [
   {
    "title": "Boston - Detroit",
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://edge.candyshop.st/live3/F119/index.m3u8?st=d53RmykocoBYwGXYxwoEPw&e=1795057105"
+     "url": "https://edge1.candyshop.st/live3/F119/index.m3u8?st=P9VXDTgJZkKV2VBLx0oN0w&e=1795058875"
     }
    ]
   },
@@ -15,7 +15,7 @@
    "feeds": [
     {
      "name": "540p home",
-     "url": "https://edge.candyshop.st/live3/F68/index.m3u8?st=4-BIE0NTpSppQ-TTTL_dCQ&e=1795057129"
+     "url": "https://edge.candyshop.st/live3/F68/index.m3u8?st=zD3urw5VcP-IsKV2u7q01Q&e=1795058908"
     }
    ]
   }
