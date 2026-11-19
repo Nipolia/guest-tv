@@ -1,4 +1,23 @@
 {
- "generated": "2026-11-19T22:46:52.480494+00:00",
- "games": []
+ "generated": "2026-11-19T23:02:01.907328+00:00",
+ "games": [
+  {
+   "title": "Montr\u00e9al - Carolina",
+   "feeds": [
+    {
+     "name": "1080p french",
+     "url": "https://edge1.candyshop.st/live3/F146/index.m3u8?st=LmxY8rQeenyL4-3S19HraA&e=1795139400"
+    }
+   ]
+  },
+  {
+   "title": "Philadelphia - Ottawa",
+   "feeds": [
+    {
+     "name": "540p home",
+     "url": "https://candyshop.st/live3/F69/index.m3u8?st=Z4S9aAU2wJ6ZrPFVTT2YJg&e=1795139335"
+    }
+   ]
+  }
+ ]
 }
