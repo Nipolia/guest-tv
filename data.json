@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-19T01:17:03.352214+00:00",
+ "generated": "2026-11-19T01:31:57.053836+00:00",
  "games": [
   {
    "title": "Boston - Detroit",
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://edge.candyshop.st/live3/F119/index.m3u8?st=_1X0BuSYPtoYkz2oDHrGXQ&e=1795060613"
+     "url": "https://candyshop.st/live3/F119/index.m3u8?st=HWSzo3PKeNsHas8fQ2n_hw&e=1795062387"
     },
     {
      "name": "540p english",
-     "url": "https://candyshop.st/live3/F131/index.m3u8?st=Vp6vA3NIOiMw2RUbD4Oubg&e=1795060613"
+     "url": "https://edge2.candyshop.st/live3/F131/index.m3u8?st=BX_9BlduMOe1bz1IB9Y-RA&e=1795062387"
     }
    ]
   },
@@ -19,11 +19,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://candyshop.st/live3/F132/index.m3u8?st=y-Xb03r3v6b4OhztGuCR4w&e=1795060654"
+     "url": "https://edge1.candyshop.st/live3/F132/index.m3u8?st=MSem8KEbpLm530m0oN2KZQ&e=1795062427"
     },
     {
      "name": "540p away",
-     "url": "https://edge1.candyshop.st/live3/F68/index.m3u8?st=QjkDelg03id9UEayGkbTGw&e=1795060674"
+     "url": "https://edge.candyshop.st/live3/F68/index.m3u8?st=sLfmZwgY_D0h2dT9rEqXwQ&e=1795062449"
     }
    ]
   }
