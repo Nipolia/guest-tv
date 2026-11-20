@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-20T00:16:55.552041+00:00",
+ "generated": "2026-11-20T00:32:07.294397+00:00",
  "games": [
   {
    "title": "Montr\u00e9al - Carolina",
    "feeds": [
     {
      "name": "1080p french",
-     "url": "https://edge.candyshop.st/live3/F146/index.m3u8?st=yHcJJBGh2r8uLHZNxLwP4g&e=1795142969"
+     "url": "https://edge.candyshop.st/live3/F146/index.m3u8?st=eT19UyE7NRXwTC3wdju_pA&e=1795144797"
     }
    ]
   },
@@ -15,7 +15,7 @@
    "feeds": [
     {
      "name": "540p home",
-     "url": "https://edge1.candyshop.st/live3/F69/index.m3u8?st=jwRsk9Z6IN2dwA7rDNeZ5g&e=1795142829"
+     "url": "https://edge.candyshop.st/live3/F69/index.m3u8?st=TGaR6jb5XXc9HDzM-6IcWg&e=1795144653"
     }
    ]
   }
