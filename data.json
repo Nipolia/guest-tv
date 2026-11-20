@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T09:31:56.159686+00:00",
+ "generated": "2026-11-20T09:46:51.991112+00:00",
  "games": [
   {
    "title": "Columbus - Chicago",
@@ -22,14 +22,6 @@
   {
    "title": "Dallas - Vegas",
    "feeds": [
-    {
-     "name": "720p english",
-     "url": "https://a74.azplay55.me/hls/streama269936/index.m3u8?cst=cad29c931326f572d6f4b447c86914bc"
-    },
-    {
-     "name": "720p czech",
-     "url": "https://a122.azplay55.me/hls/streama271162/index.m3u8?cst=93385f56c0837f3992632e230a004f59"
-    },
     {
      "name": "540p english",
      "url": "https://edge.candyshop.st/live3/F69/index.m3u8?st=NHyeXOdz8EP7SP7DGzehIA&e=1795177836"
