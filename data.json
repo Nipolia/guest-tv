@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-20T04:02:12.101884+00:00",
+ "generated": "2026-11-20T04:17:19.332947+00:00",
  "games": [
   {
    "title": "Columbus - Chicago",
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://edge1.candyshop.st/live3/F172/index.m3u8?st=Pn0t8YJ1vc-e6_mV0KFnkg&e=1795156521"
+     "url": "https://edge.candyshop.st/live3/F172/index.m3u8?st=AvhJ7dFOiDPTadr8hpPK_A&e=1795158263"
     }
    ]
   },
@@ -15,7 +15,7 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://candyshop.st/live3/F173/index.m3u8?st=obrJWor5WUNXWDf3oteB7g&e=1795156549"
+     "url": "https://edge.candyshop.st/live3/F173/index.m3u8?st=2-TbjHJWK5LdLuYDvy0K7A&e=1795158309"
     }
    ]
   },
@@ -24,7 +24,7 @@
    "feeds": [
     {
      "name": "540p english",
-     "url": "https://edge.candyshop.st/live3/F69/index.m3u8?st=0x6XgPrLhcJp8dUvibSuWw&e=1795156654"
+     "url": "https://edge.candyshop.st/live3/F69/index.m3u8?st=dTD60OSjgaawr7BS1ZmOFw&e=1795158431"
     }
    ]
   }
