@@ -1,29 +1,16 @@
 {
- "generated": "2026-11-21T21:16:52.897305+00:00",
+ "generated": "2026-11-21T21:31:53.305957+00:00",
  "games": [
-  {
-   "title": "Edmonton - Carolina",
-   "feeds": [
-    {
-     "name": "720p away",
-     "url": "https://candyshop.st/live3/F132/index.m3u8?st=j5_2vsYqoEkzsCw0SdpwGg&e=1795305238"
-    },
-    {
-     "name": "540p NHLN",
-     "url": "https://edge.candyshop.st/live3/F131/index.m3u8?st=v13qVBr36mcrjT8oxBiCLw&e=1795305271"
-    }
-   ]
-  },
   {
    "title": "Chicago - Calgary",
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://edge1.candyshop.st/live3/F133/index.m3u8?st=ojdMwN72DeyX-htKF3yg4Q&e=1795305336"
+     "url": "https://candyshop.st/live3/F133/index.m3u8?st=uA-auBs1udhUgL1oD-haiw&e=1795307097"
     },
     {
      "name": "1080p away",
-     "url": "https://edge1.candyshop.st/live3/F134/index.m3u8?st=1IkJTFN8Rqn7iCVlMtuZqA&e=1795305377"
+     "url": "https://edge.candyshop.st/live3/F134/index.m3u8?st=vuIPu-z3yrP26uJMqTkqYg&e=1795307152"
     }
    ]
   }
