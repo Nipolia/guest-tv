@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T21:31:53.305957+00:00",
+ "generated": "2026-11-21T21:46:59.752743+00:00",
  "games": [
   {
    "title": "Chicago - Calgary",
@@ -7,10 +7,6 @@
     {
      "name": "1080p home",
      "url": "https://candyshop.st/live3/F133/index.m3u8?st=uA-auBs1udhUgL1oD-haiw&e=1795307097"
-    },
-    {
-     "name": "1080p away",
-     "url": "https://edge.candyshop.st/live3/F134/index.m3u8?st=vuIPu-z3yrP26uJMqTkqYg&e=1795307152"
     }
    ]
   }
