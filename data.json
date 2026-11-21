@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-21T17:16:53.489439+00:00",
+ "generated": "2026-11-21T17:31:51.758340+00:00",
  "games": [
   {
    "title": "Edmonton - Carolina",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://edge1.candyshop.st/live3/F132/index.m3u8?st=Xtj8suVjlFj_rZGx5j8JBg&e=1795290637"
+     "url": "https://edge.candyshop.st/live3/F132/index.m3u8?st=BLqIaTlslT3aoETcakhkIw&e=1795292487"
     },
     {
      "name": "540p NHLN",
-     "url": "https://edge2.candyshop.st/live3/F131/index.m3u8?st=UH0yM_BS6EWV71PE9BsxKw&e=1795290674"
+     "url": "https://candyshop.st/live3/F131/index.m3u8?st=mUx2zZMmOV9Y4swdiibyzQ&e=1795292525"
     }
    ]
   }
