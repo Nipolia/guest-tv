@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T00:17:08.264264+00:00",
+ "generated": "2026-11-22T00:32:03.383975+00:00",
  "games": [
   {
    "title": "Washington - Boston",
@@ -94,10 +94,6 @@
     {
      "name": "720p away",
      "url": "https://candyshop.st/live3/F173/index.m3u8?st=V83A4foAxR-lmSFkTi0TdA&e=1795317211"
-    },
-    {
-     "name": "home",
-     "url": "https://edge2.candyshop.st/live3/F172/index.m3u8?st=ZHLRi67BY2terz1u7giB9g&e=1795316777"
     }
    ]
   },
