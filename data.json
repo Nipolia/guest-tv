@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T23:47:04.103575+00:00",
+ "generated": "2026-11-22T00:02:00.620586+00:00",
  "games": [
   {
    "title": "Washington - Boston",
@@ -53,7 +53,7 @@
    "title": "Los Angeles - Ottawa",
    "feeds": [
     {
-     "name": "720p home",
+     "name": "1080p home",
      "url": "https://edge2.candyshop.st/live3/F174/index.m3u8?st=ictPJzYGgYqUVhgcVhD60g&e=1795314898"
     },
     {
