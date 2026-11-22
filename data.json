@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T04:02:00.653384+00:00",
+ "generated": "2026-11-22T04:16:56.656609+00:00",
  "games": [
   {
    "title": "Anaheim - Utah",
@@ -24,11 +24,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://a121.azplay55.me/hls/streama271656/index.m3u8?cst=925974c5c2b24a0cfe4a6abc0c687eb0"
-    },
-    {
-     "name": "home",
-     "url": "https://edge1.candyshop.st/live3/F184/index.m3u8?st=bobH9x-VuUzzf8Dunevsyg&e=1795330840"
+     "url": "https://edge.candyshop.st/live3/F184/index.m3u8?st=FZI8J7nikk1Y6TK7s_Z0mQ&e=1795331082"
     }
    ]
   }
