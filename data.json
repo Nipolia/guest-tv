@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-22T06:16:53.385321+00:00",
+ "generated": "2026-11-22T06:31:57.604058+00:00",
  "games": [
   {
    "title": "Anaheim - Utah",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://edge1.candyshop.st/live3/F182/index.m3u8?st=ukostWHXQfz1m5_en_JakQ&e=1795337712"
+     "url": "https://candyshop.st/live3/F182/index.m3u8?st=2tY_4aZQ-efFEcO5wUg96A&e=1795339451"
     }
    ]
   },
@@ -14,8 +14,12 @@
    "title": "Minnesota - Vancouver",
    "feeds": [
     {
+     "name": "720p czech",
+     "url": "https://a73.azplay55.me/hls/streama271162/index.m3u8?cst=ab8b88375f61380bc8c22c517886b7c6"
+    },
+    {
      "name": "540p home",
-     "url": "https://edge.candyshop.st/live3/F68/index.m3u8?st=Hosr4yO0oitQMroVhukMNA&e=1795337730"
+     "url": "https://edge2.candyshop.st/live3/F68/index.m3u8?st=29O7wcud6HGm4G0VlWbuRg&e=1795339468"
     }
    ]
   },
@@ -24,7 +28,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F184/index.m3u8?st=1KK9jEeorNEpAxJZD7v43g&e=1795337841"
+     "url": "https://edge2.candyshop.st/live3/F184/index.m3u8?st=3a2E7S4qgSQ3GO-5gVaS7g&e=1795339601"
     }
    ]
   }
