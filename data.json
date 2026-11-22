@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T06:31:57.604058+00:00",
+ "generated": "2026-11-22T06:46:52.076085+00:00",
  "games": [
   {
    "title": "Anaheim - Utah",
@@ -13,10 +13,6 @@
   {
    "title": "Minnesota - Vancouver",
    "feeds": [
-    {
-     "name": "720p czech",
-     "url": "https://a73.azplay55.me/hls/streama271162/index.m3u8?cst=ab8b88375f61380bc8c22c517886b7c6"
-    },
     {
      "name": "540p home",
      "url": "https://edge2.candyshop.st/live3/F68/index.m3u8?st=29O7wcud6HGm4G0VlWbuRg&e=1795339468"
