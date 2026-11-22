@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-22T04:16:56.656609+00:00",
+ "generated": "2026-11-22T04:31:58.047245+00:00",
  "games": [
   {
    "title": "Anaheim - Utah",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://edge.candyshop.st/live3/F182/index.m3u8?st=NETnlY8-hSbsyCylw3k4kg&e=1795330721"
+     "url": "https://candyshop.st/live3/F182/index.m3u8?st=z7Rpp4My0fyIRKmKGnYz4w&e=1795332453"
     }
    ]
   },
@@ -15,7 +15,7 @@
    "feeds": [
     {
      "name": "540p home",
-     "url": "https://candyshop.st/live3/F68/index.m3u8?st=hCOaL9Yrh2M3UwJNBydHxA&e=1795330729"
+     "url": "https://edge2.candyshop.st/live3/F68/index.m3u8?st=p1wZeawtqT64tgw8lKmV1g&e=1795332468"
     }
    ]
   },
@@ -24,7 +24,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge.candyshop.st/live3/F184/index.m3u8?st=FZI8J7nikk1Y6TK7s_Z0mQ&e=1795331082"
+     "url": "https://edge.candyshop.st/live3/F184/index.m3u8?st=Izd7DtM1TcdN0BXPK4oFGg&e=1795332576"
     }
    ]
   }
