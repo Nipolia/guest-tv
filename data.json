@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-22T23:16:50.228306+00:00",
+ "generated": "2026-11-22T23:31:52.261471+00:00",
  "games": [
   {
    "title": "Buffalo - Tampa Bay",
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://candyshop.st/live3/F132/index.m3u8?st=E8Vc13m2DJUXxLouj0-ecQ&e=1795398680"
+     "url": "https://edge.candyshop.st/live3/F132/index.m3u8?st=8i0H5J5u0Zi3FyaUC5IzCw&e=1795400388"
     },
     {
      "name": "540p home",
-     "url": "https://edge.candyshop.st/live3/F131/index.m3u8?st=vmtm7nPw7_9Yu4grk-4BHw&e=1795398658"
+     "url": "https://edge.candyshop.st/live3/F131/index.m3u8?st=mi3SLXRSvSF7Xsm3xg936A&e=1795400367"
     }
    ]
   }
