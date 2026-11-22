@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T21:01:56.348083+00:00",
+ "generated": "2026-11-22T21:16:50.246966+00:00",
  "games": [
   {
    "title": "Buffalo - Tampa Bay",
@@ -9,8 +9,8 @@
      "url": "https://edge.candyshop.st/live3/F132/index.m3u8?st=xVh2gzu2r4nv7fKJkeBA2w&e=1795391967"
     },
     {
-     "name": "720p croatian",
-     "url": "https://a93.azplay56.me/hls/streama268641/index.m3u8?cst=e2364fb93b617a8c6e7d09014e6f1a12"
+     "name": "540p NHLN",
+     "url": "https://edge.candyshop.st/live3/F131/index.m3u8?st=0MAqd2mB2gdIe4ouzlRWWA&e=1795391970"
     }
    ]
   }
