@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-22T19:01:51.706270+00:00",
+ "generated": "2026-11-22T19:16:50.812321+00:00",
  "games": [
   {
    "title": "Carolina - NY",
    "feeds": [
     {
      "name": "540p NHLN",
-     "url": "https://edge2.candyshop.st/live3/F131/index.m3u8?st=3QtNmsQOmRGx95hUVtYGmA&e=1795383197"
+     "url": "https://edge.candyshop.st/live3/F131/index.m3u8?st=WofUap-FgYHcr-ii1hODFQ&e=1795384949"
     },
     {
      "name": "540p NHLN",
-     "url": "https://edge.candyshop.st/live3/F69/index.m3u8?st=cTHeX5yd1OxBWmJMtvp7TQ&e=1795383197"
+     "url": "https://edge2.candyshop.st/live3/F69/index.m3u8?st=wc7gN1r9rdTWztKWCFZgMg&e=1795384951"
     }
    ]
   }
