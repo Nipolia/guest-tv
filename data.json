@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-22T01:17:05.252404+00:00",
+ "generated": "2026-11-22T01:31:59.975179+00:00",
  "games": [
   {
    "title": "Washington - Boston",
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://candyshop.st/live3/F140/index.m3u8?st=Iv9nLukiyJj81Zv78MCoqw&e=1795318717"
+     "url": "https://edge2.candyshop.st/live3/F140/index.m3u8?st=ewiZ-RCcUUD3wIpHBGmCgA&e=1795320752"
     },
     {
      "name": "1080p home",
-     "url": "https://edge2.candyshop.st/live3/F139/index.m3u8?st=7DCLm8X8Gm1mA4eg2HhwgQ&e=1795318694"
+     "url": "https://edge.candyshop.st/live3/F139/index.m3u8?st=Pt2U2sxGBQzQML_FFIXOrw&e=1795320726"
     }
    ]
   },
@@ -19,11 +19,11 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://edge1.candyshop.st/live3/F136/index.m3u8?st=DcQCOYwoaBSShRse5hu3eQ&e=1795318634"
+     "url": "https://candyshop.st/live3/F136/index.m3u8?st=IcQS-X9JPsZtosNWGX_NRQ&e=1795320673"
     },
     {
      "name": "720p home",
-     "url": "https://candyshop.st/live3/F135/index.m3u8?st=n1a_cPzD6XWm05p4WHtnMg&e=1795318617"
+     "url": "https://edge.candyshop.st/live3/F135/index.m3u8?st=rUS4-yGaG2AdnjtQEnFgrg&e=1795320656"
     }
    ]
   },
@@ -32,11 +32,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://edge1.candyshop.st/live3/F137/index.m3u8?st=69ylQPvrj5OuUCvp8OK3VA&e=1795318646"
+     "url": "https://candyshop.st/live3/F137/index.m3u8?st=ZPhm98nnyXBvkNdqG1s-9Q&e=1795320684"
     },
     {
      "name": "720p away",
-     "url": "https://candyshop.st/live3/F138/index.m3u8?st=2LjXdqf0dFznlvJpT1vuOg&e=1795318682"
+     "url": "https://candyshop.st/live3/F138/index.m3u8?st=71uxf_t7fC39DUEqK4eAdg&e=1795320720"
     }
    ]
   },
@@ -45,7 +45,7 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://edge.candyshop.st/live3/F171/index.m3u8?st=dIJnpCumjIGVhx1bJygCZg&e=1795318738"
+     "url": "https://edge.candyshop.st/live3/F171/index.m3u8?st=NgEDapvcpS7G5oWHvyoYGQ&e=1795320773"
     }
    ]
   },
@@ -54,11 +54,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://edge2.candyshop.st/live3/F174/index.m3u8?st=iSz2jAQH5A8DfVfRlH5-Lg&e=1795318884"
+     "url": "https://edge2.candyshop.st/live3/F174/index.m3u8?st=Rr8giFMcQ6VKKTGQLIJxEw&e=1795320912"
     },
     {
      "name": "540p home",
-     "url": "https://edge.candyshop.st/live3/F69/index.m3u8?st=RNXXo0lWju5zbiFgS76rGA&e=1795318887"
+     "url": "https://edge1.candyshop.st/live3/F69/index.m3u8?st=N_ua1zxdnXoa12cwFiMzwg&e=1795320915"
     }
    ]
   },
@@ -67,11 +67,11 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://edge.candyshop.st/live3/F177/index.m3u8?st=sOl8g7jFHjo7jfTapuzGvA&e=1795318981"
+     "url": "https://candyshop.st/live3/F177/index.m3u8?st=KgtP2j-jsN9rJJdaqInTcA&e=1795321005"
     },
     {
      "name": "720p home",
-     "url": "https://edge.candyshop.st/live3/F175/index.m3u8?st=OlAsPme_3UN1e2-B4FMc3A&e=1795318949"
+     "url": "https://edge.candyshop.st/live3/F175/index.m3u8?st=i8wdQFWYrVo7ZZ2Qq5mW0g&e=1795320976"
     }
    ]
   },
@@ -80,7 +80,7 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://edge2.candyshop.st/live3/F179/index.m3u8?st=p_SYyFNW5gFUpIV-VTClBw&e=1795319012"
+     "url": "https://candyshop.st/live3/F179/index.m3u8?st=_T1eDfpcNhGD-PsS3u4q2w&e=1795321040"
     }
    ]
   },
@@ -89,7 +89,11 @@
    "feeds": [
     {
      "name": "720p french",
-     "url": "https://candyshop.st/live3/F146/index.m3u8?st=H3f9EeOhye6bulS1MNczXA&e=1795318854"
+     "url": "https://edge1.candyshop.st/live3/F146/index.m3u8?st=Xlc6PNhtjxr-9uYdT8rZMQ&e=1795320883"
+    },
+    {
+     "name": "720p away",
+     "url": "https://edge.candyshop.st/live3/F173/index.m3u8?st=JY3-OK4bdtNuuDOCUhY71g&e=1795320880"
     }
    ]
   },
@@ -98,7 +102,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge2.candyshop.st/live3/F180/index.m3u8?st=3VqD4Njh6ELSzAVNotrrBQ&e=1795319025"
+     "url": "https://edge2.candyshop.st/live3/F180/index.m3u8?st=gmpEi9ebHarJGJ2xdJjDUg&e=1795321061"
     }
    ]
   }
