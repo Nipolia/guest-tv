@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T04:46:57.625195+00:00",
+ "generated": "2026-11-23T05:01:57.009692+00:00",
  "games": [
   {
    "title": "Edmonton - St. Louis",
@@ -29,10 +29,6 @@
     {
      "name": "1080p away",
      "url": "https://edge2.candyshop.st/live3/F138/index.m3u8?st=jrQFKSFGXprrV0j2t7R52g&e=1795419862"
-    },
-    {
-     "name": "home",
-     "url": "https://edge1.candyshop.st/live3/F137/index.m3u8?st=IQEpRzhb0pYNF3iDNuUiTw&e=1795419827"
     }
    ]
   }
