@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-23T00:16:55.351602+00:00",
+ "generated": "2026-11-23T00:32:04.217349+00:00",
  "games": [
   {
    "title": "Buffalo - Tampa Bay",
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://candyshop.st/live3/F132/index.m3u8?st=-miYuiKVSdTEyXOpr180yA&e=1795402070"
+     "url": "https://edge2.candyshop.st/live3/F132/index.m3u8?st=00qNRIhEec3tHf-nY-d50A&e=1795403809"
     },
     {
      "name": "540p home",
-     "url": "https://edge1.candyshop.st/live3/F131/index.m3u8?st=123jZkC4geiD4nDPwURYkw&e=1795403160"
+     "url": "https://edge1.candyshop.st/live3/F131/index.m3u8?st=FQkgILyTvVKWia6uVLJOEA&e=1795403787"
     }
    ]
   },
@@ -19,7 +19,29 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://candyshop.st/live3/F134/index.m3u8?st=NCUnCeIawBKC1PohlZgOcA&e=1795402155"
+     "url": "https://edge1.candyshop.st/live3/F134/index.m3u8?st=pMIyHXqv0MJ9ghAhKtz43Q&e=1795403890"
+    }
+   ]
+  },
+  {
+   "title": "Pittsburgh - Dallas",
+   "feeds": [
+    {
+     "name": "1080p home",
+     "url": "https://edge.candyshop.st/live3/F135/index.m3u8?st=9N9ILiQxzDETt__c8qMDjA&e=1795403925"
+    },
+    {
+     "name": "720p away",
+     "url": "https://edge1.candyshop.st/live3/F136/index.m3u8?st=69TZCcihgBxJv83tPxkNOQ&e=1795403955"
+    }
+   ]
+  },
+  {
+   "title": "Chicago - Vancouver",
+   "feeds": [
+    {
+     "name": "1080p away",
+     "url": "https://edge2.candyshop.st/live3/F138/index.m3u8?st=ZXI2co_MS26AlJK6mO_T3A&e=1795404007"
     }
    ]
   }
