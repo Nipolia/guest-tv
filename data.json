@@ -1,16 +1,25 @@
 {
- "generated": "2026-11-22T23:46:51.563580+00:00",
+ "generated": "2026-11-23T00:01:51.891068+00:00",
  "games": [
   {
    "title": "Buffalo - Tampa Bay",
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://edge.candyshop.st/live3/F132/index.m3u8?st=8i0H5J5u0Zi3FyaUC5IzCw&e=1795400388"
+     "url": "https://candyshop.st/live3/F132/index.m3u8?st=-miYuiKVSdTEyXOpr180yA&e=1795402070"
     },
     {
      "name": "540p home",
-     "url": "https://edge.candyshop.st/live3/F131/index.m3u8?st=mi3SLXRSvSF7Xsm3xg936A&e=1795400367"
+     "url": "https://edge2.candyshop.st/live3/F131/index.m3u8?st=bBoYuRPLpXyFp3EVfWcNRw&e=1795402048"
+    }
+   ]
+  },
+  {
+   "title": "Edmonton - St. Louis",
+   "feeds": [
+    {
+     "name": "720p away",
+     "url": "https://candyshop.st/live3/F134/index.m3u8?st=NCUnCeIawBKC1PohlZgOcA&e=1795402155"
     }
    ]
   }
