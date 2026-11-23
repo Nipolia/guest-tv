@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-23T06:01:50.126286+00:00",
+ "generated": "2026-11-23T06:16:54.642572+00:00",
  "games": [
   {
    "title": "Edmonton - St. Louis",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://candyshop.st/live3/F134/index.m3u8?st=9AtzkkT5QQfEd0HNjfRRVw&e=1795423236"
+     "url": "https://edge.candyshop.st/live3/F134/index.m3u8?st=rtiGLYU0TXdGevesZeIVYA&e=1795425036"
     }
    ]
   },
@@ -15,11 +15,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://candyshop.st/live3/F135/index.m3u8?st=c17F4QMoXuP3BdeGUxTnGA&e=1795423290"
+     "url": "https://candyshop.st/live3/F135/index.m3u8?st=JZM0fph2DumKnV7yvvCJdA&e=1795425083"
     },
     {
      "name": "720p away",
-     "url": "https://edge1.candyshop.st/live3/F136/index.m3u8?st=jTfAlwOE3IqK-cv1XPkDHg&e=1795423318"
+     "url": "https://edge1.candyshop.st/live3/F136/index.m3u8?st=dOmWpFHGNwCglZTHCP781g&e=1795425115"
     }
    ]
   },
@@ -28,7 +28,11 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://edge2.candyshop.st/live3/F138/index.m3u8?st=GcS9OMQsxt2GOna703Micg&e=1795423411"
+     "url": "https://edge1.candyshop.st/live3/F138/index.m3u8?st=vIgdr8cQFKSTxLWsw8Ajsg&e=1795425217"
+    },
+    {
+     "name": "home",
+     "url": "https://edge.candyshop.st/live3/F137/index.m3u8?st=3MxIbslraaSeGJMrAWgcWA&e=1795425177"
     }
    ]
   }
