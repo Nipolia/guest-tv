@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T02:17:03.311957+00:00",
+ "generated": "2026-11-24T02:32:10.798443+00:00",
  "games": [
   {
    "title": "Columbus - New Jersey",
@@ -7,10 +7,6 @@
     {
      "name": "540p home",
      "url": "https://edge1.candyshop.st/live3/F131/index.m3u8?st=wsiaYBwggBlRCJK0CmhSrQ&e=1795496997"
-    },
-    {
-     "name": "home",
-     "url": "https://edge1.candyshop.st/live3/F68/index.m3u8?st=YlmCOJzb_UoJcndm5SiojQ&e=1795496997"
     }
    ]
   },
@@ -59,15 +55,6 @@
     {
      "name": "720p home",
      "url": "https://edge.candyshop.st/live3/F137/index.m3u8?st=lW8ttWv1ojgwugtmFEjxSA&e=1795497211"
-    }
-   ]
-  },
-  {
-   "title": "Minnesota - San Jose",
-   "feeds": [
-    {
-     "name": "home",
-     "url": "https://edge2.candyshop.st/live3/F68/index.m3u8?st=WpO3KnAFOVK9NfzT1hl67g&e=1795497275"
     }
    ]
   }
