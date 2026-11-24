@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T02:47:23.276206+00:00",
+ "generated": "2026-11-24T03:02:22.602929+00:00",
  "games": [
   {
    "title": "Calgary - Ottawa",
@@ -64,18 +64,6 @@
     {
      "name": "720p home",
      "url": "https://candyshop.st/live3/F140/index.m3u8?st=V9vf_grAhAvR_qOd9iuIUQ&e=1795499153"
-    },
-    {
-     "name": "720p home",
-     "url": "https://a74.azplay57.me/hls/streama271656/index.m3u8?cst=0b94c3f73cd8d6f54ac7be32f974c5ec"
-    },
-    {
-     "name": "720p home",
-     "url": "https://a117.azplay57.me/hls/streama268948/index.m3u8?cst=85a1f619db27cded20cee2a7de85b091"
-    },
-    {
-     "name": "720p home",
-     "url": "https://a119.azplay57.me/hls/streama268822/index.m3u8?cst=809a7ef26009285e039831a289aab53f"
     }
    ]
   }
