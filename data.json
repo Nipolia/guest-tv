@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T05:46:54.688535+00:00",
+ "generated": "2026-11-24T06:01:50.887529+00:00",
  "games": [
   {
    "title": "Anaheim - Seattle",
@@ -16,10 +16,6 @@
     {
      "name": "720p home",
      "url": "https://edge2.candyshop.st/live3/F140/index.m3u8?st=y1gKXOd-6YLuIJpB0GXSbw&e=1795509506"
-    },
-    {
-     "name": "540p home",
-     "url": "https://edge2.candyshop.st/live3/F68/index.m3u8?st=jXdbaKmYbS6S0Wbx4JY-XA&e=1795509509"
     }
    ]
   }
