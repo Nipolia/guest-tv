@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-24T09:16:51.038841+00:00",
+ "generated": "2026-11-24T09:31:53.289000+00:00",
  "games": [
   {
    "title": "Anaheim - Seattle",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://edge.candyshop.st/live3/F139/index.m3u8?st=dCpF2UDV816vmHee67Zajg&e=1795521388"
+     "url": "https://edge.candyshop.st/live3/F139/index.m3u8?st=t1DIlTkb_ynMNwDyJfs9KQ&e=1795523101"
     }
    ]
   },
@@ -15,11 +15,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge2.candyshop.st/live3/F140/index.m3u8?st=cVIqP1BnkEY6llgUZEvo3Q&e=1795521429"
+     "url": "https://edge.candyshop.st/live3/F140/index.m3u8?st=qztM0j9LbvORN3I7zvIMZg&e=1795523139"
     },
     {
      "name": "540p home",
-     "url": "https://edge2.candyshop.st/live3/F68/index.m3u8?st=74B-dB3KcOT_KxdxBYdsXA&e=1795521438"
+     "url": "https://edge.candyshop.st/live3/F68/index.m3u8?st=nog2r_yI7E8Rx5DdTLfWCw&e=1795523145"
     }
    ]
   }
