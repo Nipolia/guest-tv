@@ -1,47 +1,12 @@
 {
- "generated": "2026-11-24T03:47:05.392949+00:00",
+ "generated": "2026-11-24T04:01:58.617119+00:00",
  "games": [
-  {
-   "title": "Los Angeles - Montr\u00e9al",
-   "feeds": [
-    {
-     "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F132/index.m3u8?st=gm20u_g5QCtIzmxab1DWRA&e=1795500782"
-    },
-    {
-     "name": "720p french",
-     "url": "https://candyshop.st/live3/F146/index.m3u8?st=DlvdiSEV2kShiSCgsVNFpw&e=1795500814"
-    }
-   ]
-  },
-  {
-   "title": "Toronto - NY",
-   "feeds": [
-    {
-     "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F135/index.m3u8?st=liNgpu7Qi8DVQrf-YaDXWA&e=1795500881"
-    },
-    {
-     "name": "540p home",
-     "url": "https://candyshop.st/live3/F69/index.m3u8?st=03h_-CFQ_XzAQeSbyyez8w&e=1795500883"
-    }
-   ]
-  },
-  {
-   "title": "Utah - Winnipeg",
-   "feeds": [
-    {
-     "name": "720p home",
-     "url": "https://candyshop.st/live3/F137/index.m3u8?st=E2YqPfO4UHozHYJh3-xENQ&e=1795501014"
-    }
-   ]
-  },
   {
    "title": "Anaheim - Seattle",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://edge2.candyshop.st/live3/F139/index.m3u8?st=bs7YGrYWTbtauK-uvT7Z-w&e=1795501082"
+     "url": "https://edge.candyshop.st/live3/F139/index.m3u8?st=1epYnxb3cpRYRyh65m-bzg&e=1795502761"
     }
    ]
   },
@@ -50,7 +15,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge.candyshop.st/live3/F140/index.m3u8?st=H8b37UtyjnRouiBjgDTY-g&e=1795501108"
+     "url": "https://edge.candyshop.st/live3/F140/index.m3u8?st=9WjTuWWeJLuJ03JGLzRcYQ&e=1795503652"
+    },
+    {
+     "name": "540p home",
+     "url": "https://edge1.candyshop.st/live3/F68/index.m3u8?st=_gUqb6kUZkivEO1EK1Aldw&e=1795502798"
     }
    ]
   }
