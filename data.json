@@ -1,21 +1,12 @@
 {
- "generated": "2026-11-24T02:33:58.621353+00:00",
+ "generated": "2026-11-24T02:47:23.276206+00:00",
  "games": [
-  {
-   "title": "Columbus - New Jersey",
-   "feeds": [
-    {
-     "name": "540p home",
-     "url": "https://edge1.candyshop.st/live3/F131/index.m3u8?st=wsiaYBwggBlRCJK0CmhSrQ&e=1795496997"
-    }
-   ]
-  },
   {
    "title": "Calgary - Ottawa",
    "feeds": [
     {
      "name": "720p english",
-     "url": "https://edge2.candyshop.st/live3/F134/index.m3u8?st=HttLD8NGcIf2VRes630hjg&e=1795497087"
+     "url": "https://edge1.candyshop.st/live3/F134/index.m3u8?st=ueMnzAJae4k7sBkK_NetjQ&e=1795498890"
     }
    ]
   },
@@ -24,11 +15,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F132/index.m3u8?st=apInH0LIufXxW9XC8Re1ow&e=1795497044"
+     "url": "https://edge.candyshop.st/live3/F132/index.m3u8?st=s849CQyjuUx_vb5a2Bmmqw&e=1795498858"
     },
     {
      "name": "720p french",
-     "url": "https://edge.candyshop.st/live3/F146/index.m3u8?st=_Wx7TK6A54fgt32lKHfm9Q&e=1795497072"
+     "url": "https://edge1.candyshop.st/live3/F146/index.m3u8?st=rEnPCLLuOfoDtyFHAJRDCw&e=1795498876"
     }
    ]
   },
@@ -37,15 +28,15 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge.candyshop.st/live3/F135/index.m3u8?st=K27S1ro3iMQWcIkKmle3Mg&e=1795497111"
+     "url": "https://candyshop.st/live3/F135/index.m3u8?st=9vRshPWSMKsMWEFgsGPJtg&e=1795498919"
     },
     {
      "name": "720p away",
-     "url": "https://edge.candyshop.st/live3/F136/index.m3u8?st=xHpdq_hSBZ9SOHk5H1GcOQ&e=1795497156"
+     "url": "https://candyshop.st/live3/F136/index.m3u8?st=0-H8YFEhlpln5q4XSio8mw&e=1795498991"
     },
     {
      "name": "540p home",
-     "url": "https://edge2.candyshop.st/live3/F69/index.m3u8?st=6ZqAjZLjaG-Mmw8mCjy_-A&e=1795497112"
+     "url": "https://edge2.candyshop.st/live3/F69/index.m3u8?st=I7iiTH1ytULVS3dfhY2k_g&e=1795498920"
     }
    ]
   },
@@ -54,7 +45,37 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge.candyshop.st/live3/F137/index.m3u8?st=lW8ttWv1ojgwugtmFEjxSA&e=1795497211"
+     "url": "https://edge1.candyshop.st/live3/F137/index.m3u8?st=Ump2qfce9fhqy0gI6aKikQ&e=1795499062"
+    }
+   ]
+  },
+  {
+   "title": "Anaheim - Seattle",
+   "feeds": [
+    {
+     "name": "720p away",
+     "url": "https://edge2.candyshop.st/live3/F139/index.m3u8?st=XSPm4-2Giac-C_z17dZjtg&e=1795499126"
+    }
+   ]
+  },
+  {
+   "title": "Minnesota - San Jose",
+   "feeds": [
+    {
+     "name": "720p home",
+     "url": "https://candyshop.st/live3/F140/index.m3u8?st=V9vf_grAhAvR_qOd9iuIUQ&e=1795499153"
+    },
+    {
+     "name": "720p home",
+     "url": "https://a74.azplay57.me/hls/streama271656/index.m3u8?cst=0b94c3f73cd8d6f54ac7be32f974c5ec"
+    },
+    {
+     "name": "720p home",
+     "url": "https://a117.azplay57.me/hls/streama268948/index.m3u8?cst=85a1f619db27cded20cee2a7de85b091"
+    },
+    {
+     "name": "720p home",
+     "url": "https://a119.azplay57.me/hls/streama268822/index.m3u8?cst=809a7ef26009285e039831a289aab53f"
     }
    ]
   }
