@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-24T03:17:11.701511+00:00",
+ "generated": "2026-11-24T03:32:04.026724+00:00",
  "games": [
   {
    "title": "Calgary - Ottawa",
    "feeds": [
     {
      "name": "720p english",
-     "url": "https://edge1.candyshop.st/live3/F134/index.m3u8?st=ueMnzAJae4k7sBkK_NetjQ&e=1795498890"
+     "url": "https://edge1.candyshop.st/live3/F134/index.m3u8?st=RPu53AWolOV7p61fU5hQBA&e=1795500836"
     }
    ]
   },
@@ -15,11 +15,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge.candyshop.st/live3/F132/index.m3u8?st=s849CQyjuUx_vb5a2Bmmqw&e=1795498858"
+     "url": "https://edge1.candyshop.st/live3/F132/index.m3u8?st=gm20u_g5QCtIzmxab1DWRA&e=1795500782"
     },
     {
      "name": "720p french",
-     "url": "https://edge1.candyshop.st/live3/F146/index.m3u8?st=rEnPCLLuOfoDtyFHAJRDCw&e=1795498876"
+     "url": "https://candyshop.st/live3/F146/index.m3u8?st=DlvdiSEV2kShiSCgsVNFpw&e=1795500814"
     }
    ]
   },
@@ -27,16 +27,16 @@
    "title": "Toronto - NY",
    "feeds": [
     {
-     "name": "720p home",
-     "url": "https://candyshop.st/live3/F135/index.m3u8?st=9vRshPWSMKsMWEFgsGPJtg&e=1795498919"
+     "name": "1080p home",
+     "url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a522127e-3948-45fd-a2b3-c864c4f87d89/default.jobtemplate.hls.m3u8"
     },
     {
-     "name": "720p away",
-     "url": "https://candyshop.st/live3/F136/index.m3u8?st=0-H8YFEhlpln5q4XSio8mw&e=1795498991"
+     "name": "720p home",
+     "url": "https://edge1.candyshop.st/live3/F135/index.m3u8?st=liNgpu7Qi8DVQrf-YaDXWA&e=1795500881"
     },
     {
      "name": "540p home",
-     "url": "https://edge2.candyshop.st/live3/F69/index.m3u8?st=I7iiTH1ytULVS3dfhY2k_g&e=1795498920"
+     "url": "https://candyshop.st/live3/F69/index.m3u8?st=03h_-CFQ_XzAQeSbyyez8w&e=1795500883"
     }
    ]
   },
@@ -45,7 +45,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F137/index.m3u8?st=Ump2qfce9fhqy0gI6aKikQ&e=1795499062"
+     "url": "https://candyshop.st/live3/F137/index.m3u8?st=E2YqPfO4UHozHYJh3-xENQ&e=1795501014"
     }
    ]
   },
@@ -54,7 +54,7 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://edge2.candyshop.st/live3/F139/index.m3u8?st=XSPm4-2Giac-C_z17dZjtg&e=1795499126"
+     "url": "https://edge2.candyshop.st/live3/F139/index.m3u8?st=bs7YGrYWTbtauK-uvT7Z-w&e=1795501082"
     }
    ]
   },
@@ -63,7 +63,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://candyshop.st/live3/F140/index.m3u8?st=V9vf_grAhAvR_qOd9iuIUQ&e=1795499153"
+     "url": "https://edge.candyshop.st/live3/F140/index.m3u8?st=H8b37UtyjnRouiBjgDTY-g&e=1795501108"
     }
    ]
   }
