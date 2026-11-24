@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T01:46:59.684355+00:00",
+ "generated": "2026-11-24T02:01:58.498034+00:00",
  "games": [
   {
    "title": "Columbus - New Jersey",
@@ -7,10 +7,6 @@
     {
      "name": "540p home",
      "url": "https://edge2.candyshop.st/live3/F131/index.m3u8?st=7Lfzdf1oO5wWd_i6g7HsiA&e=1795495166"
-    },
-    {
-     "name": "home",
-     "url": "https://candyshop.st/live3/F68/index.m3u8?st=QUqY5_yIJuV7lm4mrq90BQ&e=1795495166"
     }
    ]
   },
