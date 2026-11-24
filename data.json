@@ -1,12 +1,16 @@
 {
- "generated": "2026-11-24T01:31:57.988969+00:00",
+ "generated": "2026-11-24T01:46:59.684355+00:00",
  "games": [
   {
    "title": "Columbus - New Jersey",
    "feeds": [
     {
      "name": "540p home",
-     "url": "https://edge1.candyshop.st/live3/F131/index.m3u8?st=lUshHq-fr_-R9FTMw2Lcwg&e=1795493334"
+     "url": "https://edge2.candyshop.st/live3/F131/index.m3u8?st=7Lfzdf1oO5wWd_i6g7HsiA&e=1795495166"
+    },
+    {
+     "name": "home",
+     "url": "https://candyshop.st/live3/F68/index.m3u8?st=QUqY5_yIJuV7lm4mrq90BQ&e=1795495166"
     }
    ]
   },
@@ -15,7 +19,7 @@
    "feeds": [
     {
      "name": "720p english",
-     "url": "https://edge1.candyshop.st/live3/F134/index.m3u8?st=IccdQP6LTSPVrElwJvFF3g&e=1795493424"
+     "url": "https://edge.candyshop.st/live3/F134/index.m3u8?st=g8DKhb-AHET2AD2QcQ3hHA&e=1795495253"
     }
    ]
   },
@@ -24,11 +28,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge2.candyshop.st/live3/F132/index.m3u8?st=z_6Kafih2TadwcI5E6nmXQ&e=1795493384"
-    },
-    {
-     "name": "720p french",
-     "url": "https://edge1.candyshop.st/live3/F146/index.m3u8?st=TtqR8JyleIU-q1kKVNpufg&e=1795493407"
+     "url": "https://edge.candyshop.st/live3/F132/index.m3u8?st=C7cIFcz3lJb58fdNOlqcew&e=1795495211"
     }
    ]
   },
@@ -37,11 +37,15 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge2.candyshop.st/live3/F135/index.m3u8?st=ewkIEwgIc2ay2eDCxZ7hKA&e=1795493449"
+     "url": "https://candyshop.st/live3/F135/index.m3u8?st=ly9m27FFgHh5b2bmYgeCqQ&e=1795495275"
     },
     {
      "name": "720p away",
-     "url": "https://edge2.candyshop.st/live3/F136/index.m3u8?st=Y5DsC7-ZAAIfGQRZ1CuCbA&e=1795493510"
+     "url": "https://edge2.candyshop.st/live3/F136/index.m3u8?st=ZjuTadO_AtaCpnJdBvSnWA&e=1795495320"
+    },
+    {
+     "name": "540p home",
+     "url": "https://edge1.candyshop.st/live3/F69/index.m3u8?st=o-ga6WgPx6WlQ91SSTstdg&e=1795495276"
     }
    ]
   },
@@ -50,7 +54,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge.candyshop.st/live3/F137/index.m3u8?st=7RImcrBbF_OV5JjZ4UEHgA&e=1795493566"
+     "url": "https://edge1.candyshop.st/live3/F137/index.m3u8?st=0x_zAIXVeTVN6oqrHMYKOw&e=1795495383"
     }
    ]
   }
