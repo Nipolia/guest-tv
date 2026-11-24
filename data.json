@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T23:01:55.952256+00:00",
+ "generated": "2026-11-24T23:16:52.917780+00:00",
  "games": [
   {
    "title": "Vegas - Edmonton",
@@ -15,7 +15,7 @@
    "feeds": [
     {
      "name": "540p",
-     "url": "https://edge1.candyshop.st/live3/F69/index.m3u8?st=oahBoPiHipZPfDX2y2HXCQ&e=1795571467"
+     "url": "https://candyshop.st/live3/F69/index.m3u8?st=UrkVHpCneVaCDtUXP5Ww1g&e=1795572878"
     }
    ]
   }
