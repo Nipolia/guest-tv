@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-24T00:02:04.662194+00:00",
+ "generated": "2026-11-24T00:17:06.535254+00:00",
  "games": [
   {
    "title": "Columbus - New Jersey",
    "feeds": [
     {
      "name": "540p home",
-     "url": "https://edge1.candyshop.st/live3/F68/index.m3u8?st=Pjsc9faG_7Ko6VlrhSDskg&e=1795488174"
+     "url": "https://edge2.candyshop.st/live3/F68/index.m3u8?st=xLHf4uTjGIS5qMb-f1FVqA&e=1795489856"
     }
    ]
   },
@@ -15,7 +15,7 @@
    "feeds": [
     {
      "name": "540p home",
-     "url": "https://edge.candyshop.st/live3/F69/index.m3u8?st=9dzoz-tEieDaXKm9rfl9kQ&e=1795488225"
+     "url": "https://candyshop.st/live3/F69/index.m3u8?st=FRbDiG_3E9r3Z7tgAXNl7g&e=1795489911"
     }
    ]
   }
