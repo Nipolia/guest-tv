@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-25T02:31:57.766786+00:00",
+ "generated": "2026-11-25T02:47:10.762033+00:00",
  "games": [
   {
    "title": "Vegas - Edmonton",
    "feeds": [
     {
      "name": "1080p TNT",
-     "url": "https://edge.candyshop.st/live3/F132/index.m3u8?st=-xEU1Cij6fOPkQNdt-MaKA&e=1795583297"
+     "url": "https://candyshop.st/live3/F132/index.m3u8?st=ofGP1MHpa0cUfZS2ZLZm0A&e=1795585098"
     },
     {
      "name": "1080p TNT",
-     "url": "https://candyshop.st/live3/F119/index.m3u8?st=M1_LVVJ9PSx2IwRt_pPrMQ&e=1795583298"
+     "url": "https://candyshop.st/live3/F119/index.m3u8?st=71lB7pMEUvaYPACsNyccwA&e=1795585099"
     },
     {
      "name": "540p SN",
-     "url": "https://edge2.candyshop.st/live3/F131/index.m3u8?st=e4Orz_GFkmpsxV2hrjiEMg&e=1795583236"
+     "url": "https://edge1.candyshop.st/live3/F131/index.m3u8?st=yv4q9Bc1iq56aQlqdsJTGw&e=1795584949"
     }
    ]
   }
