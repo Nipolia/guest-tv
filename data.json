@@ -1,16 +1,12 @@
 {
- "generated": "2026-11-26T10:31:50.386154+00:00",
+ "generated": "2026-11-26T10:46:50.904091+00:00",
  "games": [
   {
    "title": "Montr\u00e9al - Colorado",
    "feeds": [
     {
-     "name": "1080p home",
-     "url": "https://edge1.candyshop.st/live3/F180/index.m3u8?st=5fftsu3iuBRqjIoZYN8EhQ&e=1795697950"
-    },
-    {
      "name": "1080p french",
-     "url": "https://candyshop.st/live3/F146/index.m3u8?st=8aolEfJDgpTbQ18aobMwAw&e=1795697985"
+     "url": "https://edge.candyshop.st/live3/F146/index.m3u8?st=OgqrsuTFVYflSzfJ5U-Kcg&e=1795699775"
     }
    ]
   },
@@ -19,7 +15,16 @@
    "feeds": [
     {
      "name": "540p home",
-     "url": "https://edge.candyshop.st/live3/F68/index.m3u8?st=_eb7ARsLY_f7cuIe6ntyLQ&e=1795698019"
+     "url": "https://edge1.candyshop.st/live3/F68/index.m3u8?st=LH5JMXRBempVt8nQPHWzEw&e=1795699819"
+    }
+   ]
+  },
+  {
+   "title": "San Jose - Anaheim",
+   "feeds": [
+    {
+     "name": "720p home",
+     "url": "https://candyshop.st/live3/F184/index.m3u8?st=5CbPtFqPrPxnTbTJqe7Ikg&e=1795699903"
     }
    ]
   }
