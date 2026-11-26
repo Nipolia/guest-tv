@@ -1,16 +1,12 @@
 {
- "generated": "2026-11-26T09:01:57.219110+00:00",
+ "generated": "2026-11-26T09:16:54.577900+00:00",
  "games": [
   {
-   "title": "Chicago - Seattle",
+   "title": "Montr\u00e9al - Colorado",
    "feeds": [
     {
-     "name": "1080p away",
-     "url": "https://edge.candyshop.st/live3/F183/index.m3u8?st=e_W6BD8Oob2WsPXqLAsR9A&e=1795692630"
-    },
-    {
-     "name": "540p home",
-     "url": "https://edge.candyshop.st/live3/F68/index.m3u8?st=DTHN883-fttnJNhynmVSJg&e=1795692582"
+     "name": "1080p french",
+     "url": "https://edge.candyshop.st/live3/F146/index.m3u8?st=7sZEqSKOq7Zbl_oV1tQggA&e=1795694356"
     }
    ]
   },
@@ -19,7 +15,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://candyshop.st/live3/F184/index.m3u8?st=PtxukQj13IfityoZwO-sfw&e=1795692658"
+     "url": "https://edge1.candyshop.st/live3/F184/index.m3u8?st=_hf9_JHXOUYNcXiSqXClMA&e=1795694479"
     }
    ]
   }
