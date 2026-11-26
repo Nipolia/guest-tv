@@ -1,12 +1,16 @@
 {
- "generated": "2026-11-26T05:02:04.157996+00:00",
+ "generated": "2026-11-26T05:16:54.455939+00:00",
  "games": [
   {
    "title": "Montr\u00e9al - Colorado",
    "feeds": [
     {
+     "name": "1080p home",
+     "url": "https://edge.candyshop.st/live3/F180/index.m3u8?st=nB_Fkc5xoqPCalXCdH9ArA&e=1795680039"
+    },
+    {
      "name": "1080p french",
-     "url": "https://candyshop.st/live3/F146/index.m3u8?st=8E65IyNPoUNr_DpTxceREQ&e=1795678336"
+     "url": "https://edge1.candyshop.st/live3/F146/index.m3u8?st=muHcfQavwomi6lypv1X8tw&e=1795680764"
     }
    ]
   },
@@ -15,11 +19,15 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://edge1.candyshop.st/live3/F183/index.m3u8?st=B5jEvWoEDUF5Y52u_Kzuow&e=1795678401"
+     "url": "https://edge.candyshop.st/live3/F183/index.m3u8?st=7JQzVQ3yyYlRDuqMttDKKw&e=1795680146"
     },
     {
      "name": "720p home",
-     "url": "https://candyshop.st/live3/F182/index.m3u8?st=VvuUihpiJEC5HHBw04xqqQ&e=1795678362"
+     "url": "https://candyshop.st/live3/F182/index.m3u8?st=9W-42YcZ9OL3KXhcDtMu2w&e=1795680105"
+    },
+    {
+     "name": "540p home",
+     "url": "https://edge1.candyshop.st/live3/F68/index.m3u8?st=YvvGZhnL85DYPyfW10PkPw&e=1795680108"
     }
    ]
   },
@@ -28,7 +36,11 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://edge.candyshop.st/live3/F185/index.m3u8?st=sDQN6ZcYLngLHEFZ0jDD7g&e=1795679175"
+     "url": "https://candyshop.st/live3/F185/index.m3u8?st=V06Et2qGu_IfYphXYro_pQ&e=1795680197"
+    },
+    {
+     "name": "720p home",
+     "url": "https://candyshop.st/live3/F184/index.m3u8?st=EIaaqE4NIu3XG-yNQgQhEg&e=1795680164"
     }
    ]
   }
