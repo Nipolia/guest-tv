@@ -1,13 +1,9 @@
 {
- "generated": "2026-11-26T07:46:57.406562+00:00",
+ "generated": "2026-11-26T08:01:58.305178+00:00",
  "games": [
   {
    "title": "Montr\u00e9al - Colorado",
    "feeds": [
-    {
-     "name": "1080p home",
-     "url": "https://edge.candyshop.st/live3/F180/index.m3u8?st=iDW8CenjSbFOv2JU3aUg0A&e=1795688912"
-    },
     {
      "name": "1080p french",
      "url": "https://edge1.candyshop.st/live3/F146/index.m3u8?st=wlZ21q_vg7I5cXrgwiVfUw&e=1795688952"
