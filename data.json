@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T01:17:19.493444+00:00",
+ "generated": "2026-11-26T01:32:05.307439+00:00",
  "games": [
   {
    "title": "Winnipeg - Boston",
@@ -20,6 +20,10 @@
     {
      "name": "720p away",
      "url": "https://candyshop.st/live3/F140/index.m3u8?st=-bTlTaPHJC-xKG7R1xseng&e=1795666014"
+    },
+    {
+     "name": "720p home",
+     "url": "https://edge.candyshop.st/live3/F139/index.m3u8?st=JSYPtKW14Q8gxUzraUCeoA&e=1795666392"
     }
    ]
   },
@@ -53,6 +57,10 @@
   {
    "title": "Ottawa - Florida",
    "feeds": [
+    {
+     "name": "1080p away",
+     "url": "https://candyshop.st/live3/F137/index.m3u8?st=0ZCoGskK-CUTTqKWbMi3dA&e=1795666403"
+    },
     {
      "name": "720p home",
      "url": "https://candyshop.st/live3/F136/index.m3u8?st=rHlCihCcsh4B3CcEwQiLoA&e=1795665882"
