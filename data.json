@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-26T01:02:03.197183+00:00",
+ "generated": "2026-11-26T01:17:19.493444+00:00",
  "games": [
   {
    "title": "Winnipeg - Boston",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://candyshop.st/live3/F132/index.m3u8?st=1_EA866HBBrnazlqu0nW3g&e=1795663802"
+     "url": "https://edge.candyshop.st/live3/F132/index.m3u8?st=CQdgWSSAXmnCwGTV1U7JjA&e=1795665763"
     },
     {
      "name": "540p home",
-     "url": "https://edge1.candyshop.st/live3/F131/index.m3u8?st=-e3eaqz_kscbbS0CHwJt0g&e=1795664501"
+     "url": "https://edge1.candyshop.st/live3/F131/index.m3u8?st=JN9zEJjprpDN_EY1jymvxw&e=1795665741"
     }
    ]
   },
@@ -18,12 +18,8 @@
    "title": "Calgary - Pittsburgh",
    "feeds": [
     {
-     "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F139/index.m3u8?st=A32mEB_arA7ufCAng3cVUg&e=1795664020"
-    },
-    {
      "name": "720p away",
-     "url": "https://edge1.candyshop.st/live3/F140/index.m3u8?st=I-V5nlJxjDg_UYongm1m1w&e=1795664040"
+     "url": "https://candyshop.st/live3/F140/index.m3u8?st=-bTlTaPHJC-xKG7R1xseng&e=1795666014"
     }
    ]
   },
@@ -32,11 +28,7 @@
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://candyshop.st/live3/F119/index.m3u8?st=IfPVIqU0lw7SmsOLki6LaQ&e=1795663870"
-    },
-    {
-     "name": "720p english",
-     "url": "https://candyshop.st/live3/F135/index.m3u8?st=Drw6hGQmhtdzJKwxnX9kMg&e=1795663866"
+     "url": "https://candyshop.st/live3/F119/index.m3u8?st=Zrm-m-IvUb49bDLR8yOHBQ&e=1795665839"
     }
    ]
   },
@@ -45,11 +37,7 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://candyshop.st/live3/F133/index.m3u8?st=kLd0UJ8LINNDRovuKbJ6sw&e=1795663822"
-    },
-    {
-     "name": "576p away",
-     "url": "https://edge1.candyshop.st/live3/F134/index.m3u8?st=RYtxakfMbI3Tl3trgz-qSA&e=1795663856"
+     "url": "https://edge1.candyshop.st/live3/F133/index.m3u8?st=j9Zxkf-ayXdZuo_7UltXMQ&e=1795665780"
     }
    ]
   },
@@ -58,7 +46,7 @@
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://candyshop.st/live3/F174/index.m3u8?st=TrejyJvhCAWPyBJWFGKbAA&e=1795664101"
+     "url": "https://edge1.candyshop.st/live3/F174/index.m3u8?st=jOMHDXaYVu_3XjvRpUvFCA&e=1795666077"
     }
    ]
   },
@@ -66,12 +54,8 @@
    "title": "Ottawa - Florida",
    "feeds": [
     {
-     "name": "1080p away",
-     "url": "https://candyshop.st/live3/F137/index.m3u8?st=D84GYdDyLuvgsCif50iVzQ&e=1795664852"
-    },
-    {
      "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F136/index.m3u8?st=_Jnrti4Wl7kba_8OmoTYbw&e=1795664852"
+     "url": "https://candyshop.st/live3/F136/index.m3u8?st=rHlCihCcsh4B3CcEwQiLoA&e=1795665882"
     }
    ]
   },
@@ -80,7 +64,7 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://candyshop.st/live3/F171/index.m3u8?st=QXjfs9xBLvZoAo1LP7DvUw&e=1795664053"
+     "url": "https://edge1.candyshop.st/live3/F171/index.m3u8?st=Zbf2PuB3RPun0zWIEj06rg&e=1795666029"
     }
    ]
   },
@@ -89,7 +73,25 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://candyshop.st/live3/F138/index.m3u8?st=4linhe8BNjtUgW3lUmnrIA&e=1795663995"
+     "url": "https://edge.candyshop.st/live3/F138/index.m3u8?st=PJSZqJBUQytTxQmSBmKXMg&e=1795665946"
+    }
+   ]
+  },
+  {
+   "title": "Vancouver - Detroit",
+   "feeds": [
+    {
+     "name": "720p home",
+     "url": "https://edge1.candyshop.st/live3/F175/index.m3u8?st=5717NvWj0lF73kDnNinevA&e=1795666095"
+    }
+   ]
+  },
+  {
+   "title": "Utah - Minnesota",
+   "feeds": [
+    {
+     "name": "720p home",
+     "url": "https://candyshop.st/live3/F179/index.m3u8?st=csHgD8v4nobn-fUpDfKCcA&e=1795666177"
     }
    ]
   }
