@@ -1,12 +1,25 @@
 {
- "generated": "2026-11-26T09:31:54.103416+00:00",
+ "generated": "2026-11-26T09:46:52.108800+00:00",
  "games": [
   {
    "title": "Montr\u00e9al - Colorado",
    "feeds": [
     {
+     "name": "1080p home",
+     "url": "https://candyshop.st/live3/F180/index.m3u8?st=E3S2AFHoaSZmWYXB3nYPzA&e=1795696147"
+    },
+    {
      "name": "1080p french",
-     "url": "https://edge.candyshop.st/live3/F146/index.m3u8?st=7sZEqSKOq7Zbl_oV1tQggA&e=1795694356"
+     "url": "https://edge1.candyshop.st/live3/F146/index.m3u8?st=qdOmH0rbzP-GduTaTtP0Bw&e=1795696476"
+    }
+   ]
+  },
+  {
+   "title": "Chicago - Seattle",
+   "feeds": [
+    {
+     "name": "540p home",
+     "url": "https://edge.candyshop.st/live3/F68/index.m3u8?st=MpMQDBiXdXvjS8EsgMdTKQ&e=1795696477"
     }
    ]
   },
@@ -15,7 +28,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F184/index.m3u8?st=_hf9_JHXOUYNcXiSqXClMA&e=1795694479"
+     "url": "https://candyshop.st/live3/F184/index.m3u8?st=iDOy37m0AJJRk1MVIuXQjQ&e=1795696298"
     }
    ]
   }
