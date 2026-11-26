@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:16:53.662893+00:00",
+ "generated": "2026-11-26T06:31:53.985959+00:00",
  "games": [
   {
    "title": "Montr\u00e9al - Colorado",
@@ -20,10 +20,6 @@
     {
      "name": "1080p away",
      "url": "https://candyshop.st/live3/F183/index.m3u8?st=7Bz8tOwiwuwgkgUe9tqigQ&e=1795683657"
-    },
-    {
-     "name": "540p home",
-     "url": "https://candyshop.st/live3/F68/index.m3u8?st=vT1cphm9bmJiGbc6-PoYbQ&e=1795683611"
     }
    ]
   },
