@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-26T04:01:57.708007+00:00",
+ "generated": "2026-11-26T04:16:56.007119+00:00",
  "games": [
   {
    "title": "Nashville - Dallas",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge.candyshop.st/live3/F178/index.m3u8?st=lTj4ihwO2U1x1DJ3mjGdKg&e=1795674605"
+     "url": "https://candyshop.st/live3/F178/index.m3u8?st=IigsX9Izj1ZtFTFXnkzYpg&e=1795676433"
     }
    ]
   },
@@ -15,7 +15,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://candyshop.st/live3/F179/index.m3u8?st=TujkgPsd02YttBcwL5JdXg&e=1795674628"
+     "url": "https://edge.candyshop.st/live3/F179/index.m3u8?st=h0kwjuzR3krXL44cwOWkvw&e=1795676463"
     }
    ]
   },
@@ -24,11 +24,11 @@
    "feeds": [
     {
      "name": "1080p home",
-     "url": "https://edge.candyshop.st/live3/F180/index.m3u8?st=O_ahz8CAGbDdrlKikSo10w&e=1795674671"
+     "url": "https://edge.candyshop.st/live3/F180/index.m3u8?st=aEUzbh8X4AsAknSvj-EuVw&e=1795676499"
     },
     {
      "name": "1080p french",
-     "url": "https://edge.candyshop.st/live3/F146/index.m3u8?st=iGv6kAPcqg72fCqby2WMEw&e=1795674710"
+     "url": "https://candyshop.st/live3/F146/index.m3u8?st=-_DQUhneZtY7SLW9rBUK-w&e=1795676866"
     }
    ]
   },
@@ -37,11 +37,11 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://candyshop.st/live3/F183/index.m3u8?st=X2HqR5AwTxb7K7QGF4DcZA&e=1795674771"
+     "url": "https://edge1.candyshop.st/live3/F183/index.m3u8?st=I34gAfifWDmGaODB75poLw&e=1795676612"
     },
     {
      "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F182/index.m3u8?st=72wOOR9oz6UcT4kdM_SXBg&e=1795675181"
+     "url": "https://edge.candyshop.st/live3/F182/index.m3u8?st=DET59kFgzc5tBqy228aKgw&e=1795676572"
     }
    ]
   },
@@ -50,7 +50,7 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://candyshop.st/live3/F185/index.m3u8?st=CJWIQKjZBtUT3s5bu7NEWQ&e=1795675188"
+     "url": "https://edge.candyshop.st/live3/F185/index.m3u8?st=ig9uJxYgRbj0ftHPfiecCw&e=1795676681"
     }
    ]
   }
