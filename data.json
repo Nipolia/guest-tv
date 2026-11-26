@@ -1,9 +1,13 @@
 {
- "generated": "2026-11-26T02:32:37.856318+00:00",
+ "generated": "2026-11-26T02:47:05.160794+00:00",
  "games": [
   {
    "title": "Winnipeg - Boston",
    "feeds": [
+    {
+     "name": "720p away",
+     "url": "https://edge1.candyshop.st/live3/F132/index.m3u8?st=pXzHASiWbMADaH-McoDx6Q&e=1795671620"
+    },
     {
      "name": "540p home",
      "url": "https://edge.candyshop.st/live3/F131/index.m3u8?st=y01qaRrcIHQ0pC82vZD7eA&e=1795670074"
@@ -39,6 +43,10 @@
   {
    "title": "NY - Buffalo",
    "feeds": [
+    {
+     "name": "1080p home",
+     "url": "https://edge1.candyshop.st/live3/F133/index.m3u8?st=5Vzni0r5uUa2ZbdZfUlEXQ&e=1795671038"
+    },
     {
      "name": "576p away",
      "url": "https://candyshop.st/live3/F134/index.m3u8?st=TWTSq18miSIPJoE99BUaVg&e=1795670152"
@@ -120,7 +128,7 @@
      "url": "https://candyshop.st/live3/F146/index.m3u8?st=811uXH0eecUBHx0x72MoYw&e=1795670570"
     },
     {
-     "name": "home",
+     "name": "1080p home",
      "url": "https://edge1.candyshop.st/live3/F180/index.m3u8?st=vEm0nQELfnhcjpcwImbQBQ&e=1795670524"
     }
    ]
