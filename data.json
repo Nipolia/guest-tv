@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T21:02:08.737633+00:00",
+ "generated": "2026-11-27T21:17:01.883047+00:00",
  "games": [
   {
    "title": "Toronto - Boston",
@@ -69,10 +69,6 @@
     {
      "name": "720p home",
      "url": "https://edge1.candyshop.st/live3/F139/index.m3u8?st=KgN1WENAiWSO6xPougNIsg&e=1795822728"
-    },
-    {
-     "name": "720p away",
-     "url": "https://edge.candyshop.st/live3/F140/index.m3u8?st=_KPjOCsDgnpBgQd1eRVJWw&e=1795823823"
     }
    ]
   },
