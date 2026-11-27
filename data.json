@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T19:02:19.325618+00:00",
+ "generated": "2026-11-27T19:17:02.696845+00:00",
  "games": [
   {
    "title": "Toronto - Boston",
@@ -17,6 +17,10 @@
   {
    "title": "Calgary - New Jersey",
    "feeds": [
+    {
+     "name": "1080p away",
+     "url": "https://candyshop.st/live3/F134/index.m3u8?st=6lmx8PEvBeerskEZfYkzUw&e=1795817067"
+    },
     {
      "name": "720p home",
      "url": "https://edge1.candyshop.st/live3/F133/index.m3u8?st=mM0-0c9cvTfMxKOfdghoBg&e=1795815897"
