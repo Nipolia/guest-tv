@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-27T19:17:02.696845+00:00",
+ "generated": "2026-11-27T19:32:27.910044+00:00",
  "games": [
   {
    "title": "Toronto - Boston",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://edge.candyshop.st/live3/F132/index.m3u8?st=sFVfpMVyMg1CR-rR2daQKg&e=1795815837"
+     "url": "https://edge.candyshop.st/live3/F132/index.m3u8?st=nt493K_cAd9BD73d2n6uOQ&e=1795818029"
     },
     {
      "name": "540p home",
-     "url": "https://edge1.candyshop.st/live3/F131/index.m3u8?st=AXKpSFLHVbFyXE-8byuljA&e=1795815808"
+     "url": "https://candyshop.st/live3/F69/index.m3u8?st=8HE993hP7ZlHjrSiptO8sg&e=1795818003"
     }
    ]
   },
@@ -19,20 +19,20 @@
    "feeds": [
     {
      "name": "1080p away",
-     "url": "https://candyshop.st/live3/F134/index.m3u8?st=6lmx8PEvBeerskEZfYkzUw&e=1795817067"
+     "url": "https://edge1.candyshop.st/live3/F134/index.m3u8?st=rmcppJvcgBygvC7-43OLNQ&e=1795818125"
     },
     {
      "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F133/index.m3u8?st=mM0-0c9cvTfMxKOfdghoBg&e=1795815897"
+     "url": "https://edge.candyshop.st/live3/F133/index.m3u8?st=zJX_gyGIULCthQn7vodI7g&e=1795818093"
     }
    ]
   },
   {
-   "title": "Utah - Nashville",
+   "title": "Dallas - St. Louis",
    "feeds": [
     {
-     "name": "540p home",
-     "url": "https://edge1.candyshop.st/live3/F135/index.m3u8?st=MGk_VO4-mdSNAu-tJt3SDQ&e=1795815984"
+     "name": "720p home",
+     "url": "https://candyshop.st/live3/F136/index.m3u8?st=RMTZ-1x6SwLr29xALOFNBg&e=1795818224"
     }
    ]
   }
