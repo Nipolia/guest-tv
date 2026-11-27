@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T22:02:12.193368+00:00",
+ "generated": "2026-11-27T22:17:01.082518+00:00",
  "games": [
   {
    "title": "Detroit - Columbus",
@@ -29,10 +29,6 @@
     {
      "name": "720p home",
      "url": "https://edge.candyshop.st/live3/F139/index.m3u8?st=KWEz7UrA5WnT-_YWNws23g&e=1795826716"
-    },
-    {
-     "name": "away",
-     "url": "https://edge.candyshop.st/live3/F140/index.m3u8?st=_IY8Dw5cq8gAVC7VZIjqhw&e=1795826741"
     }
    ]
   },
