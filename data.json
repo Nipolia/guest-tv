@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T19:32:27.910044+00:00",
+ "generated": "2026-11-27T19:47:03.099627+00:00",
  "games": [
   {
    "title": "Toronto - Boston",
@@ -11,6 +11,10 @@
     {
      "name": "540p home",
      "url": "https://candyshop.st/live3/F69/index.m3u8?st=8HE993hP7ZlHjrSiptO8sg&e=1795818003"
+    },
+    {
+     "name": "540p home",
+     "url": "https://edge1.candyshop.st/live3/F131/index.m3u8?st=9nTfBZrAd7YFqJSEGJSYcQ&e=1795818694"
     }
    ]
   },
@@ -24,6 +28,15 @@
     {
      "name": "720p home",
      "url": "https://edge.candyshop.st/live3/F133/index.m3u8?st=zJX_gyGIULCthQn7vodI7g&e=1795818093"
+    }
+   ]
+  },
+  {
+   "title": "Utah - Nashville",
+   "feeds": [
+    {
+     "name": "540p home",
+     "url": "https://edge.candyshop.st/live3/F135/index.m3u8?st=M9hg5Ij1gM7-3u1Kpd058w&e=1795818699"
     }
    ]
   },
