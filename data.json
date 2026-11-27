@@ -1,20 +1,16 @@
 {
- "generated": "2026-11-27T18:47:01.088589+00:00",
+ "generated": "2026-11-27T19:02:19.325618+00:00",
  "games": [
   {
    "title": "Toronto - Boston",
    "feeds": [
     {
      "name": "720p away",
-     "url": "https://candyshop.st/live3/F132/index.m3u8?st=iQ4aX5-b07XmO_OTMKiJiQ&e=1795813606"
+     "url": "https://edge.candyshop.st/live3/F132/index.m3u8?st=sFVfpMVyMg1CR-rR2daQKg&e=1795815837"
     },
     {
      "name": "540p home",
-     "url": "https://edge.candyshop.st/live3/F131/index.m3u8?st=62hfFci9lRnIG3EQQtlNVA&e=1795813571"
-    },
-    {
-     "name": "540p home",
-     "url": "https://edge1.candyshop.st/live3/F69/index.m3u8?st=wiz4xUoub2zwFdeWJylhjg&e=1795813573"
+     "url": "https://edge1.candyshop.st/live3/F131/index.m3u8?st=AXKpSFLHVbFyXE-8byuljA&e=1795815808"
     }
    ]
   },
@@ -22,12 +18,8 @@
    "title": "Calgary - New Jersey",
    "feeds": [
     {
-     "name": "1080p away",
-     "url": "https://edge1.candyshop.st/live3/F134/index.m3u8?st=AHWH9hIIwY-3FrbR4_nxFg&e=1795813692"
-    },
-    {
      "name": "720p home",
-     "url": "https://edge.candyshop.st/live3/F133/index.m3u8?st=k9kSYwcImXi6KF1BdG-19A&e=1795813672"
+     "url": "https://edge1.candyshop.st/live3/F133/index.m3u8?st=mM0-0c9cvTfMxKOfdghoBg&e=1795815897"
     }
    ]
   },
@@ -36,7 +28,7 @@
    "feeds": [
     {
      "name": "540p home",
-     "url": "https://edge.candyshop.st/live3/F135/index.m3u8?st=N8m983O38wnDK8L0HyMJsw&e=1795813753"
+     "url": "https://edge1.candyshop.st/live3/F135/index.m3u8?st=MGk_VO4-mdSNAu-tJt3SDQ&e=1795815984"
     }
    ]
   }
