@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T20:17:20.637102+00:00",
+ "generated": "2026-11-27T20:32:05.584901+00:00",
  "games": [
   {
    "title": "Toronto - Boston",
@@ -64,10 +64,6 @@
     {
      "name": "1080p away",
      "url": "https://candyshop.st/live3/F138/index.m3u8?st=YIP1Xllw_r_IEiBfk92LRw&e=1795821037"
-    },
-    {
-     "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F137/index.m3u8?st=VXaPeMZbAFExhGIStiEf-A&e=1795821036"
     }
    ]
   },
@@ -76,11 +72,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://candyshop.st/live3/F139/index.m3u8?st=KOTa9QU5sHwmfICbc3lR2A&e=1795821042"
-    },
-    {
-     "name": "away",
-     "url": "https://candyshop.st/live3/F140/index.m3u8?st=sb8TugLp9-DVH3WvqYEvwg&e=1795820432"
+     "url": "https://edge1.candyshop.st/live3/F139/index.m3u8?st=K6GaJoGtluLkcRzojZ2iFw&e=1795821747"
     }
    ]
   },
