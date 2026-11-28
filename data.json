@@ -1,29 +1,16 @@
 {
- "generated": "2026-11-28T01:32:00.256216+00:00",
+ "generated": "2026-11-28T01:46:58.197552+00:00",
  "games": [
-  {
-   "title": "NY - Chicago",
-   "feeds": [
-    {
-     "name": "1080p english",
-     "url": "https://edge1.candyshop.st/live3/F119/index.m3u8?st=LICFmL4o8pe_9Q1_xOd3CQ&e=1795838394"
-    },
-    {
-     "name": "1080p english",
-     "url": "https://candyshop.st/live3/F179/index.m3u8?st=eWws6ar4wD5iyV5u4jfoFQ&e=1795838838"
-    }
-   ]
-  },
   {
    "title": "Winnipeg - NY",
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge.candyshop.st/live3/F180/index.m3u8?st=bveARIIQTcLzOCgZODrXKQ&e=1795838428"
+     "url": "https://candyshop.st/live3/F180/index.m3u8?st=d3HeMt6bbml4Juu4ydCk0g&e=1795840225"
     },
     {
      "name": "720p away",
-     "url": "https://candyshop.st/live3/F181/index.m3u8?st=mE_UZrekOop86d2S_glcrg&e=1795838465"
+     "url": "https://edge1.candyshop.st/live3/F181/index.m3u8?st=v_d8C1rrQoKhFN1qltRzQw&e=1795840256"
     }
    ]
   },
@@ -32,11 +19,11 @@
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://edge.candyshop.st/live3/F182/index.m3u8?st=amZ-LQ7raT2QSZiTbGwXtg&e=1795838481"
+     "url": "https://candyshop.st/live3/F182/index.m3u8?st=0nV2MpDg1y4AE6ZdUROOBw&e=1795840269"
     },
     {
      "name": "1080p english",
-     "url": "https://candyshop.st/live3/F119/index.m3u8?st=SNPhXlCx-9BlO8rxQHEK_w&e=1795838483"
+     "url": "https://edge.candyshop.st/live3/F119/index.m3u8?st=vlHRz8FiECjzUfLGvnWnIg&e=1795840732"
     }
    ]
   },
@@ -45,7 +32,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F183/index.m3u8?st=74t0wHNXGbD4LhtZk_8RUQ&e=1795838850"
+     "url": "https://candyshop.st/live3/F183/index.m3u8?st=ywQhEThNI85cEmEkP0suPg&e=1795840323"
     }
    ]
   }
