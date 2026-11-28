@@ -1,19 +1,6 @@
 {
- "generated": "2026-11-28T00:17:04.340179+00:00",
+ "generated": "2026-11-28T00:32:01.005400+00:00",
  "games": [
-  {
-   "title": "Colorado - Minnesota",
-   "feeds": [
-    {
-     "name": "1080p away",
-     "url": "https://candyshop.st/live3/F175/index.m3u8?st=8sMqYKFdeuYQgoAGiafJpQ&e=1795834616"
-    },
-    {
-     "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F174/index.m3u8?st=X_up13VTuPZUXza-cxCv2Q&e=1795835337"
-    }
-   ]
-  },
   {
    "title": "Los Angeles - Anaheim",
    "feeds": [
@@ -32,7 +19,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge.candyshop.st/live3/F178/index.m3u8?st=yyiW6uBo6YTDDW2SR2SvCA&e=1795834712"
+     "url": "https://edge.candyshop.st/live3/F178/index.m3u8?st=GGMjZrZy6-e798yW40C5rg&e=1795836020"
     }
    ]
   },
