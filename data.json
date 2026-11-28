@@ -1,38 +1,16 @@
 {
- "generated": "2026-11-28T00:32:01.005400+00:00",
+ "generated": "2026-11-28T00:46:56.906767+00:00",
  "games": [
-  {
-   "title": "Los Angeles - Anaheim",
-   "feeds": [
-    {
-     "name": "720p home",
-     "url": "https://edge.candyshop.st/live3/F177/index.m3u8?st=Q6-A2PhSmQ8Zr9Q7fvuMwA&e=1795835342"
-    },
-    {
-     "name": "540p home",
-     "url": "https://candyshop.st/live3/F69/index.m3u8?st=Z1vS33dSgpjZ2_Z8hSjbJw&e=1795835344"
-    }
-   ]
-  },
-  {
-   "title": "Vegas - San Jose",
-   "feeds": [
-    {
-     "name": "720p home",
-     "url": "https://edge.candyshop.st/live3/F178/index.m3u8?st=GGMjZrZy6-e798yW40C5rg&e=1795836020"
-    }
-   ]
-  },
   {
    "title": "NY - Chicago",
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://edge.candyshop.st/live3/F179/index.m3u8?st=bRBjZ51AvXu0pGqTvVaY9w&e=1795834794"
+     "url": "https://edge.candyshop.st/live3/F179/index.m3u8?st=qCRobiIf_XOIR2mu88Mrkg&e=1795836624"
     },
     {
      "name": "1080p english",
-     "url": "https://edge1.candyshop.st/live3/F119/index.m3u8?st=2r3yal9Xhw90uaukDPmRDw&e=1795835356"
+     "url": "https://edge1.candyshop.st/live3/F119/index.m3u8?st=oCLqKwJo54TpJ2EfCA8beA&e=1795836624"
     }
    ]
   },
@@ -41,11 +19,11 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://candyshop.st/live3/F180/index.m3u8?st=onWom3vBdIUUNGxJvnQJLw&e=1795835361"
+     "url": "https://edge.candyshop.st/live3/F180/index.m3u8?st=vMtcx_TfyE0dvM-3f72XJw&e=1795836662"
     },
     {
      "name": "720p away",
-     "url": "https://edge1.candyshop.st/live3/F181/index.m3u8?st=2Xbf2q-SOtO4eBM4QzrdWQ&e=1795835711"
+     "url": "https://edge1.candyshop.st/live3/F181/index.m3u8?st=SUDIhCJHGiWdsS25-rz2Og&e=1795836967"
     }
    ]
   },
@@ -54,11 +32,11 @@
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://edge1.candyshop.st/live3/F119/index.m3u8?st=qXMK4nUt8EwASxT0dV_MYA&e=1795834875"
+     "url": "https://candyshop.st/live3/F182/index.m3u8?st=DzqfVKc2g0i-v-BIOHzXXA&e=1795836708"
     },
     {
      "name": "1080p english",
-     "url": "https://edge.candyshop.st/live3/F182/index.m3u8?st=QXHRrX82CQLMPdk-8nSY7Q&e=1795835367"
+     "url": "https://edge1.candyshop.st/live3/F119/index.m3u8?st=j9wUvBl3V9Ejogkc4N2AHQ&e=1795836711"
     }
    ]
   },
@@ -67,7 +45,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://candyshop.st/live3/F183/index.m3u8?st=Lt2hWXmQPLzSbE_sxPvohA&e=1795834911"
+     "url": "https://candyshop.st/live3/F183/index.m3u8?st=dYqJDsr8hqfcNFfAkDvQ3A&e=1795836746"
     }
    ]
   }
