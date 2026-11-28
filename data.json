@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T06:01:54.887307+00:00",
+ "generated": "2026-11-28T06:16:53.233425+00:00",
  "games": [
   {
    "title": "Pittsburgh - Buffalo",
@@ -11,10 +11,6 @@
     {
      "name": "1080p english",
      "url": "https://edge.candyshop.st/live3/F182/index.m3u8?st=QnMcSCi4fRecXihxgrvh8g&e=1795856456"
-    },
-    {
-     "name": "english",
-     "url": "https://edge1.candyshop.st/live3/F68/index.m3u8?st=-mGDmY83Hwfct9Xo0Levhg&e=1795856156"
     }
    ]
   },
