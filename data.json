@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-28T04:46:54.038670+00:00",
+ "generated": "2026-11-28T05:02:02.280456+00:00",
  "games": [
   {
    "title": "Pittsburgh - Buffalo",
    "feeds": [
     {
      "name": "1080p english",
-     "url": "https://edge.candyshop.st/live3/F119/index.m3u8?st=at8bvq_jnFJFiQQ3TeSMUQ&e=1795850846"
+     "url": "https://candyshop.st/live3/F182/index.m3u8?st=MQkoUE0TZAFZCGmLql0jYw&e=1795852656"
     },
     {
      "name": "1080p english",
-     "url": "https://candyshop.st/live3/F182/index.m3u8?st=Ta7xY_Msivz2p5M4-HBY3A&e=1795851145"
+     "url": "https://edge.candyshop.st/live3/F119/index.m3u8?st=3-f4L-Culk593InIOOov7Q&e=1795852656"
     }
    ]
   },
@@ -19,7 +19,7 @@
    "feeds": [
     {
      "name": "720p home",
-     "url": "https://edge1.candyshop.st/live3/F183/index.m3u8?st=2jcAeaf9CY5FYGrE9qyYIw&e=1795850899"
+     "url": "https://edge1.candyshop.st/live3/F183/index.m3u8?st=A8SIfA6MXTIA7PbLfN_edw&e=1795852706"
     }
    ]
   }
